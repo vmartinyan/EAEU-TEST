@@ -1,0 +1,13 @@
+			@font-face {
+				font-family: 'myriadpro';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/180830064826MyriadPro.eot');
+				src: local('myriadpro'), url('/wp-content/uploads/useanyfont/180830064826MyriadPro.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/180830064826MyriadPro.woff') format('woff');
+			}
+            
+            .myriadpro{font-family: 'myriadpro' !important;}
+            
+						body, h1, h2, h3, h4, h5, h6, p, blockquote, li, a{
+					font-family: 'myriadpro' !important;
+				}
+		

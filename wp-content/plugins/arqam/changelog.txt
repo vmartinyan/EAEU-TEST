@@ -1,0 +1,341 @@
+*** Arqam Changelog ***
+-------------------------------------------------------------------------
+
+Version 2.4.0 - 29-01-2018
+- Added: MailPoet 3 plugin support.
+- Added: Mailster plugin support.
+- REMOVED: Vine Social Counter.
+- REMOVED: myMail Counter.
+- REMOVED: MailPoet 2.0 Counter.
+- And other improvements and minor bug fixes.
+
+
+-------------------------------------------------------------------------
+
+Version 2.3.1 - 02-04-2017
+- Improvements and minor bug fixes.
+
+Files Updated
+- arqam.php
+- back-end.php
+- counters.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 2.3.0 - 05-10-2016
+- Updated: Twitch.tv API.
+- Improved: PHP 7 Compatibility. 
+- And Improvements and minor bug fixes.
+
+Files Updated
+- arqam.php
+- back-end.php
+- counters.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 2.2.0 - 24-06-2016
+- Updated: Instagram’s icon and color.
+- Fixed: Warning message after activating the plugin.
+- Removed: delicious Social counter.
+- And Improvements and minor bug fixes.
+
+Files Updated
+- arqam.php
+- back-end.php
+- counters.php
+- assets/style.css
+- fonts/ (folder)
+
+
+-------------------------------------------------------------------------
+
+Version 2.1.0 - 15-05-2016
+- Added: LinkedIn profile connections number.
+- Updated: FaceBook API 2.6.0
+- Updated: Google+ new icon.
+- Updated: 500px new icon.
+- Updated: Mixcloud font icon.
+- Updated: Plugin's Documentations.
+- Improved: Plugin’s functions.
+- Improved: Linked Companies Counter.
+- And Improvements and minor bug fixes.
+
+Files Updated
+- Please replace whole folder. We changed too many files in this version.
+
+
+-------------------------------------------------------------------------
+
+Version 2.0.6 - 27-03-2016
+- Improvements and minor bug fixes.
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+- assets/js/admin.js
+
+
+-------------------------------------------------------------------------
+
+Version 2.0.5 - 18-03-2016
+- Fixed: Compatibility issue with WordPress 4.4.2
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 2.0.4 - 12-10-2015
+- Updated: Dribbble API 1.0 - Now you need to set a Client Access Token, check the Documentation for more information.
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 2.0.3 - 23-08-2015
+- Updated: The plugin is now WordPress 4.3 ready.
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+- If your current version is 1+ Please replace the whole folder. We changed too many files in v2.0
+
+
+-------------------------------------------------------------------------
+
+Version 2.0.2 - 19-08-2015
+- Improved: Updating from v 1.0+
+- Fixed: javascript conflict with some plugins.
+- Fixed: Facebook counter bug.
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+- assets/js/admin.js
+
+- If your current version is 1+ Please replace the whole folder. We changed too many files in v2.0
+
+
+-------------------------------------------------------------------------
+
+Version 2.0.1 - 17-08-2015
+- Fixed: Loading options bug in the dashboard.
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+- If your current version is 1+ Please replace the whole folder. We changed too many files in v2.0
+
+
+-------------------------------------------------------------------------
+
+Version 2.0.0 - 16-08-2015
+- NEW FEATURE: Spotify user and artist Followers Counter.
+- NEW FEATURE: Goodreads user and artist Followers Counter.
+- NEW FEATURE: Mixcloud Followers Counter.
+- NEW FEATURE: Twitch Followers Counter.
+- NEW FEATURE: bbPress topics, replies and forums counters.
+- NEW FEATURE: BuddyPress groups counter.
+- NEW FEATURE: myMail plugin subscribers counter.
+- NEW FEATURE: Mailpoet plugin subscribers counter.
+- NEW FEATURE: New options to set a url for posts, comments and members counters.
+- NEW FEATURE: Arqam shortcode to display your networks anywhere throughout your website.
+- NEW FEATURE: New Metro style.
+- NEW FEATURE: New Colored border icons style.
+- NEW FEATURE: 1 Column option for the flat style.
+- NEW FEATURE: New colors options to set a custom colors for items.
+- NEW FEATURE: compatibility with the Visual Composer plugin.
+- Improved: Width field now supports px and %.
+- Improved: New Envato icon.
+- Improved: New Foursquare icon.
+- Improved: Reduced the number of Api calls for twitter, steam and feedpress.
+- Updated: Plugin's Documentations.
+- Updated: Languages Files.
+- Removed: Forrst Social counter as Zurb shut down it’s API.
+- And Improvements and minor bug fixes.
+
+Files Updated
+- Please replace whole folder. We changed too many files in this version.
+
+
+-------------------------------------------------------------------------
+
+Version 1.7.3 - 01-07-2015
+- Fixed: 500px counter bug.
+
+Files Updated
+- arqam.php
+- assets/style.css
+
+-------------------------------------------------------------------------
+
+Version 1.7.2 - 30-06-2015
+- Updated: Youtube API 3.0 - Now you need to get API Key ... check the Documentation for more information.
+- Updated: Plugin's Documentations.
+- Updated: Languages Files.
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+-------------------------------------------------------------------------
+
+
+Version 1.7.1 - 12-05-2015
+- Fixed: LinkedIn Groups counter bug.
+
+Files Updated
+- arqam.php
+- assets/style.css
+
+-------------------------------------------------------------------------
+
+
+Version 1.7.0 - 07-05-2015
+- Updated: LinkedIn API (BETA) - Now you need to set the full URL of the Group or the Company Page.
+- Updated: The method of getting the Instagram and Foursquare access token … check the Documentation for more information.
+- Updated: Plugin's Documentations.
+- Updated: Languages Files.
+- Fixed: Pintrest counter bug.
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+-------------------------------------------------------------------------
+
+
+Version 1.6.0 - 03-09-2014
+- Updated: FaceBook API 2.0 - Now you need to get app access token ... check the Documentation for more information.
+- Updated: Plugin's Documentations.
+- Updated: Languages Files.
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+-------------------------------------------------------------------------
+
+Version 1.5.0 - 11-05-2014
+- Added: Google+ API - Now you need to enter your Google API Key in Arqam panel page.
+- Added: Google+ Counter for the user profiles.
+- Fixed: SVG file not found bug.
+- Fixed: IE8 icons Apperance bug.
+- Fixed: Linkedin counter bug.
+- Updated: Plugin's Documentations.
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+-------------------------------------------------------------------------
+
+
+Version 1.4.0 - 23-03-2014
+- Added: Tumblr blog Followers Counter.
+- Added: 500px user Followers Counter.
+- Added: Vine user Followers Counter.
+- Added: Pinterest user Followers Counter.
+- Added: Flickr group Members Counter.
+- Added: Steam group Members Counter.
+- Added: Members Number Counter.
+- Added: RSS Subscribers Number Counter ( Feedpress.it / Manual ) .
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+-------------------------------------------------------------------------
+
+Version 1.3.0 - 08-12-2013
+- Added: Linkedin Groups Members Counter .
+
+-------------------------------------------------------------------------
+
+Version 1.2.0 - 04-12-2013
+- Added: Linkedin Companies Followers Counter .
+- Added: VK Communities Members Counter .
+- Added: Posts Number Counter .
+- Added: Comments Number Counter .
+- Added: Custom css code area .
+
+Files updated
+- Please replace whole folder. We changed too many files in this version.
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.4 - 20-10-2013
+- Fixed: Google+ Counter issue .
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.3 - 10-10-2013
+- Fixed: Google+ Counter issue, Now you need to enter your google page ID in Arqam panel.
+- Updated: Languages Files .
+- Updated: Plugin's Documentations .
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.2 - 15-08-2013
+- Fixed: Twitter Counter issue .. Now you need to set your APP Consumer key and Consumer secret  .
+- Improved: some styles issues .
+- Updated: Languages Files .
+- Updated: Plugin's Documentations .
+
+Files Updated
+- arqam.php
+- arqam-panel.php
+- assets/style.css
+
+
+-------------------------------------------------------------------------
+
+Version 1.1.1 - 05-08-2013
+- Fixed: Mailchimp Counter bug .
+
+Files Updated
+- arqam.php
+
+-------------------------------------------------------------------------
+
+Version 1.1.0 - 31-07-2013
+- Added: Foursquare Friends counter .
+- Added: Instagram Followers counter .
+- Added: MailChimp Subscribers counter.
+- Improved: Google plus and Cache functions .
+
+-------------------------------------------------------------------------
+
+Version 1.0.0
+- First release

@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'myriadpro';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/180830064826MyriadPro.eot');
+				src: local('myriadpro'), url('/wp-content/uploads/useanyfont/180830064826MyriadPro.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/180830064826MyriadPro.woff') format('woff');
+			}
+            
+            .et_gf_myriadpro{background:none !important;font-family:myriadpro;text-indent:0 !important;font-size:25px;}
+            
+		

@@ -1,0 +1,443 @@
+array (
+  0 => 
+  array (
+    'id' => '1',
+    'lang_code' => 'ar',
+    'flag' => 'ar.png',
+    'from_template' => '0',
+  ),
+  1 => 
+  array (
+    'id' => '2',
+    'lang_code' => 'bg',
+    'flag' => 'bg.png',
+    'from_template' => '0',
+  ),
+  2 => 
+  array (
+    'id' => '3',
+    'lang_code' => 'bs',
+    'flag' => 'bs.png',
+    'from_template' => '0',
+  ),
+  3 => 
+  array (
+    'id' => '4',
+    'lang_code' => 'ca',
+    'flag' => 'ca.png',
+    'from_template' => '0',
+  ),
+  4 => 
+  array (
+    'id' => '5',
+    'lang_code' => 'cs',
+    'flag' => 'cs.png',
+    'from_template' => '0',
+  ),
+  5 => 
+  array (
+    'id' => '6',
+    'lang_code' => 'cy',
+    'flag' => 'cy.png',
+    'from_template' => '0',
+  ),
+  6 => 
+  array (
+    'id' => '7',
+    'lang_code' => 'da',
+    'flag' => 'da.png',
+    'from_template' => '0',
+  ),
+  7 => 
+  array (
+    'id' => '8',
+    'lang_code' => 'de',
+    'flag' => 'de.png',
+    'from_template' => '0',
+  ),
+  8 => 
+  array (
+    'id' => '9',
+    'lang_code' => 'el',
+    'flag' => 'el.png',
+    'from_template' => '0',
+  ),
+  9 => 
+  array (
+    'id' => '10',
+    'lang_code' => 'en',
+    'flag' => 'en.png',
+    'from_template' => '0',
+  ),
+  10 => 
+  array (
+    'id' => '11',
+    'lang_code' => 'eo',
+    'flag' => 'eo.png',
+    'from_template' => '0',
+  ),
+  11 => 
+  array (
+    'id' => '12',
+    'lang_code' => 'es',
+    'flag' => 'es.png',
+    'from_template' => '0',
+  ),
+  12 => 
+  array (
+    'id' => '13',
+    'lang_code' => 'et',
+    'flag' => 'et.png',
+    'from_template' => '0',
+  ),
+  13 => 
+  array (
+    'id' => '14',
+    'lang_code' => 'eu',
+    'flag' => 'eu.png',
+    'from_template' => '0',
+  ),
+  14 => 
+  array (
+    'id' => '15',
+    'lang_code' => 'fa',
+    'flag' => 'fa.png',
+    'from_template' => '0',
+  ),
+  15 => 
+  array (
+    'id' => '16',
+    'lang_code' => 'fi',
+    'flag' => 'fi.png',
+    'from_template' => '0',
+  ),
+  16 => 
+  array (
+    'id' => '17',
+    'lang_code' => 'fr',
+    'flag' => 'fr.png',
+    'from_template' => '0',
+  ),
+  17 => 
+  array (
+    'id' => '18',
+    'lang_code' => 'ga',
+    'flag' => 'ga.png',
+    'from_template' => '0',
+  ),
+  18 => 
+  array (
+    'id' => '19',
+    'lang_code' => 'he',
+    'flag' => 'he.png',
+    'from_template' => '0',
+  ),
+  19 => 
+  array (
+    'id' => '20',
+    'lang_code' => 'hi',
+    'flag' => 'hi.png',
+    'from_template' => '0',
+  ),
+  20 => 
+  array (
+    'id' => '21',
+    'lang_code' => 'hr',
+    'flag' => 'hr.png',
+    'from_template' => '0',
+  ),
+  21 => 
+  array (
+    'id' => '22',
+    'lang_code' => 'hu',
+    'flag' => 'hu.png',
+    'from_template' => '0',
+  ),
+  22 => 
+  array (
+    'id' => '23',
+    'lang_code' => 'hy',
+    'flag' => 'hy.png',
+    'from_template' => '0',
+  ),
+  23 => 
+  array (
+    'id' => '24',
+    'lang_code' => 'id',
+    'flag' => 'id.png',
+    'from_template' => '0',
+  ),
+  24 => 
+  array (
+    'id' => '25',
+    'lang_code' => 'is',
+    'flag' => 'is.png',
+    'from_template' => '0',
+  ),
+  25 => 
+  array (
+    'id' => '26',
+    'lang_code' => 'it',
+    'flag' => 'it.png',
+    'from_template' => '0',
+  ),
+  26 => 
+  array (
+    'id' => '27',
+    'lang_code' => 'ja',
+    'flag' => 'ja.png',
+    'from_template' => '0',
+  ),
+  27 => 
+  array (
+    'id' => '28',
+    'lang_code' => 'ko',
+    'flag' => 'ko.png',
+    'from_template' => '0',
+  ),
+  28 => 
+  array (
+    'id' => '29',
+    'lang_code' => 'ku',
+    'flag' => 'ku.png',
+    'from_template' => '0',
+  ),
+  29 => 
+  array (
+    'id' => '30',
+    'lang_code' => 'la',
+    'flag' => 'la.png',
+    'from_template' => '0',
+  ),
+  30 => 
+  array (
+    'id' => '31',
+    'lang_code' => 'lt',
+    'flag' => 'lt.png',
+    'from_template' => '0',
+  ),
+  31 => 
+  array (
+    'id' => '32',
+    'lang_code' => 'lv',
+    'flag' => 'lv.png',
+    'from_template' => '0',
+  ),
+  32 => 
+  array (
+    'id' => '33',
+    'lang_code' => 'mk',
+    'flag' => 'mk.png',
+    'from_template' => '0',
+  ),
+  33 => 
+  array (
+    'id' => '34',
+    'lang_code' => 'mn',
+    'flag' => 'mn.png',
+    'from_template' => '0',
+  ),
+  34 => 
+  array (
+    'id' => '35',
+    'lang_code' => 'ms',
+    'flag' => 'ms.png',
+    'from_template' => '0',
+  ),
+  35 => 
+  array (
+    'id' => '36',
+    'lang_code' => 'mt',
+    'flag' => 'mt.png',
+    'from_template' => '0',
+  ),
+  36 => 
+  array (
+    'id' => '37',
+    'lang_code' => 'ne',
+    'flag' => 'ne.png',
+    'from_template' => '0',
+  ),
+  37 => 
+  array (
+    'id' => '38',
+    'lang_code' => 'nl',
+    'flag' => 'nl.png',
+    'from_template' => '0',
+  ),
+  38 => 
+  array (
+    'id' => '39',
+    'lang_code' => 'no',
+    'flag' => 'no.png',
+    'from_template' => '0',
+  ),
+  39 => 
+  array (
+    'id' => '40',
+    'lang_code' => 'pa',
+    'flag' => 'pa.png',
+    'from_template' => '0',
+  ),
+  40 => 
+  array (
+    'id' => '41',
+    'lang_code' => 'pl',
+    'flag' => 'pl.png',
+    'from_template' => '0',
+  ),
+  41 => 
+  array (
+    'id' => '42',
+    'lang_code' => 'pt-br',
+    'flag' => 'pt-br.png',
+    'from_template' => '0',
+  ),
+  42 => 
+  array (
+    'id' => '43',
+    'lang_code' => 'pt-pt',
+    'flag' => 'pt-pt.png',
+    'from_template' => '0',
+  ),
+  43 => 
+  array (
+    'id' => '44',
+    'lang_code' => 'qu',
+    'flag' => 'qu.png',
+    'from_template' => '0',
+  ),
+  44 => 
+  array (
+    'id' => '45',
+    'lang_code' => 'ro',
+    'flag' => 'ro.png',
+    'from_template' => '0',
+  ),
+  45 => 
+  array (
+    'id' => '46',
+    'lang_code' => 'ru',
+    'flag' => 'ru.png',
+    'from_template' => '0',
+  ),
+  46 => 
+  array (
+    'id' => '47',
+    'lang_code' => 'sk',
+    'flag' => 'sk.png',
+    'from_template' => '0',
+  ),
+  47 => 
+  array (
+    'id' => '48',
+    'lang_code' => 'sl',
+    'flag' => 'sl.png',
+    'from_template' => '0',
+  ),
+  48 => 
+  array (
+    'id' => '49',
+    'lang_code' => 'so',
+    'flag' => 'so.png',
+    'from_template' => '0',
+  ),
+  49 => 
+  array (
+    'id' => '50',
+    'lang_code' => 'sq',
+    'flag' => 'sq.png',
+    'from_template' => '0',
+  ),
+  50 => 
+  array (
+    'id' => '51',
+    'lang_code' => 'sr',
+    'flag' => 'sr.png',
+    'from_template' => '0',
+  ),
+  51 => 
+  array (
+    'id' => '52',
+    'lang_code' => 'sv',
+    'flag' => 'sv.png',
+    'from_template' => '0',
+  ),
+  52 => 
+  array (
+    'id' => '53',
+    'lang_code' => 'ta',
+    'flag' => 'ta.png',
+    'from_template' => '0',
+  ),
+  53 => 
+  array (
+    'id' => '54',
+    'lang_code' => 'th',
+    'flag' => 'th.png',
+    'from_template' => '0',
+  ),
+  54 => 
+  array (
+    'id' => '55',
+    'lang_code' => 'tr',
+    'flag' => 'tr.png',
+    'from_template' => '0',
+  ),
+  55 => 
+  array (
+    'id' => '56',
+    'lang_code' => 'uk',
+    'flag' => 'uk.png',
+    'from_template' => '0',
+  ),
+  56 => 
+  array (
+    'id' => '57',
+    'lang_code' => 'ur',
+    'flag' => 'ur.png',
+    'from_template' => '0',
+  ),
+  57 => 
+  array (
+    'id' => '58',
+    'lang_code' => 'uz',
+    'flag' => 'uz.png',
+    'from_template' => '0',
+  ),
+  58 => 
+  array (
+    'id' => '59',
+    'lang_code' => 'vi',
+    'flag' => 'vi.png',
+    'from_template' => '0',
+  ),
+  59 => 
+  array (
+    'id' => '60',
+    'lang_code' => 'yi',
+    'flag' => 'yi.png',
+    'from_template' => '0',
+  ),
+  60 => 
+  array (
+    'id' => '61',
+    'lang_code' => 'zh-hans',
+    'flag' => 'zh-hans.png',
+    'from_template' => '0',
+  ),
+  61 => 
+  array (
+    'id' => '62',
+    'lang_code' => 'zh-hant',
+    'flag' => 'zh-hant.png',
+    'from_template' => '0',
+  ),
+  62 => 
+  array (
+    'id' => '63',
+    'lang_code' => 'zu',
+    'flag' => 'zu.png',
+    'from_template' => '0',
+  ),
+)

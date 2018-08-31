@@ -1,0 +1,3971 @@
+array (
+  0 => 
+  array (
+    'option_id' => '1',
+    'option_name' => 'siteurl',
+    'option_value' => '__tmm_old_home_url__',
+    'autoload' => 'yes',
+  ),
+  1 => 
+  array (
+    'option_id' => '2',
+    'option_name' => 'home',
+    'option_value' => '__tmm_old_home_url__',
+    'autoload' => 'yes',
+  ),
+  2 => 
+  array (
+    'option_id' => '3',
+    'option_name' => 'blogname',
+    'option_value' => 'EAEU',
+    'autoload' => 'yes',
+  ),
+  3 => 
+  array (
+    'option_id' => '4',
+    'option_name' => 'blogdescription',
+    'option_value' => 'Our World',
+    'autoload' => 'yes',
+  ),
+  4 => 
+  array (
+    'option_id' => '5',
+    'option_name' => 'users_can_register',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  5 => 
+  array (
+    'option_id' => '6',
+    'option_name' => 'admin_email',
+    'option_value' => 'vahram@martinyan.me',
+    'autoload' => 'yes',
+  ),
+  6 => 
+  array (
+    'option_id' => '7',
+    'option_name' => 'start_of_week',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  7 => 
+  array (
+    'option_id' => '8',
+    'option_name' => 'use_balanceTags',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  8 => 
+  array (
+    'option_id' => '9',
+    'option_name' => 'use_smilies',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  9 => 
+  array (
+    'option_id' => '10',
+    'option_name' => 'require_name_email',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  10 => 
+  array (
+    'option_id' => '11',
+    'option_name' => 'comments_notify',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  11 => 
+  array (
+    'option_id' => '12',
+    'option_name' => 'posts_per_rss',
+    'option_value' => '10',
+    'autoload' => 'yes',
+  ),
+  12 => 
+  array (
+    'option_id' => '13',
+    'option_name' => 'rss_use_excerpt',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  13 => 
+  array (
+    'option_id' => '14',
+    'option_name' => 'mailserver_url',
+    'option_value' => 'mail.example.com',
+    'autoload' => 'yes',
+  ),
+  14 => 
+  array (
+    'option_id' => '15',
+    'option_name' => 'mailserver_login',
+    'option_value' => 'login@example.com',
+    'autoload' => 'yes',
+  ),
+  15 => 
+  array (
+    'option_id' => '16',
+    'option_name' => 'mailserver_pass',
+    'option_value' => 'password',
+    'autoload' => 'yes',
+  ),
+  16 => 
+  array (
+    'option_id' => '17',
+    'option_name' => 'mailserver_port',
+    'option_value' => '110',
+    'autoload' => 'yes',
+  ),
+  17 => 
+  array (
+    'option_id' => '18',
+    'option_name' => 'default_category',
+    'option_value' => '18',
+    'autoload' => 'yes',
+  ),
+  18 => 
+  array (
+    'option_id' => '19',
+    'option_name' => 'default_comment_status',
+    'option_value' => 'open',
+    'autoload' => 'yes',
+  ),
+  19 => 
+  array (
+    'option_id' => '20',
+    'option_name' => 'default_ping_status',
+    'option_value' => 'open',
+    'autoload' => 'yes',
+  ),
+  20 => 
+  array (
+    'option_id' => '21',
+    'option_name' => 'default_pingback_flag',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  21 => 
+  array (
+    'option_id' => '22',
+    'option_name' => 'posts_per_page',
+    'option_value' => '7',
+    'autoload' => 'yes',
+  ),
+  22 => 
+  array (
+    'option_id' => '23',
+    'option_name' => 'date_format',
+    'option_value' => 'F j, Y',
+    'autoload' => 'yes',
+  ),
+  23 => 
+  array (
+    'option_id' => '24',
+    'option_name' => 'time_format',
+    'option_value' => 'g:i a',
+    'autoload' => 'yes',
+  ),
+  24 => 
+  array (
+    'option_id' => '25',
+    'option_name' => 'links_updated_date_format',
+    'option_value' => 'F j, Y g:i a',
+    'autoload' => 'yes',
+  ),
+  25 => 
+  array (
+    'option_id' => '26',
+    'option_name' => 'comment_moderation',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  26 => 
+  array (
+    'option_id' => '27',
+    'option_name' => 'moderation_notify',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  27 => 
+  array (
+    'option_id' => '28',
+    'option_name' => 'permalink_structure',
+    'option_value' => '/%postname%/',
+    'autoload' => 'yes',
+  ),
+  28 => 
+  array (
+    'option_id' => '29',
+    'option_name' => 'gzipcompression',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  29 => 
+  array (
+    'option_id' => '30',
+    'option_name' => 'hack_file',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  30 => 
+  array (
+    'option_id' => '31',
+    'option_name' => 'blog_charset',
+    'option_value' => 'UTF-8',
+    'autoload' => 'yes',
+  ),
+  31 => 
+  array (
+    'option_id' => '32',
+    'option_name' => 'moderation_keys',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  32 => 
+  array (
+    'option_id' => '33',
+    'option_name' => 'active_plugins',
+    'option_value' => 
+    array (
+      0 => 'LayerSlider/layerslider.php',
+      1 => 'arqam/arqam.php',
+      2 => 'bbpress/bbpress.php',
+      3 => 'force-regenerate-thumbnails/force-regenerate-thumbnails.php',
+      4 => 'seamless-donations/seamless-donations.php',
+      5 => 'tmm_content_composer/index.php',
+      6 => 'tmm_db_migrate/index.php',
+      7 => 'tmm_events_calendar/index.php',
+      8 => 'tmm_theme_features/index.php',
+    ),
+    'autoload' => 'yes',
+  ),
+  33 => 
+  array (
+    'option_id' => '34',
+    'option_name' => 'category_base',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  34 => 
+  array (
+    'option_id' => '35',
+    'option_name' => 'ping_sites',
+    'option_value' => 'http://rpc.pingomatic.com/',
+    'autoload' => 'yes',
+  ),
+  35 => 
+  array (
+    'option_id' => '36',
+    'option_name' => 'advanced_edit',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  36 => 
+  array (
+    'option_id' => '37',
+    'option_name' => 'comment_max_links',
+    'option_value' => '2',
+    'autoload' => 'yes',
+  ),
+  37 => 
+  array (
+    'option_id' => '38',
+    'option_name' => 'gmt_offset',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  38 => 
+  array (
+    'option_id' => '39',
+    'option_name' => 'default_email_category',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  39 => 
+  array (
+    'option_id' => '40',
+    'option_name' => 'recently_edited',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  40 => 
+  array (
+    'option_id' => '41',
+    'option_name' => 'template',
+    'option_value' => 'diplomat',
+    'autoload' => 'yes',
+  ),
+  41 => 
+  array (
+    'option_id' => '42',
+    'option_name' => 'stylesheet',
+    'option_value' => 'diplomat',
+    'autoload' => 'yes',
+  ),
+  42 => 
+  array (
+    'option_id' => '43',
+    'option_name' => 'comment_whitelist',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  43 => 
+  array (
+    'option_id' => '44',
+    'option_name' => 'blacklist_keys',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  44 => 
+  array (
+    'option_id' => '45',
+    'option_name' => 'comment_registration',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  45 => 
+  array (
+    'option_id' => '46',
+    'option_name' => 'html_type',
+    'option_value' => 'text/html',
+    'autoload' => 'yes',
+  ),
+  46 => 
+  array (
+    'option_id' => '47',
+    'option_name' => 'use_trackback',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  47 => 
+  array (
+    'option_id' => '48',
+    'option_name' => 'default_role',
+    'option_value' => 'subscriber',
+    'autoload' => 'yes',
+  ),
+  48 => 
+  array (
+    'option_id' => '49',
+    'option_name' => 'db_version',
+    'option_value' => '38590',
+    'autoload' => 'yes',
+  ),
+  49 => 
+  array (
+    'option_id' => '50',
+    'option_name' => 'uploads_use_yearmonth_folders',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  50 => 
+  array (
+    'option_id' => '51',
+    'option_name' => 'upload_path',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  51 => 
+  array (
+    'option_id' => '52',
+    'option_name' => 'blog_public',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  52 => 
+  array (
+    'option_id' => '53',
+    'option_name' => 'default_link_category',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  53 => 
+  array (
+    'option_id' => '54',
+    'option_name' => 'show_on_front',
+    'option_value' => 'page',
+    'autoload' => 'yes',
+  ),
+  54 => 
+  array (
+    'option_id' => '55',
+    'option_name' => 'tag_base',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  55 => 
+  array (
+    'option_id' => '56',
+    'option_name' => 'show_avatars',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  56 => 
+  array (
+    'option_id' => '57',
+    'option_name' => 'avatar_rating',
+    'option_value' => 'G',
+    'autoload' => 'yes',
+  ),
+  57 => 
+  array (
+    'option_id' => '58',
+    'option_name' => 'upload_url_path',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  58 => 
+  array (
+    'option_id' => '59',
+    'option_name' => 'thumbnail_size_w',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  59 => 
+  array (
+    'option_id' => '60',
+    'option_name' => 'thumbnail_size_h',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  60 => 
+  array (
+    'option_id' => '61',
+    'option_name' => 'thumbnail_crop',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  61 => 
+  array (
+    'option_id' => '62',
+    'option_name' => 'medium_size_w',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  62 => 
+  array (
+    'option_id' => '63',
+    'option_name' => 'medium_size_h',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  63 => 
+  array (
+    'option_id' => '64',
+    'option_name' => 'avatar_default',
+    'option_value' => 'gravatar_default',
+    'autoload' => 'yes',
+  ),
+  64 => 
+  array (
+    'option_id' => '65',
+    'option_name' => 'large_size_w',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  65 => 
+  array (
+    'option_id' => '66',
+    'option_name' => 'large_size_h',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  66 => 
+  array (
+    'option_id' => '67',
+    'option_name' => 'image_default_link_type',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  67 => 
+  array (
+    'option_id' => '68',
+    'option_name' => 'image_default_size',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  68 => 
+  array (
+    'option_id' => '69',
+    'option_name' => 'image_default_align',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  69 => 
+  array (
+    'option_id' => '70',
+    'option_name' => 'close_comments_for_old_posts',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  70 => 
+  array (
+    'option_id' => '71',
+    'option_name' => 'close_comments_days_old',
+    'option_value' => '14',
+    'autoload' => 'yes',
+  ),
+  71 => 
+  array (
+    'option_id' => '72',
+    'option_name' => 'thread_comments',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  72 => 
+  array (
+    'option_id' => '73',
+    'option_name' => 'thread_comments_depth',
+    'option_value' => '5',
+    'autoload' => 'yes',
+  ),
+  73 => 
+  array (
+    'option_id' => '74',
+    'option_name' => 'page_comments',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  74 => 
+  array (
+    'option_id' => '75',
+    'option_name' => 'comments_per_page',
+    'option_value' => '50',
+    'autoload' => 'yes',
+  ),
+  75 => 
+  array (
+    'option_id' => '76',
+    'option_name' => 'default_comments_page',
+    'option_value' => 'newest',
+    'autoload' => 'yes',
+  ),
+  76 => 
+  array (
+    'option_id' => '77',
+    'option_name' => 'comment_order',
+    'option_value' => 'asc',
+    'autoload' => 'yes',
+  ),
+  77 => 
+  array (
+    'option_id' => '78',
+    'option_name' => 'sticky_posts',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  78 => 
+  array (
+    'option_id' => '79',
+    'option_name' => 'widget_categories',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => '',
+        'count' => 0,
+        'hierarchical' => 0,
+        'dropdown' => 0,
+      ),
+      3 => 
+      array (
+        'title' => '',
+        'count' => 0,
+        'hierarchical' => 0,
+        'dropdown' => 0,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  79 => 
+  array (
+    'option_id' => '80',
+    'option_name' => 'widget_text',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'About Diplomat',
+        'text' => 'Nascetur fugiat corporis cillum nihil illo! Ullamcorper, lectus, imperdiet etiam quibusdam mi, accumsan placeat blandit dolor? Voluptates sint, eius litora minima? Mollitia ullamcorper, at cupidatat voluptate ullam, eius nulla.',
+        'filter' => true,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  80 => 
+  array (
+    'option_id' => '81',
+    'option_name' => 'widget_rss',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  81 => 
+  array (
+    'option_id' => '82',
+    'option_name' => 'uninstall_plugins',
+    'option_value' => 
+    array (
+      'LayerSlider/layerslider.php' => 'layerslider_uninstall_scripts',
+      'wp-super-cache/wp-cache.php' => 'wpsupercache_deactivate',
+    ),
+    'autoload' => 'no',
+  ),
+  82 => 
+  array (
+    'option_id' => '83',
+    'option_name' => 'timezone_string',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  83 => 
+  array (
+    'option_id' => '84',
+    'option_name' => 'page_for_posts',
+    'option_value' => '8',
+    'autoload' => 'yes',
+  ),
+  84 => 
+  array (
+    'option_id' => '85',
+    'option_name' => 'page_on_front',
+    'option_value' => '4',
+    'autoload' => 'yes',
+  ),
+  85 => 
+  array (
+    'option_id' => '86',
+    'option_name' => 'default_post_format',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  86 => 
+  array (
+    'option_id' => '87',
+    'option_name' => 'link_manager_enabled',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  87 => 
+  array (
+    'option_id' => '88',
+    'option_name' => 'initial_db_version',
+    'option_value' => '38590',
+    'autoload' => 'yes',
+  ),
+  88 => 
+  array (
+    'option_id' => '89',
+    'option_name' => '__tmm_wpdb_prefix__user_roles',
+    'option_value' => 
+    array (
+      'administrator' => 
+      array (
+        'name' => 'Administrator',
+        'capabilities' => 
+        array (
+          'switch_themes' => true,
+          'edit_themes' => true,
+          'activate_plugins' => true,
+          'edit_plugins' => true,
+          'edit_users' => true,
+          'edit_files' => true,
+          'manage_options' => true,
+          'moderate_comments' => true,
+          'manage_categories' => true,
+          'manage_links' => true,
+          'upload_files' => true,
+          'import' => true,
+          'unfiltered_html' => true,
+          'edit_posts' => true,
+          'edit_others_posts' => true,
+          'edit_published_posts' => true,
+          'publish_posts' => true,
+          'edit_pages' => true,
+          'read' => true,
+          'level_10' => true,
+          'level_9' => true,
+          'level_8' => true,
+          'level_7' => true,
+          'level_6' => true,
+          'level_5' => true,
+          'level_4' => true,
+          'level_3' => true,
+          'level_2' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'edit_others_pages' => true,
+          'edit_published_pages' => true,
+          'publish_pages' => true,
+          'delete_pages' => true,
+          'delete_others_pages' => true,
+          'delete_published_pages' => true,
+          'delete_posts' => true,
+          'delete_others_posts' => true,
+          'delete_published_posts' => true,
+          'delete_private_posts' => true,
+          'edit_private_posts' => true,
+          'read_private_posts' => true,
+          'delete_private_pages' => true,
+          'edit_private_pages' => true,
+          'read_private_pages' => true,
+          'delete_users' => true,
+          'create_users' => true,
+          'unfiltered_upload' => true,
+          'edit_dashboard' => true,
+          'update_plugins' => true,
+          'delete_plugins' => true,
+          'install_plugins' => true,
+          'update_themes' => true,
+          'install_themes' => true,
+          'update_core' => true,
+          'list_users' => true,
+          'remove_users' => true,
+          'add_users' => true,
+          'promote_users' => true,
+          'edit_theme_options' => true,
+          'delete_themes' => true,
+          'export' => true,
+        ),
+      ),
+      'editor' => 
+      array (
+        'name' => 'Editor',
+        'capabilities' => 
+        array (
+          'moderate_comments' => true,
+          'manage_categories' => true,
+          'manage_links' => true,
+          'upload_files' => true,
+          'unfiltered_html' => true,
+          'edit_posts' => true,
+          'edit_others_posts' => true,
+          'edit_published_posts' => true,
+          'publish_posts' => true,
+          'edit_pages' => true,
+          'read' => true,
+          'level_7' => true,
+          'level_6' => true,
+          'level_5' => true,
+          'level_4' => true,
+          'level_3' => true,
+          'level_2' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'edit_others_pages' => true,
+          'edit_published_pages' => true,
+          'publish_pages' => true,
+          'delete_pages' => true,
+          'delete_others_pages' => true,
+          'delete_published_pages' => true,
+          'delete_posts' => true,
+          'delete_others_posts' => true,
+          'delete_published_posts' => true,
+          'delete_private_posts' => true,
+          'edit_private_posts' => true,
+          'read_private_posts' => true,
+          'delete_private_pages' => true,
+          'edit_private_pages' => true,
+          'read_private_pages' => true,
+        ),
+      ),
+      'author' => 
+      array (
+        'name' => 'Author',
+        'capabilities' => 
+        array (
+          'upload_files' => true,
+          'edit_posts' => true,
+          'edit_published_posts' => true,
+          'publish_posts' => true,
+          'read' => true,
+          'level_2' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'delete_posts' => true,
+          'delete_published_posts' => true,
+        ),
+      ),
+      'contributor' => 
+      array (
+        'name' => 'Contributor',
+        'capabilities' => 
+        array (
+          'edit_posts' => true,
+          'read' => true,
+          'level_1' => true,
+          'level_0' => true,
+          'delete_posts' => true,
+        ),
+      ),
+      'subscriber' => 
+      array (
+        'name' => 'Subscriber',
+        'capabilities' => 
+        array (
+          'read' => true,
+          'level_0' => true,
+        ),
+      ),
+      'bbp_keymaster' => 
+      array (
+        'name' => 'Keymaster',
+        'capabilities' => 
+        array (
+        ),
+      ),
+      'bbp_spectator' => 
+      array (
+        'name' => 'Spectator',
+        'capabilities' => 
+        array (
+        ),
+      ),
+      'bbp_blocked' => 
+      array (
+        'name' => 'Blocked',
+        'capabilities' => 
+        array (
+        ),
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  89 => 
+  array (
+    'option_id' => '91',
+    'option_name' => 'widget_search',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => '',
+      ),
+      3 => 
+      array (
+        'title' => '',
+      ),
+      4 => 
+      array (
+        'title' => 'Advanced Search',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  90 => 
+  array (
+    'option_id' => '92',
+    'option_name' => 'widget_recent-posts',
+    'option_value' => 
+    array (
+      3 => 
+      array (
+        'title' => 'Fresh From The Blog',
+        'number' => 2,
+        'show_date' => true,
+      ),
+      4 => 
+      array (
+        'title' => 'Recent Posts',
+        'number' => 3,
+        'show_date' => true,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  91 => 
+  array (
+    'option_id' => '93',
+    'option_name' => 'widget_recent-comments',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  92 => 
+  array (
+    'option_id' => '94',
+    'option_name' => 'widget_archives',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  93 => 
+  array (
+    'option_id' => '95',
+    'option_name' => 'widget_meta',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  94 => 
+  array (
+    'option_id' => '96',
+    'option_name' => 'sidebars_widgets',
+    'option_value' => 
+    array (
+      'test_page' => 
+      array (
+        0 => 'recent-posts-4',
+        1 => 'tmm_latest_tweets_widget-5',
+        2 => 'tmm_video_widget-3',
+        3 => 'calendar-4',
+        4 => 'tag_cloud-3',
+        5 => 'tmm_accordion_widget-5',
+        6 => 'tmm_recent_posts_widget-6',
+        7 => 'tmm_mail_subscription_widget-3',
+        8 => 'tmm_upcomingeventswidget-2',
+        9 => 'tmm_soonesteventwidget-2',
+        10 => 'tmm_eventscalendarwidget-2',
+      ),
+      'wp_inactive_widgets' => 
+      array (
+        0 => 'tmm_accordion_widget-2',
+        1 => 'tmm_social_links_widget-3',
+        2 => 'tmm_google_map_widget-2',
+        3 => 'tmm_featured_boxes-2',
+        4 => 'tmm_contact_form_widget-3',
+        5 => 'tmm_latest_tweets_widget-3',
+        6 => 'tmm_video_widget-2',
+        7 => 'tmm_facebook_likebox_widget-2',
+      ),
+      'tmm_default_sidebar' => 
+      array (
+        0 => 'categories-2',
+        1 => 'search-2',
+        2 => 'tmm_featured_boxes-3',
+        3 => 'tmm_upcomingeventswidget-4',
+        4 => 'arqam_counter-widget-2',
+        5 => 'tmm_video_widget-4',
+        6 => 'tmm_accordion_widget-6',
+        7 => 'tmm_recent_posts_widget-7',
+      ),
+      'footer_sidebar_1' => 
+      array (
+        0 => 'text-2',
+        1 => 'tmm_social_links_widget-2',
+        2 => 'tmm_mail_subscription_widget-2',
+      ),
+      'footer_sidebar_2' => 
+      array (
+        0 => 'nav_menu-3',
+        1 => 'nav_menu-2',
+      ),
+      'footer_sidebar_3' => 
+      array (
+        0 => 'recent-posts-3',
+        1 => 'tmm_latest_tweets_widget-2',
+      ),
+      'about_us' => 
+      array (
+        0 => 'tmm_featured_boxes-4',
+        1 => 'search-3',
+        2 => 'tmm_contact_form_widget-2',
+        3 => 'tmm_facebook_likebox_widget-3',
+      ),
+      'home_5' => 
+      array (
+        0 => 'categories-3',
+        1 => 'tmm_featured_boxes-5',
+        2 => 'tmm_upcomingeventswidget-5',
+        3 => 'tmm_video_widget-5',
+        4 => 'arqam_counter-widget-3',
+        5 => 'tmm_recent_posts_widget-8',
+        6 => 'tmm_eventscalendarwidget-3',
+      ),
+      'forums' => 
+      array (
+        0 => 'search-4',
+        1 => 'tmm_featured_boxes-6',
+        2 => 'tmm_facebook_likebox_widget-4',
+      ),
+      'array_version' => 3,
+    ),
+    'autoload' => 'yes',
+  ),
+  95 => 
+  array (
+    'option_id' => '97',
+    'option_name' => 'cron',
+    'option_value' => 
+    array (
+      1535452302 => 
+      array (
+        'wp_privacy_delete_old_export_files' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'hourly',
+            'args' => 
+            array (
+            ),
+            'interval' => 3600,
+          ),
+        ),
+      ),
+      1535464933 => 
+      array (
+        'wp_version_check' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+        'wp_update_plugins' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+        'wp_update_themes' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+      ),
+      1535480137 => 
+      array (
+        'wp_scheduled_auto_draft_delete' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+      ),
+      1535485080 => 
+      array (
+        'wp_maybe_auto_update' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'twicedaily',
+            'args' => 
+            array (
+            ),
+            'interval' => 43200,
+          ),
+        ),
+      ),
+      1535501041 => 
+      array (
+        '_cron_zencache_cleanup' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+      ),
+      1535508141 => 
+      array (
+        'wp_scheduled_delete' => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => 'daily',
+            'args' => 
+            array (
+            ),
+            'interval' => 86400,
+          ),
+        ),
+      ),
+      '__tmm_wpdb_prefix__batch_split_terms' => 
+      array (
+        1440337284 => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => false,
+            'args' => 
+            array (
+            ),
+          ),
+        ),
+        1440337286 => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => false,
+            'args' => 
+            array (
+            ),
+          ),
+        ),
+        1440337293 => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => false,
+            'args' => 
+            array (
+            ),
+          ),
+        ),
+        1440337335 => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => false,
+            'args' => 
+            array (
+            ),
+          ),
+        ),
+        1440337336 => 
+        array (
+          '40cd750bba9870f18aada2478b24840a' => 
+          array (
+            'schedule' => false,
+            'args' => 
+            array (
+            ),
+          ),
+        ),
+      ),
+      'version' => 2,
+    ),
+    'autoload' => 'yes',
+  ),
+  96 => 
+  array (
+    'option_id' => '99',
+    'option_name' => 'auth_key',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  97 => 
+  array (
+    'option_id' => '100',
+    'option_name' => 'auth_salt',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  98 => 
+  array (
+    'option_id' => '101',
+    'option_name' => 'logged_in_key',
+    'option_value' => '5,CtOiN0Y~*D(.L~maf%MiRSQbE<EA/UVO=jZ+_dv#f.[BABQ<:j<sKBD-v38YBe',
+    'autoload' => 'yes',
+  ),
+  99 => 
+  array (
+    'option_id' => '102',
+    'option_name' => 'logged_in_salt',
+    'option_value' => 'RxzV2)k6h5mU[8vYXxQVGr,gCF-1Xr<5[hUW;X`9rmOsW51`k} htPm.{;!8NP-z',
+    'autoload' => 'yes',
+  ),
+  100 => 
+  array (
+    'option_id' => '103',
+    'option_name' => 'nonce_key',
+    'option_value' => 'JZQZ[mw 0kcUDZQ$dbC.?8}l!)rUbXTp.)Q3TFj1.2G?3w {ZEKU&L^&hczp P(h',
+    'autoload' => 'yes',
+  ),
+  101 => 
+  array (
+    'option_id' => '104',
+    'option_name' => 'nonce_salt',
+    'option_value' => '`w[~^HP>/wF3J40g,rjpJUg#6< 7]=tn5|nf.Jb*.gk=`(TW}fxc;^b8$gMkd=b5',
+    'autoload' => 'yes',
+  ),
+  102 => 
+  array (
+    'option_id' => '135',
+    'option_name' => 'recently_activated',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  103 => 
+  array (
+    'option_id' => '138',
+    'option_name' => 'theme_mods_twentyfifteen',
+    'option_value' => 
+    array (
+      'sidebars_widgets' => 
+      array (
+        'time' => 1424400205,
+        'data' => 
+        array (
+          'wp_inactive_widgets' => 
+          array (
+          ),
+          'sidebar-1' => 
+          array (
+            0 => 'search-2',
+            1 => 'recent-posts-2',
+            2 => 'recent-comments-2',
+            3 => 'archives-2',
+            4 => 'categories-2',
+            5 => 'meta-2',
+          ),
+        ),
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  104 => 
+  array (
+    'option_id' => '139',
+    'option_name' => 'current_theme',
+    'option_value' => 'Diplomat',
+    'autoload' => 'yes',
+  ),
+  105 => 
+  array (
+    'option_id' => '140',
+    'option_name' => 'theme_mods_diplomat',
+    'option_value' => 
+    array (
+      0 => false,
+      'nav_menu_locations' => 
+      array (
+        'primary' => 2,
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  106 => 
+  array (
+    'option_id' => '141',
+    'option_name' => 'theme_switched',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  107 => 
+  array (
+    'option_id' => '143',
+    'option_name' => 'thememakers_theme_options',
+    'option_value' => 
+    array (
+      'theme_was_activated' => 1,
+      'sidebar_position' => 'sbr',
+      'copyright_text' => 'Copyright © 2015. ThemeMakers. All rights reserved',
+      'social_types' => 'a:23:{s:7:"twitter";a:2:{s:4:"name";s:7:"Twitter";s:4:"link";s:31:"https://twitter.com/ThemeMakers";}s:8:"facebook";a:2:{s:4:"name";s:8:"Facebook";s:4:"link";s:37:"http://www.facebook.com/wpThemeMakers";}s:8:"linkedin";a:2:{s:4:"name";s:8:"Linkedin";s:4:"link";s:20:"http://linkedin.com/";}s:9:"pinterest";a:2:{s:4:"name";s:9:"Pinterest";s:4:"link";s:21:"http://pinterest.com/";}s:3:"rss";a:2:{s:4:"name";s:3:"Rss";s:4:"link";s:5:"false";}s:5:"gplus";a:2:{s:4:"name";s:11:"Google Plus";s:4:"link";s:23:"http://plus.google.com/";}s:9:"instagram";a:2:{s:4:"name";s:9:"Instagram";s:4:"link";s:21:"http://instagram.com/";}s:8:"dribbble";a:2:{s:4:"name";s:8:"Dribbble";s:4:"link";s:20:"http://dribbble.com/";}s:7:"dropbox";a:2:{s:4:"name";s:7:"Dropbox";s:4:"link";s:19:"http://dropbox.com/";}s:5:"vimeo";a:2:{s:4:"name";s:5:"Vimeo";s:4:"link";s:17:"http://vimeo.com/";}s:7:"youtube";a:2:{s:4:"name";s:7:"Youtube";s:4:"link";s:19:"http://youtube.com/";}s:7:"blogger";a:2:{s:4:"name";s:7:"Blogger";s:4:"link";s:19:"http://blogger.com/";}s:8:"evernote";a:2:{s:4:"name";s:8:"Evernote";s:4:"link";s:20:"http://evernote.com/";}s:7:"behance";a:2:{s:4:"name";s:7:"Behance";s:4:"link";s:19:"http://behance.net/";}s:5:"skype";a:2:{s:4:"name";s:5:"Skype";s:4:"link";s:17:"http://skype.com/";}s:4:"digg";a:2:{s:4:"name";s:4:"Digg";s:4:"link";s:16:"http://digg.com/";}s:8:"appstore";a:2:{s:4:"name";s:5:"Apple";s:4:"link";s:17:"http://apple.com/";}s:9:"wordpress";a:2:{s:4:"name";s:9:"Wordpress";s:4:"link";s:21:"http://wordpress.org/";}s:10:"stubleupon";a:2:{s:4:"name";s:10:"Stubleupon";s:4:"link";s:22:"http://stubleupon.com/";}s:10:"deviantart";a:2:{s:4:"name";s:10:"Deviantart";s:4:"link";s:22:"http://deviantart.com/";}s:6:"github";a:2:{s:4:"name";s:6:"Github";s:4:"link";s:18:"http://github.com/";}s:5:"email";a:2:{s:4:"name";s:5:"Email";s:4:"link";s:0:"";}s:6:"flickr";a:2:{s:4:"name";s:6:"Flickr";s:4:"link";s:18:"http://flickr.com/";}}',
+      'favicon_img' => '__tmm_old_home_url__/wp-content/themes/diplomat/favicon.ico',
+      'logo_type' => '0',
+      'logo_img' => '',
+      'logo_text' => 'Diplomat',
+      'logo_font_size' => '34',
+      'logo_font' => 'Roboto Slab',
+      'logo_text_color' => '#262626',
+      'logo_hover_color_1' => '#232527',
+      'logo_hover_color_2' => '#232527',
+      'logo_hover_color_3' => '#232527',
+      'logo_hover_color_4' => '#232527',
+      'logo_description' => 'Create a website for awesome internet stuff',
+      'use_wptexturize' => '0',
+      'hide_breadcrumb' => '0',
+      'fixed_menu' => '1',
+      'page_loader' => '1',
+      'tracking_code' => '<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
+
+  ga(\'create\', \'UA-7174574-39\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
+      'show_twitter_social_icon' => 'https://twitter.com/ThemeMakers',
+      'show_facebook_social_icon' => 'http://www.facebook.com/wpThemeMakers',
+      'show_linkedin_social_icon' => 'http://linkedin.com/',
+      'show_pinterest_social_icon' => 'http://pinterest.com/',
+      'show_rss_social_icon' => '1',
+      'show_gplus_social_icon' => 'http://plus.google.com/',
+      'show_instagram_social_icon' => 'http://instagram.com/',
+      'show_dribbble_social_icon' => 'http://dribbble.com/',
+      'show_dropbox_social_icon' => '',
+      'show_vimeo_social_icon' => '',
+      'show_youtube_social_icon' => '',
+      'show_blogger_social_icon' => '',
+      'show_evernote_social_icon' => '',
+      'show_behance_social_icon' => '',
+      'show_skype_social_icon' => '',
+      'show_digg_social_icon' => '',
+      'show_appstore_social_icon' => '',
+      'show_wordpress_social_icon' => '',
+      'show_stubleupon_social_icon' => '',
+      'show_deviantart_social_icon' => '',
+      'show_github_social_icon' => '',
+      'show_email_social_icon' => '',
+      'show_flickr_social_icon' => '',
+      'show_search_menu' => '1',
+      'menu_advanced_search' => '1',
+      'widget_advanced_search' => '1',
+      'search_post' => '1',
+      'search_page' => '1',
+      'search_slidergroup' => '1',
+      'search_tmonials' => '1',
+      'search_email_subscriber' => '1',
+      'search_gall' => '1',
+      'search_event' => '1',
+      'search_title' => '1',
+      'search_content' => '1',
+      'search_exerpts' => '1',
+      'search_layout_constructor' => '1',
+      'search_terms' => '1',
+      'character_count' => '3',
+      'max_results' => '',
+      'general_elements' => '#14b3e4',
+      'general_font_family' => 'Roboto Slab',
+      'general_font_size' => '16',
+      'general_text_color' => '#777',
+      'general_normal_links_color' => '#777',
+      'general_mouseover_links_color' => '#14b3e4',
+      'general_header_bg_color' => '#ffffff',
+      'general_fixed_header_bg_color' => '#f8f8f8',
+      'general_fixed_headerfw_bg_color' => '#000',
+      'general_footer_bottom_bg_color' => '#313133',
+      'body_pattern_selected' => '0',
+      'body_bg_color' => '#f5f5f5',
+      'body_pattern' => '',
+      'body_pattern_custom_color' => '#f5f5f5',
+      'custom_css' => '',
+      'h1_font_family' => 'Roboto Slab',
+      'h1_font_size' => '34',
+      'h1_font_color' => '#222222',
+      'h1_normal_link_color' => '#262626',
+      'h1_mouseover_link_color' => '#f85c37',
+      'h2_font_family' => 'Roboto Slab',
+      'h2_font_size' => '25',
+      'h2_font_color' => '#222222',
+      'h2_normal_link_color' => '#262626',
+      'h2_mouseover_link_color' => '#f85c37',
+      'h3_font_family' => 'Roboto Slab',
+      'h3_font_size' => '18',
+      'h3_font_color' => '#222222',
+      'h3_normal_link_color' => '#262626',
+      'h3_mouseover_link_color' => '#f85c37',
+      'h4_font_family' => 'Roboto Slab',
+      'h4_font_size' => '16',
+      'h4_font_color' => '#222222',
+      'h4_normal_link_color' => '#262626',
+      'h4_mouseover_link_color' => '#f85c37',
+      'h5_font_family' => 'Roboto Slab',
+      'h5_font_size' => '16',
+      'h5_font_color' => '#222222',
+      'h5_normal_link_color' => '#262626',
+      'h5_mouseover_link_color' => '#f85c37',
+      'h6_font_family' => 'Roboto Slab',
+      'h6_font_size' => '16',
+      'h6_font_color' => '#222222',
+      'h6_normal_link_color' => '#262626',
+      'h6_mouseover_link_color' => '#f85c37',
+      'main_nav_font' => 'Roboto',
+      'main_nav_first_level_font_size' => '15',
+      'main_nav_second_level_font_size' => '15',
+      'main_nav_def_text_color' => '#424246',
+      'main_navfw_def_text_color' => '#fff',
+      'main_nav_curr_text_color' => '#4d90fe',
+      'main_nav_hover_text_color' => '#4d90fe',
+      'main_nav_dd_def_text_color' => '#969696',
+      'main_nav_dd_curr_text_color' => '#fff',
+      'main_nav_dd_hover_text_color' => '#fff',
+      'main_nav_dd_def_item_bg' => '#f85c37',
+      'content_normal_link_color' => '#14b3e4',
+      'content_mouseover_link_color' => '#14b3e4',
+      'buttons_font_family' => 'Roboto',
+      'buttons_font_size' => '18',
+      'buttons_text_color' => '#000000',
+      'buttons_bg_color' => '#f5f5f5',
+      'buttons_border_color' => '#262626',
+      'buttons_hover_text_color' => '#fff',
+      'buttons_hover_bg_color' => '#14b3e4',
+      'buttons_hover_border_color' => '',
+      'widget_title_color' => '#fff',
+      'widget_text_color' => '#777777',
+      'widget_link_color' => '#aaa',
+      'widget_link_hover_color' => '#f85c37',
+      'footer_widget_title_color' => '#f2f2f2',
+      'footer_widget_text_color' => '#959595',
+      'footer_widget_link_color' => '#6e6e6e',
+      'footer_widget_link_hover_color' => '#f85c37',
+      'slider_sequence_slide_image_alias' => '',
+      'slider_sequence_enable_caption' => '1',
+      'slider_sequence_slideshow' => '1',
+      'slider_sequence_init_delay' => '0',
+      'slider_sequence_animation_speed' => '600',
+      'slider_sequence_slideshow_speed' => '7000',
+      'slider_sequence_animation' => 'slide',
+      'slider_sequence_directionNav' => '1',
+      'slider_sequence_controlnav' => '1',
+      'slider_sequence_direction' => 'horizontal',
+      'excerpt_symbols_count' => '220',
+      'blog_listing_show_all_metadata' => '1',
+      'blog_listing_show_date' => '1',
+      'blog_listing_show_author' => '1',
+      'blog_listing_show_tags' => '1',
+      'blog_listing_show_category' => '1',
+      'blog_listing_show_comments' => '1',
+      'blog_listing_show_likes' => '1',
+      'blog_single_show_bio' => '1',
+      'blog_single_show_comments' => '1',
+      'blog_single_show_fb_comments' => '0',
+      'blog_single_show_social_share' => '1',
+      'blog_single_show_posts_nav' => '1',
+      'blog_single_show_related_posts' => '1',
+      'blog_single_show_all_metadata' => '1',
+      'blog_single_show_date' => '1',
+      'blog_single_show_author' => '1',
+      'blog_single_show_tags' => '1',
+      'blog_single_show_category' => '1',
+      'blog_single_show_likes' => '1',
+      'contact_form' => 
+      array (
+        1424877704628 => 
+        array (
+          'inique_id' => '1424877704628',
+          'title' => 'Contacts',
+          'has_capture' => '0',
+          'submit_button' => 'default-blue',
+          'submit_button_text' => 'Submit',
+          'recepient_email' => '',
+          'inputs' => 
+          array (
+            '55522701bd9c8' => 
+            array (
+              'type' => 'textinput',
+              'label' => 'Your Name',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '1',
+            ),
+            '55522701be182' => 
+            array (
+              'type' => 'email',
+              'label' => 'Your Email',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '1',
+            ),
+            '55522701be931' => 
+            array (
+              'type' => 'textinput',
+              'label' => 'Subject',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '1',
+            ),
+            '55522701befae' => 
+            array (
+              'type' => 'messagebody',
+              'label' => 'Your Message',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '1',
+            ),
+          ),
+        ),
+        1426539277490 => 
+        array (
+          'inique_id' => '1426539277490',
+          'title' => 'Volunteer Form',
+          'has_capture' => '0',
+          'submit_button' => 'default-blue',
+          'submit_button_text' => 'Submit',
+          'recepient_email' => '',
+          'inputs' => 
+          array (
+            '55522701bfa5c' => 
+            array (
+              'type' => 'title',
+              'label' => 'Personal Information',
+              'options' => '',
+              'title_heading' => 'h2',
+              'optional_field' => '0',
+              'is_required' => '0',
+            ),
+            '55522701c0014' => 
+            array (
+              'type' => 'textinput',
+              'label' => 'First Name',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '1',
+            ),
+            '55522701c05c9' => 
+            array (
+              'type' => 'textinput',
+              'label' => 'Last Name',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '1',
+            ),
+            '55522701c0b60' => 
+            array (
+              'type' => 'textinput',
+              'label' => 'Address 1',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '1',
+            ),
+            '55522701c100e' => 
+            array (
+              'type' => 'textinput',
+              'label' => 'Address 2',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '0',
+            ),
+            '55522701c1455' => 
+            array (
+              'type' => 'location',
+              'label' => '',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '0',
+            ),
+            '55522701c188f' => 
+            array (
+              'type' => 'textinput',
+              'label' => 'Daytime Phone Number',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '0',
+            ),
+            '55522701c1cd2' => 
+            array (
+              'type' => 'textinput',
+              'label' => 'Evening Phone Number',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '0',
+            ),
+            '55522701c2119' => 
+            array (
+              'type' => 'textinput',
+              'label' => 'Mobile Phone/Pager Number',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '0',
+            ),
+            '55522701c25a5' => 
+            array (
+              'type' => 'textinput',
+              'label' => 'Fax',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '0',
+            ),
+            '55522701c29ef' => 
+            array (
+              'type' => 'email',
+              'label' => 'Your Email',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '1',
+            ),
+            '55522701c2e49' => 
+            array (
+              'type' => 'checkbox',
+              'label' => 'Please tell us how you can help',
+              'options' => 'I\'ll help a local campaign,I\'ll help organize local events,I\'ll help with major mailings,I\'ll make phone calls',
+              'title_heading' => 'h1',
+              'optional_field' => '1',
+              'is_required' => '0',
+            ),
+            '55522701c32d9' => 
+            array (
+              'type' => 'checkbox',
+              'label' => 'Please tell us which issues most interest you',
+              'options' => 'Social Security,Internet Issues,Health Care,Education,Personal Liberty,Foreign Policy,Government Regulation',
+              'title_heading' => 'h1',
+              'optional_field' => '1',
+              'is_required' => '0',
+            ),
+          ),
+        ),
+        1428957593513 => 
+        array (
+          'inique_id' => '1428957593513',
+          'title' => 'Get in Touch short',
+          'has_capture' => '0',
+          'submit_button' => 'default',
+          'submit_button_text' => 'Submit',
+          'recepient_email' => '',
+          'inputs' => 
+          array (
+            '55522701c3bc5' => 
+            array (
+              'type' => 'email',
+              'label' => 'Your Email',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '1',
+            ),
+            '55522701c4022' => 
+            array (
+              'type' => 'messagebody',
+              'label' => 'Short Message Here',
+              'options' => '',
+              'title_heading' => 'h1',
+              'optional_field' => '0',
+              'is_required' => '1',
+            ),
+          ),
+        ),
+        '__INIQUE_ID__' => 
+        array (
+          'inique_id' => '__INIQUE_ID__',
+          'title' => '__FORM_NAME__',
+          'has_capture' => '0',
+          'submit_button' => 'default',
+          'submit_button_text' => 'Submit',
+          'recepient_email' => '',
+          'inputs' => 
+          array (
+            0 => 
+            array (
+              'type' => 'textinput',
+              'label' => '',
+              'options' => '',
+              'optional_field' => '0',
+              'is_required' => '0',
+            ),
+          ),
+        ),
+      ),
+      'contact_form_index' => '__INIQUE_ID__',
+      'subscribe_mail_validation' => 'Please enter valid email address',
+      'info_already_subscribed' => 'You have been already subscribed',
+      'info_successfully_subscribed' => 'Thank you for subscribing',
+      'info_success_unsubscription' => 'Thank You, You have been successfully unsubscribed',
+      'subscribe_subject' => 'Thank you for subscribing on %site_url%',
+      'subscribe_message' => 'You have been successfully subscribed to our posts.%n% For unsubscribing from upcomming emails, please follow this link: <a href=\'%unsubscribe_url%\'>Unsubscribe</a>',
+      'new_post_subject' => 'New post on %site_url%',
+      'new_post_message' => 'There is a new post at %site_url%. You can read it here: <a href=\'%post_url%\'>%post_title%</a>.%n% For unsubscribing from upcomming emails, please follow this link: <a href=\'%unsubscribe_url%\'>Unsubscribe</a>',
+      'sidebars' => 
+      array (
+        1987421963 => 
+        array (
+          'name' => 'About Us',
+          'page' => 
+          array (
+            0 => '6',
+          ),
+          'cat' => 
+          array (
+            0 => '-1',
+          ),
+        ),
+        1428954149426 => 
+        array (
+          'name' => 'Home 5',
+          'page' => 
+          array (
+            0 => '265',
+            1429819017 => '4',
+          ),
+          'cat' => 
+          array (
+            0 => '-1',
+          ),
+        ),
+        1429625534364 => 
+        array (
+          'name' => 'forums',
+          'page' => 
+          array (
+            0 => '430',
+          ),
+          'cat' => 
+          array (
+            0 => '-1',
+          ),
+        ),
+      ),
+      'meta_title_home' => '',
+      'meta_keywords_home' => '',
+      'meta_description_home' => '',
+      'meta_title_post_listing' => '',
+      'meta_keywords_post_listing' => '',
+      'meta_description_post_listing' => '',
+      'meta_title_portfolio_listing' => '',
+      'meta_keywords_portfolio_listing' => '',
+      'meta_description_portfolio_listing' => '',
+      'seo_groups' => 
+      array (
+      ),
+      'hide_footer' => '0',
+      'show_donate_button' => '1',
+      'donate_button_text' => 'Donate',
+      'donate_button_url' => '#',
+      'tmm_events_date_format' => '0',
+      'tmm_events_show_timezone' => '0',
+      'tmm_events_time_format' => '0',
+      'tmm_events_show_categories_select' => '0',
+      'tmm_events_show_duration' => '0',
+      'tmm_events_set_old_to_draft' => '0',
+      'donate_button_url_type' => '1',
+      'donate_button_custom_link' => '',
+      'donate_button_page' => '36',
+      'show_login_buttons' => '1',
+      'search_dgx-donation' => '1',
+      'blog_listing_effect' => 'slideUp2x',
+      'donate_button_target' => '1',
+      'tmm_events_show_venue_website' => '0',
+      'tmm_single_event_show_timezone' => '0',
+      'tmm_single_event_time_format' => '0',
+      'tmm_single_event_show_duration' => '0',
+      'tmm_single_event_show_comments' => '1',
+      'tmm_single_event_title' => 'Events',
+      'tmm_single_event_button_page' => '0',
+      'use_logo_two_colors' => '1',
+      'splitted_logo_text' => 'Diplo^mat',
+      'hlight_logo_text_color1' => '#262626',
+      'hlight_logo_text_color2' => '#969696',
+      'hdark_logo_text_color1' => '#ffffff',
+      'hdark_logo_text_color2' => '#b4b4b4',
+      'website_width' => 'px',
+      'website_width_px' => '1170',
+      'website_width_per' => '63',
+      'general_footer_top_bg_color' => '#3a3a3c',
+      'main_nav_dd_hover_bg_color' => '#f9f9f9',
+      'widget_title_bg_color' => '#11547b',
+      'compress_css' => '1',
+      'seo_group' => 
+      array (
+        0 => '',
+      ),
+      'blog_single_show_related_posts_with_image' => '1',
+      'header_top_bg_color' => '#e1e1e1',
+      'header_bottom_bg_color' => '#f5f5f5',
+      'tmm_events_listing_effect' => 'slideUp',
+      'appearing_speed' => '50',
+      'search_forum' => '1',
+      'search_topic' => '1',
+      'search_reply' => '1',
+      'rtl_suport' => '0',
+    ),
+    'autoload' => 'yes',
+  ),
+  108 => 
+  array (
+    'option_id' => '144',
+    'option_name' => 'ftp_credentials',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  109 => 
+  array (
+    'option_id' => '198',
+    'option_name' => 'events-categories_children',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  110 => 
+  array (
+    'option_id' => '208',
+    'option_name' => 'widget_tmm_social_links_widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'We Are Social',
+        'twitter_links' => 'https://twitter.com/ThemeMakers',
+        'twitter_tooltip' => 'Twitter',
+        'facebook_links' => 'http://www.facebook.com/wpThemeMakers',
+        'facebook_tooltip' => 'Facebook',
+        'linkedin_links' => 'http://linkedin.com/',
+        'linkedin_tooltip' => 'Linkedin',
+        'pinterest_links' => 'http://pinterest.com/',
+        'pinterest_tooltip' => 'Pinterest',
+        'rss_links' => '',
+        'rss_tooltip' => 'Rss',
+        'gplus_links' => 'http://plus.google.com/',
+        'gplus_tooltip' => 'Google Plus',
+        'instagram_links' => 'http://instagram.com/',
+        'instagram_tooltip' => 'Instagram',
+        'dribbble_links' => 'http://dribbble.com/',
+        'dribbble_tooltip' => 'Dribbble',
+        'dropbox_links' => '',
+        'dropbox_tooltip' => 'Dropbox',
+        'vimeo_links' => '',
+        'vimeo_tooltip' => 'Vimeo',
+        'youtube_links' => '',
+        'youtube_tooltip' => 'Youtube',
+        'blogger_links' => '',
+        'blogger_tooltip' => 'Blogger',
+        'evernote_links' => '',
+        'evernote_tooltip' => 'Evernote',
+        'behance_links' => '',
+        'behance_tooltip' => 'Behance',
+        'skype_links' => '',
+        'skype_tooltip' => 'Skype',
+        'digg_links' => '',
+        'digg_tooltip' => 'Digg',
+        'appstore_links' => '',
+        'appstore_tooltip' => 'Apple',
+        'wordpress_links' => '',
+        'wordpress_tooltip' => 'Wordpress',
+        'stubleupon_links' => '',
+        'stubleupon_tooltip' => 'Stubleupon',
+        'deviantart_links' => '',
+        'deviantart_tooltip' => 'Deviantart',
+        'github_links' => '',
+        'github_tooltip' => 'Github',
+        'email_links' => '',
+        'email_tooltip' => 'Email',
+        'flickr_links' => '',
+        'flickr_tooltip' => 'Flickr',
+      ),
+      3 => 
+      array (
+        'title' => 'Social Links',
+        'twitter_links' => 'https://twitter.com/ThemeMakers',
+        'twitter_tooltip' => 'Twitter',
+        'facebook_links' => 'http://www.facebook.com/wpThemeMakers',
+        'facebook_tooltip' => 'Facebook',
+        'linkedin_links' => 'http://linkedin.com/',
+        'linkedin_tooltip' => 'Linkedin',
+        'pinterest_links' => 'http://pinterest.com/',
+        'pinterest_tooltip' => 'Pinterest',
+        'rss_links' => '',
+        'rss_tooltip' => 'Rss',
+        'gplus_links' => 'http://plus.google.com/',
+        'gplus_tooltip' => 'Google Plus',
+        'instagram_links' => 'http://instagram.com/',
+        'instagram_tooltip' => 'Instagram',
+        'dribbble_links' => 'http://dribbble.com/',
+        'dribbble_tooltip' => 'Dribbble',
+        'dropbox_links' => 'http://dropbox.com/',
+        'dropbox_tooltip' => 'Dropbox',
+        'vimeo_links' => 'http://vimeo.com/',
+        'vimeo_tooltip' => 'Vimeo',
+        'youtube_links' => 'http://youtube.com/',
+        'youtube_tooltip' => 'Youtube',
+        'blogger_links' => 'http://blogger.com/',
+        'blogger_tooltip' => 'Blogger',
+        'evernote_links' => 'http://evernote.com/',
+        'evernote_tooltip' => 'Evernote',
+        'behance_links' => 'http://behance.net/',
+        'behance_tooltip' => 'Behance',
+        'skype_links' => 'http://skype.com/',
+        'skype_tooltip' => 'Skype',
+        'digg_links' => 'http://digg.com/',
+        'digg_tooltip' => 'Digg',
+        'appstore_links' => 'http://apple.com/',
+        'appstore_tooltip' => 'Apple',
+        'wordpress_links' => 'http://wordpress.org/',
+        'wordpress_tooltip' => 'Wordpress',
+        'stubleupon_links' => 'http://stubleupon.com/',
+        'stubleupon_tooltip' => 'Stubleupon',
+        'deviantart_links' => 'http://deviantart.com/',
+        'deviantart_tooltip' => 'Deviantart',
+        'github_links' => 'http://github.com/',
+        'github_tooltip' => 'Github',
+        'email_links' => '',
+        'email_tooltip' => 'Email',
+        'flickr_links' => 'http://flickr.com/',
+        'flickr_tooltip' => 'Flickr',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  111 => 
+  array (
+    'option_id' => '209',
+    'option_name' => 'widget_tmm_mail_subscription_widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'Keep in touch with us',
+        'description' => 'Information about current events related to our company',
+        'submit_button' => 'Enter your email',
+      ),
+      3 => 
+      array (
+        'title' => 'Keep in touch with us',
+        'description' => 'Information about current events related to our company',
+        'submit_button' => 'Enter your email',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  112 => 
+  array (
+    'option_id' => '210',
+    'option_name' => 'widget_pages',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  113 => 
+  array (
+    'option_id' => '211',
+    'option_name' => 'widget_tmm_featured_post_widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'Featured Posts',
+        'article' => 
+        array (
+          0 => '32',
+        ),
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  114 => 
+  array (
+    'option_id' => '212',
+    'option_name' => 'widget_tmm_latest_tweets_widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'Latest Tweet',
+        'twitter_id' => '345111976353091584',
+        'postcount' => 1,
+      ),
+      3 => 
+      array (
+        'title' => 'Latest on Twitter',
+        'twitter_id' => '345111976353091584',
+        'postcount' => 2,
+      ),
+      5 => 
+      array (
+        'title' => 'Latest on Twitter',
+        'twitter_id' => '345111976353091584',
+        'postcount' => 2,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  115 => 
+  array (
+    'option_id' => '220',
+    'option_name' => 'dgx_donate_show_designated_funds_section',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  116 => 
+  array (
+    'option_id' => '221',
+    'option_name' => 'dgx_donate_show_repeating_option',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  117 => 
+  array (
+    'option_id' => '222',
+    'option_name' => 'dgx_donate_show_tribute_section',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  118 => 
+  array (
+    'option_id' => '223',
+    'option_name' => 'dgx_donate_show_employer_section',
+    'option_value' => 'false',
+    'autoload' => 'yes',
+  ),
+  119 => 
+  array (
+    'option_id' => '224',
+    'option_name' => 'dgx_donate_show_donor_telephone_field',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  120 => 
+  array (
+    'option_id' => '225',
+    'option_name' => 'dgx_donate_show_donor_employer_field',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  121 => 
+  array (
+    'option_id' => '226',
+    'option_name' => 'dgx_donate_show_donor_occupation_field',
+    'option_value' => 'false',
+    'autoload' => 'yes',
+  ),
+  122 => 
+  array (
+    'option_id' => '227',
+    'option_name' => 'dgx_donate_show_mailing_list_option',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  123 => 
+  array (
+    'option_id' => '228',
+    'option_name' => 'dgx_donate_show_anonymous_option',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  124 => 
+  array (
+    'option_id' => '229',
+    'option_name' => 'dgx_donate_show_donor_address_fields',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  125 => 
+  array (
+    'option_id' => '230',
+    'option_name' => 'dgx_donate_email_name',
+    'option_value' => 'Diplomat',
+    'autoload' => 'yes',
+  ),
+  126 => 
+  array (
+    'option_id' => '231',
+    'option_name' => 'dgx_donate_email_reply',
+    'option_value' => 'test@test.com',
+    'autoload' => 'yes',
+  ),
+  127 => 
+  array (
+    'option_id' => '232',
+    'option_name' => 'dgx_donate_email_subj',
+    'option_value' => 'Thank you for your donation',
+    'autoload' => 'yes',
+  ),
+  128 => 
+  array (
+    'option_id' => '233',
+    'option_name' => 'dgx_donate_email_body',
+    'option_value' => 'Dear [firstname] [lastname], Thank you for your generous donation of [amount]. Please note that no goods or services were received in exchange for this donation.',
+    'autoload' => 'yes',
+  ),
+  129 => 
+  array (
+    'option_id' => '234',
+    'option_name' => 'dgx_donate_email_recur',
+    'option_value' => 'Thank you for electing to have your donation automatically repeated each month.',
+    'autoload' => 'yes',
+  ),
+  130 => 
+  array (
+    'option_id' => '235',
+    'option_name' => 'dgx_donate_email_desig',
+    'option_value' => 'Your donation has been designated to the [fund] fund.',
+    'autoload' => 'yes',
+  ),
+  131 => 
+  array (
+    'option_id' => '236',
+    'option_name' => 'dgx_donate_email_anon',
+    'option_value' => 'You have requested that your donation be kept anonymous. Your name will not be revealed to the public.',
+    'autoload' => 'yes',
+  ),
+  132 => 
+  array (
+    'option_id' => '237',
+    'option_name' => 'dgx_donate_email_list',
+    'option_value' => 'Thank you for joining our mailing list. We will send you updates from time-to-time. If at any time you would like to stop receiving emails, please send us an email to be removed from the mailing list.',
+    'autoload' => 'yes',
+  ),
+  133 => 
+  array (
+    'option_id' => '238',
+    'option_name' => 'dgx_donate_email_trib',
+    'option_value' => 'You have asked to make this donation in honor of or memory of someone else. Thank you! We will notify the honoree within the next 5-10 business days.',
+    'autoload' => 'yes',
+  ),
+  134 => 
+  array (
+    'option_id' => '239',
+    'option_name' => 'dgx_donate_email_empl',
+    'option_value' => 'You have specified that your employer matches some or all of your donation.',
+    'autoload' => 'yes',
+  ),
+  135 => 
+  array (
+    'option_id' => '240',
+    'option_name' => 'dgx_donate_email_close',
+    'option_value' => 'Thanks again for your support!',
+    'autoload' => 'yes',
+  ),
+  136 => 
+  array (
+    'option_id' => '241',
+    'option_name' => 'dgx_donate_email_sig',
+    'option_value' => 'Director of Donor Relations',
+    'autoload' => 'yes',
+  ),
+  137 => 
+  array (
+    'option_id' => '242',
+    'option_name' => 'dgx_donate_notify_emails',
+    'option_value' => 'test@test.com',
+    'autoload' => 'yes',
+  ),
+  138 => 
+  array (
+    'option_id' => '243',
+    'option_name' => 'dgx_donate_payment_gateway',
+    'option_value' => 'DGXDONATEPAYPALSTD',
+    'autoload' => 'yes',
+  ),
+  139 => 
+  array (
+    'option_id' => '244',
+    'option_name' => 'dgx_donate_paypal_server',
+    'option_value' => 'SANDBOX',
+    'autoload' => 'yes',
+  ),
+  140 => 
+  array (
+    'option_id' => '245',
+    'option_name' => 'dgx_donate_paypal_email',
+    'option_value' => 'test@test.com',
+    'autoload' => 'yes',
+  ),
+  141 => 
+  array (
+    'option_id' => '246',
+    'option_name' => 'dgx_donate_thanks_text',
+    'option_value' => 'Thank you for donating!  A thank you email with the details of your donation will be sent to the email address you provided.',
+    'autoload' => 'yes',
+  ),
+  142 => 
+  array (
+    'option_id' => '247',
+    'option_name' => 'dgx_donate_giving_level_1000',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  143 => 
+  array (
+    'option_id' => '248',
+    'option_name' => 'dgx_donate_giving_level_500',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  144 => 
+  array (
+    'option_id' => '249',
+    'option_name' => 'dgx_donate_giving_level_100',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  145 => 
+  array (
+    'option_id' => '250',
+    'option_name' => 'dgx_donate_giving_level_50',
+    'option_value' => 'yes',
+    'autoload' => 'yes',
+  ),
+  146 => 
+  array (
+    'option_id' => '251',
+    'option_name' => 'dgx_donate_currency',
+    'option_value' => 'USD',
+    'autoload' => 'yes',
+  ),
+  147 => 
+  array (
+    'option_id' => '252',
+    'option_name' => 'dgx_donate_default_country',
+    'option_value' => 'US',
+    'autoload' => 'yes',
+  ),
+  148 => 
+  array (
+    'option_id' => '253',
+    'option_name' => 'dgx_donate_default_state',
+    'option_value' => 'WA',
+    'autoload' => 'yes',
+  ),
+  149 => 
+  array (
+    'option_id' => '254',
+    'option_name' => 'dgx_donate_default_province',
+    'option_value' => 'AB',
+    'autoload' => 'yes',
+  ),
+  150 => 
+  array (
+    'option_id' => '255',
+    'option_name' => 'dgx_donate_scripts_in_footer',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  151 => 
+  array (
+    'option_id' => '256',
+    'option_name' => 'widget_nav_menu',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'Campaign',
+        'nav_menu' => 73,
+      ),
+      3 => 
+      array (
+        'title' => 'Issues',
+        'nav_menu' => 74,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  152 => 
+  array (
+    'option_id' => '257',
+    'option_name' => 'nav_menu_options',
+    'option_value' => 
+    array (
+      0 => false,
+      'auto_add' => 
+      array (
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  153 => 
+  array (
+    'option_id' => '260',
+    'option_name' => 'widget_tmm_contact_form_widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'Contact Form',
+        'form' => 'Contacts',
+        'labels' => NULL,
+      ),
+      3 => 
+      array (
+        'title' => 'Contact Form',
+        'form' => 'Contacts',
+        'labels' => NULL,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  154 => 
+  array (
+    'option_id' => '261',
+    'option_name' => 'widget_tmm_eventscalendarwidget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'Events Calendar',
+      ),
+      3 => 
+      array (
+        'title' => '',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  155 => 
+  array (
+    'option_id' => '262',
+    'option_name' => 'widget_tmm_google_map_widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'Our Location',
+        'width' => '360',
+        'height' => '200',
+        'mode' => 'image',
+        'latitude' => '40.714623',
+        'longitude' => '-74.006605',
+        'address' => 'New York',
+        'location_mode' => 'address',
+        'zoom' => '12',
+        'scrollwheel' => NULL,
+        'maptype' => 'ROADMAP',
+        'marker' => NULL,
+        'popup' => NULL,
+        'popup_text' => '',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  156 => 
+  array (
+    'option_id' => '263',
+    'option_name' => 'widget_popular-widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'limit' => 3,
+        'excerptlength' => 5,
+        'calculate' => 'visits',
+        'order' => 
+        array (
+          'recent' => 'Latest',
+          'viewed' => 'Popular',
+          'comments' => 'Comments',
+        ),
+        'meta_key' => '_popular_views',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  157 => 
+  array (
+    'option_id' => '264',
+    'option_name' => 'widget_tmm_video_widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'Obama Scolds \'Offensive\' Romney',
+        'url' => '__tmm_old_home_url__/wp-content/uploads/2015/03/Obama-Scolds-Offensive-Romney.mp4',
+        'height' => '200',
+      ),
+      3 => 
+      array (
+        'title' => 'Video Title',
+        'url' => '__tmm_old_home_url__/wp-content/uploads/2015/03/Obama-Scolds-Offensive-Romney.mp4',
+        'height' => '200',
+      ),
+      4 => 
+      array (
+        'title' => 'Video Title',
+        'url' => 'https://www.youtube.com/watch?v=aO2YB5jkef4',
+        'height' => '200',
+      ),
+      5 => 
+      array (
+        'title' => 'Video Title',
+        'url' => 'https://www.youtube.com/watch?v=aO2YB5jkef4',
+        'height' => '200',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  158 => 
+  array (
+    'option_id' => '265',
+    'option_name' => 'widget_tmm_contact_us_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  159 => 
+  array (
+    'option_id' => '266',
+    'option_name' => 'widget_tmm_facebook_likebox_widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'Facebook Like Box',
+        'pageID' => '273813622709585',
+        'connection' => '18',
+        'height' => '300',
+        'header' => NULL,
+      ),
+      3 => 
+      array (
+        'title' => 'Facebook Like Box',
+        'pageID' => '273813622709585',
+        'connection' => '12',
+        'height' => '340',
+        'header' => 'true',
+      ),
+      4 => 
+      array (
+        'title' => 'Facebook Like Box',
+        'pageID' => '273813622709585',
+        'connection' => '12',
+        'height' => '340',
+        'header' => 'true',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  160 => 
+  array (
+    'option_id' => '267',
+    'option_name' => 'widget_tmm_flickr_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  161 => 
+  array (
+    'option_id' => '268',
+    'option_name' => 'widget_tmm_random_posts_widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'Random Article',
+        'count' => 1,
+        'cat' => '',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  162 => 
+  array (
+    'option_id' => '269',
+    'option_name' => 'widget_tmm_soonesteventwidget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'boxtitle' => 'Soonest Event',
+        'show_title' => 'true',
+        'month_deep' => '1',
+        'show_time_zone' => NULL,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  163 => 
+  array (
+    'option_id' => '270',
+    'option_name' => 'widget_tmm_upcomingeventswidget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => 'Upcoming Events',
+        'count' => '3',
+        'event_type' => '0',
+        'event_list' => NULL,
+        'month_deep' => '1',
+        'show_exerpt' => NULL,
+        'exerpt_symbols_count' => NULL,
+        'show_event_excerpt' => 'true',
+        'excerpt_event_symbols_count' => '80',
+      ),
+      4 => 
+      array (
+        'title' => 'Featured Events',
+        'count' => '1',
+        'event_type' => '0',
+        'event_list' => 
+        array (
+          0 => '28',
+        ),
+        'month_deep' => '1',
+        'show_event_excerpt' => 'true',
+        'excerpt_event_symbols_count' => '80',
+      ),
+      5 => 
+      array (
+        'title' => 'Featured Event',
+        'count' => '1',
+        'event_type' => '0',
+        'event_list' => 
+        array (
+          0 => '25',
+        ),
+        'month_deep' => '1',
+        'show_event_excerpt' => 'true',
+        'excerpt_event_symbols_count' => '80',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  164 => 
+  array (
+    'option_id' => '297',
+    'option_name' => 'widget_calendar',
+    'option_value' => 
+    array (
+      4 => 
+      array (
+        'title' => 'Calendar',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  165 => 
+  array (
+    'option_id' => '298',
+    'option_name' => 'widget_tag_cloud',
+    'option_value' => 
+    array (
+      3 => 
+      array (
+        'title' => 'Tag Cloud',
+        'taxonomy' => 'category',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  166 => 
+  array (
+    'option_id' => '301',
+    'option_name' => 'widget_tmm_accordion_widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'title' => '',
+        'acc_titles' => '',
+        'acc_body' => '',
+      ),
+      5 => 
+      array (
+        'title' => 'Accordion Widget',
+        'acc_titles' => 'Accordion Title 1^Accordion Title 2^Accordion Title 3',
+        'acc_bodies' => 'Parturient euismod, harum libero commodo consequuntur? Ut labore. Est tristique curae felis laboris gravida eros proident deleniti occaecat, natus error fringilla natoque quas tempor suspendisse sint felis aliqua? Orci mollitia, voluptas condimentum ullam illum, est libero, accumsan, elementum ante adipiscing repellendus aut, incidunt habitant, porta fugiat morbi, dictumst officiis corrupti fringilla aute, aute corporis ultrices eveniet.^Parturient euismod, harum libero commodo consequuntur? Ut labore. Est tristique curae felis laboris gravida eros proident deleniti occaecat, natus error fringilla natoque quas tempor suspendisse sint felis aliqua? Orci mollitia, voluptas condimentum ullam illum, est libero, accumsan, elementum ante adipiscing repellendus aut, incidunt habitant, porta fugiat morbi, dictumst officiis corrupti fringilla aute, aute corporis ultrices eveniet.^Parturient euismod, harum libero commodo consequuntur? Ut labore. Est tristique curae felis laboris gravida eros proident deleniti occaecat, natus error fringilla natoque quas tempor suspendisse sint felis aliqua? Orci mollitia, voluptas condimentum ullam illum, est libero, accumsan, elementum ante adipiscing repellendus aut, incidunt habitant, porta fugiat morbi, dictumst officiis corrupti fringilla aute, aute corporis ultrices eveniet.',
+      ),
+      6 => 
+      array (
+        'title' => '',
+        'acc_titles' => 'Why choose us?^Suspendisse potenti sit^Praesent amet rhoncus',
+        'acc_bodies' => 'Laboris omnis condimentum ante nam blandit. Aspernatur provident facilis assumenda? Sociis vestibulum iure blandit semper faucibus? Volutpat provident corporis earum at? Vivamus non porro. Euismod, tempor! Officia placerat nullam earum.^Pulvinar facilisi lectus aspernatur? Asperiores minus tempus nihil illum veniam rutrum facere, incidunt dolores ullam ullam elementum dicta corrupti quos? Faucibus! Taciti illum, mauris? Placerat aliquet etiam, tempora! Itaque, natoque.^Voluptate molestiae, aute? Earum ex vitae nibh necessitatibus, saepe, mollit, odit earum porttitor, vitae quam ab proident integer, ullamco ducimus omnis veniam molestie! Ullamco, feugiat sociosqu diam id aliquam? Vero.',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  167 => 
+  array (
+    'option_id' => '302',
+    'option_name' => 'widget_tmm_featured_boxes',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'first_box_title' => 'Events',
+        'first_box_title_color' => '#8ad9f2',
+        'first_box_color' => '#14b3e4',
+        'first_box_icon' => 'icon-megaphone',
+        'first_box_link' => '#',
+        'second_box_title' => 'Get Involved',
+        'second_box_title_color' => '#424246',
+        'second_box_color' => '#ffffff',
+        'second_box_icon' => '0',
+        'second_box_link' => '#',
+        'third_box_title' => 'Issues and Positions',
+        'third_box_title_color' => '#ffffff',
+        'third_box_color' => '#424246',
+        'third_box_icon' => '0',
+        'third_box_link' => '#',
+        'fourth_box_title' => 'Volunteer',
+        'fourth_box_title_color' => '#ffb0af',
+        'fourth_box_color' => '#ff615e',
+        'fourth_box_icon' => 'icon-thumbs-up-5',
+        'fourth_box_link' => '#',
+      ),
+      3 => 
+      array (
+        'first_box_title' => 'Events',
+        'first_box_title_color' => '#ffffff',
+        'first_box_color' => '#14b3e4',
+        'first_box_icon' => 'icon-megaphone',
+        'first_box_link' => '__tmm_old_home_url__/events/',
+        'second_box_title' => 'Get Involved',
+        'second_box_title_color' => '#424246',
+        'second_box_color' => '#ffffff',
+        'second_box_icon' => '0',
+        'second_box_link' => '__tmm_old_home_url__/about/donations/',
+        'third_box_title' => 'Issues and Positions',
+        'third_box_title_color' => '#ffffff',
+        'third_box_color' => '#424246',
+        'third_box_icon' => '0',
+        'third_box_link' => '__tmm_old_home_url__/issues/',
+        'fourth_box_title' => 'Volunteer',
+        'fourth_box_title_color' => '#ffffff',
+        'fourth_box_color' => '#ff615e',
+        'fourth_box_icon' => 'icon-thumbs-up-5',
+        'fourth_box_link' => '__tmm_old_home_url__/pages/volunteer/',
+      ),
+      4 => 
+      array (
+        'first_box_title' => 'Events',
+        'first_box_title_color' => '#ffffff',
+        'first_box_color' => '#14b3e4',
+        'first_box_icon' => 'icon-megaphone',
+        'first_box_link' => '__tmm_old_home_url__/events/',
+        'second_box_title' => 'Get Involved',
+        'second_box_title_color' => '#424246',
+        'second_box_color' => '#ffffff',
+        'second_box_icon' => '0',
+        'second_box_link' => '__tmm_old_home_url__/about/donations/',
+        'third_box_title' => 'Issues and Positions',
+        'third_box_title_color' => '#ffffff',
+        'third_box_color' => '#424246',
+        'third_box_icon' => '0',
+        'third_box_link' => '__tmm_old_home_url__/issues/',
+        'fourth_box_title' => 'Volunteer',
+        'fourth_box_title_color' => '#ffffff',
+        'fourth_box_color' => '#ff615e',
+        'fourth_box_icon' => 'icon-thumbs-up-5',
+        'fourth_box_link' => '__tmm_old_home_url__/pages/volunteer/',
+      ),
+      5 => 
+      array (
+        'first_box_title' => 'Events',
+        'first_box_title_color' => '#8ad9f2',
+        'first_box_color' => '#14b3e4',
+        'first_box_icon' => 'icon-megaphone',
+        'first_box_link' => '__tmm_old_home_url__/events/',
+        'second_box_title' => 'Get Involved',
+        'second_box_title_color' => '#424246',
+        'second_box_color' => '#ffffff',
+        'second_box_icon' => '0',
+        'second_box_link' => '__tmm_old_home_url__/about/donations/',
+        'third_box_title' => 'Issues and Positions',
+        'third_box_title_color' => '#424246',
+        'third_box_color' => '#ffffff',
+        'third_box_icon' => '0',
+        'third_box_link' => '__tmm_old_home_url__/issues/',
+        'fourth_box_title' => 'Volunteer',
+        'fourth_box_title_color' => '#8ad9f2',
+        'fourth_box_color' => '#14b3e4',
+        'fourth_box_icon' => 'icon-thumbs-up-5',
+        'fourth_box_link' => '__tmm_old_home_url__/pages/volunteer/',
+      ),
+      6 => 
+      array (
+        'first_box_title' => 'Events',
+        'first_box_title_color' => '#8ad9f2',
+        'first_box_color' => '#14b3e4',
+        'first_box_icon' => 'icon-megaphone',
+        'first_box_link' => '__tmm_old_home_url__/events/',
+        'second_box_title' => 'Get Involved',
+        'second_box_title_color' => '#424246',
+        'second_box_color' => '#ffffff',
+        'second_box_icon' => '0',
+        'second_box_link' => '__tmm_old_home_url__/about/donations/',
+        'third_box_title' => 'Issues and Positions',
+        'third_box_title_color' => '#ffffff',
+        'third_box_color' => '#424246',
+        'third_box_icon' => '0',
+        'third_box_link' => '__tmm_old_home_url__/issues/',
+        'fourth_box_title' => 'Volunteer',
+        'fourth_box_title_color' => '#ffb0af',
+        'fourth_box_color' => '#ff615e',
+        'fourth_box_icon' => 'icon-thumbs-up-5',
+        'fourth_box_link' => '__tmm_old_home_url__/pages/volunteer/',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  168 => 
+  array (
+    'option_id' => '303',
+    'option_name' => 'widget_tmm_recent_posts_widget',
+    'option_value' => 
+    array (
+      6 => 
+      array (
+        'title' => 'Recent Posts',
+        'category' => NULL,
+        'number_category_posts' => '3',
+        'number_popular_posts' => '3',
+        'number_latest_posts' => '3',
+        'number_comments_posts' => '3',
+        'show_thumbnail' => 'true',
+        'show_exerpt' => NULL,
+        'title_exerpt' => NULL,
+        'exerpt_symbols_count' => '60',
+        'title_excerpt' => '45',
+      ),
+      7 => 
+      array (
+        'title' => '',
+        'category' => NULL,
+        'number_category_posts' => '3',
+        'number_popular_posts' => '3',
+        'number_latest_posts' => '3',
+        'number_comments_posts' => '3',
+        'show_thumbnail' => 'true',
+        'show_exerpt' => NULL,
+        'title_excerpt' => '45',
+        'exerpt_symbols_count' => '60',
+      ),
+      8 => 
+      array (
+        'title' => '',
+        'category' => NULL,
+        'number_category_posts' => '3',
+        'number_popular_posts' => '3',
+        'number_latest_posts' => '3',
+        'number_comments_posts' => '3',
+        'show_thumbnail' => 'true',
+        'show_exerpt' => NULL,
+        'title_excerpt' => '45',
+        'exerpt_symbols_count' => '60',
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  169 => 
+  array (
+    'option_id' => '378',
+    'option_name' => 'WPLANG',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  170 => 
+  array (
+    'option_id' => '481',
+    'option_name' => 'gallery-category_children',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  171 => 
+  array (
+    'option_id' => '491',
+    'option_name' => 'ls-plugin-version',
+    'option_value' => '6.7.0',
+    'autoload' => 'yes',
+  ),
+  172 => 
+  array (
+    'option_id' => '492',
+    'option_name' => 'ls-db-version',
+    'option_value' => '6.5.5',
+    'autoload' => 'yes',
+  ),
+  173 => 
+  array (
+    'option_id' => '493',
+    'option_name' => 'ls-installed',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  174 => 
+  array (
+    'option_id' => '494',
+    'option_name' => 'ls-google-fonts',
+    'option_value' => 
+    array (
+      0 => 
+      array (
+        'param' => 'Lato:100,300,regular,700,900',
+        'admin' => false,
+      ),
+      1 => 
+      array (
+        'param' => 'Open+Sans:300',
+        'admin' => false,
+      ),
+      2 => 
+      array (
+        'param' => 'Indie+Flower:regular',
+        'admin' => false,
+      ),
+      3 => 
+      array (
+        'param' => 'Oswald:300,regular,700',
+        'admin' => false,
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  175 => 
+  array (
+    'option_id' => '495',
+    'option_name' => 'ls-date-installed',
+    'option_value' => '1427691831',
+    'autoload' => 'yes',
+  ),
+  176 => 
+  array (
+    'option_id' => '497',
+    'option_name' => 'ls-show-support-notice',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  177 => 
+  array (
+    'option_id' => '535',
+    'option_name' => 'category_children',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  178 => 
+  array (
+    'option_id' => '552',
+    'option_name' => 'arq_options',
+    'option_value' => 
+    array (
+      'social' => 
+      array (
+        'facebook' => 
+        array (
+          'id' => 'wpThemeMakers',
+          'text' => 'Fans',
+        ),
+        'twitter' => 
+        array (
+          'id' => '',
+          'text' => 'Followers',
+          'key' => '',
+          'secret' => '',
+        ),
+        'google' => 
+        array (
+          'id' => '',
+          'key' => '',
+          'text' => 'Followers',
+        ),
+        'youtube' => 
+        array (
+          'id' => 'UCTwc3BdgZVzryqX9XwGSgcA',
+          'text' => 'Subscribers',
+          'type' => 'User',
+        ),
+        'vimeo' => 
+        array (
+          'id' => '',
+          'text' => 'Subscribers',
+        ),
+        'dribbble' => 
+        array (
+          'id' => '',
+          'text' => 'Followers',
+        ),
+        'github' => 
+        array (
+          'id' => '',
+          'text' => 'Followers',
+        ),
+        'envato' => 
+        array (
+          'id' => 'ThemeMakers',
+          'text' => 'Followers',
+          'site' => 'themeforest',
+        ),
+        'soundcloud' => 
+        array (
+          'id' => '',
+          'text' => 'Followers',
+          'api' => '',
+        ),
+        'behance' => 
+        array (
+          'id' => '',
+          'text' => 'Followers',
+          'api' => '',
+        ),
+        'forrst' => 
+        array (
+          'id' => '',
+          'text' => 'Followers',
+        ),
+        'delicious' => 
+        array (
+          'id' => '',
+          'text' => 'Followers',
+        ),
+        'instagram' => 
+        array (
+          'id' => '',
+          'text' => 'Followers',
+          'api' => '',
+        ),
+        'mailchimp' => 
+        array (
+          'id' => '',
+          'text' => 'Subscribers',
+          'url' => '',
+          'api' => '',
+        ),
+        'foursquare' => 
+        array (
+          'id' => '',
+          'text' => 'Friends',
+          'api' => '',
+        ),
+        'linkedin' => 
+        array (
+          'type' => 'Company',
+          'id' => '',
+          'group' => '',
+          'text' => 'Followers',
+        ),
+        'vk' => 
+        array (
+          'id' => '',
+          'text' => 'Members',
+        ),
+        'tumblr' => 
+        array (
+          'hostname' => '',
+          'text' => 'Followers',
+        ),
+        '500px' => 
+        array (
+          'username' => '',
+          'text' => 'Followers',
+        ),
+        'vine' => 
+        array (
+          'url' => '',
+          'text' => 'Followers',
+          'email' => '',
+          'pass' => '',
+        ),
+        'pinterest' => 
+        array (
+          'username' => '',
+          'text' => 'Followers',
+        ),
+        'flickr' => 
+        array (
+          'id' => '',
+          'text' => 'Members',
+          'api' => '',
+        ),
+        'steam' => 
+        array (
+          'group' => '',
+          'text' => 'Members',
+        ),
+        'rss' => 
+        array (
+          'url' => 'http://themeforest.net/feeds/new-themeforest-items.atom',
+          'text' => 'Subscribers',
+          'type' => 'Manual',
+          'feedpress' => '',
+          'manual' => '1279',
+        ),
+        'posts' => 
+        array (
+          'text' => 'Posts',
+        ),
+        'comments' => 
+        array (
+          'text' => 'Comments',
+        ),
+        'members' => 
+        array (
+          'text' => 'Members',
+        ),
+      ),
+      'cache' => 2,
+      'data' => 
+      array (
+        'facebook' => 5409,
+        'youtube' => 12,
+        'envato' => 380,
+        'rss' => '1279',
+      ),
+      'sort' => 
+      array (
+        0 => 'facebook',
+        1 => 'twitter',
+        2 => 'google',
+        3 => 'youtube',
+        4 => 'vimeo',
+        5 => 'dribbble',
+        6 => 'github',
+        7 => 'envato',
+        8 => 'soundcloud',
+        9 => 'behance',
+        11 => 'delicious',
+        12 => 'instagram',
+        13 => 'mailchimp',
+        14 => 'foursquare',
+        15 => 'linkedin',
+        16 => 'vk',
+        17 => 'tumblr',
+        18 => '500px',
+        19 => 'vine',
+        20 => 'pinterest',
+        21 => 'flickr',
+        22 => 'steam',
+        23 => 'rss',
+        24 => 'posts',
+        25 => 'comments',
+        26 => 'members',
+      ),
+      'css' => '',
+    ),
+    'autoload' => 'yes',
+  ),
+  179 => 
+  array (
+    'option_id' => '553',
+    'option_name' => 'arqam_active',
+    'option_value' => '2.0.0',
+    'autoload' => 'yes',
+  ),
+  180 => 
+  array (
+    'option_id' => '555',
+    'option_name' => 'widget_arqam_counter-widget',
+    'option_value' => 
+    array (
+      2 => 
+      array (
+        'layout' => 'gray_2col',
+        'title' => 'Subscribe & Follow',
+        'dark' => NULL,
+        'width' => '',
+        'box_only' => NULL,
+      ),
+      3 => 
+      array (
+        'layout' => 'gray_2col',
+        'title' => 'Subscribe & Follow',
+        'dark' => NULL,
+        'width' => '',
+        'box_only' => NULL,
+      ),
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  181 => 
+  array (
+    'option_id' => '571',
+    'option_name' => 'facebook_access_token',
+    'option_value' => '737102816408948|mY98arNGZF9G63EyzBGPvKCaT78',
+    'autoload' => 'yes',
+  ),
+  182 => 
+  array (
+    'option_id' => '1594',
+    'option_name' => '_bbp_private_forums',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  183 => 
+  array (
+    'option_id' => '1595',
+    'option_name' => '_bbp_hidden_forums',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  184 => 
+  array (
+    'option_id' => '1596',
+    'option_name' => '_bbp_db_version',
+    'option_value' => '250',
+    'autoload' => 'yes',
+  ),
+  185 => 
+  array (
+    'option_id' => '1626',
+    'option_name' => 'widget_bbp_forums_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  186 => 
+  array (
+    'option_id' => '1627',
+    'option_name' => 'widget_bbp_views_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  187 => 
+  array (
+    'option_id' => '1628',
+    'option_name' => 'dgx_donate_initial_40_update_warning',
+    'option_value' => '40A1UPDATEWARNED',
+    'autoload' => 'yes',
+  ),
+  188 => 
+  array (
+    'option_id' => '1741',
+    'option_name' => 'auto_core_update_notified',
+    'option_value' => 
+    array (
+      'type' => 'success',
+      'email' => 'demo@demo.com',
+      'version' => '4.2.4',
+      'timestamp' => 1438691855,
+    ),
+    'autoload' => 'yes',
+  ),
+  189 => 
+  array (
+    'option_id' => '1895',
+    'option_name' => 'db_upgraded',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  190 => 
+  array (
+    'option_id' => '2076',
+    'option_name' => 'ewww_image_optimizer_bulk_attachments',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  191 => 
+  array (
+    'option_id' => '2077',
+    'option_name' => 'ewww_image_optimizer_flag_attachments',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  192 => 
+  array (
+    'option_id' => '2078',
+    'option_name' => 'ewww_image_optimizer_ngg_attachments',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  193 => 
+  array (
+    'option_id' => '2079',
+    'option_name' => 'ewww_image_optimizer_aux_attachments',
+    'option_value' => '',
+    'autoload' => 'no',
+  ),
+  194 => 
+  array (
+    'option_id' => '2080',
+    'option_name' => 'ewww_image_optimizer_cloud_jpg',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  195 => 
+  array (
+    'option_id' => '2081',
+    'option_name' => 'ewww_image_optimizer_cloud_png',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  196 => 
+  array (
+    'option_id' => '2082',
+    'option_name' => 'ewww_image_optimizer_cloud_gif',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  197 => 
+  array (
+    'option_id' => '2083',
+    'option_name' => 'ewww_image_optimizer_cloud_key',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  198 => 
+  array (
+    'option_id' => '2084',
+    'option_name' => 'ewww_image_optimizer_disable_pngout',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  199 => 
+  array (
+    'option_id' => '2085',
+    'option_name' => 'ewww_image_optimizer_optipng_level',
+    'option_value' => '2',
+    'autoload' => 'yes',
+  ),
+  200 => 
+  array (
+    'option_id' => '2086',
+    'option_name' => 'ewww_image_optimizer_pngout_level',
+    'option_value' => '2',
+    'autoload' => 'yes',
+  ),
+  201 => 
+  array (
+    'option_id' => '2087',
+    'option_name' => 'ewww_image_optimizer_version',
+    'option_value' => '232.0',
+    'autoload' => 'yes',
+  ),
+  202 => 
+  array (
+    'option_id' => '2088',
+    'option_name' => 'ewww_image_optimizer_bulk_resume',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  203 => 
+  array (
+    'option_id' => '2275',
+    'option_name' => 'zencache_options',
+    'option_value' => 
+    array (
+      'version' => '150409',
+      'crons_setup' => '1430611381',
+      'enable' => '1',
+      'debugging_enable' => '1',
+      'base_dir' => 'cache/zencache',
+      'cache_max_age' => '7 days',
+      'cache_clear_home_page_enable' => '1',
+      'cache_clear_posts_page_enable' => '1',
+      'cache_clear_author_page_enable' => '1',
+      'cache_clear_term_category_enable' => '1',
+      'cache_clear_term_post_tag_enable' => '1',
+      'cache_clear_term_other_enable' => '0',
+      'allow_browser_cache' => '0',
+      'get_requests' => '0',
+      'feeds_enable' => '0',
+      'cache_404_requests' => '0',
+      'uninstall_on_deletion' => '0',
+    ),
+    'autoload' => 'yes',
+  ),
+  204 => 
+  array (
+    'option_id' => '2277',
+    'option_name' => 'zencache_notices',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  205 => 
+  array (
+    'option_id' => '3050',
+    'option_name' => 'ossdl_off_cdn_url',
+    'option_value' => 'http://cdn-diplomat.thememakers.netdna-cdn.com',
+    'autoload' => 'yes',
+  ),
+  206 => 
+  array (
+    'option_id' => '3051',
+    'option_name' => 'ossdl_off_include_dirs',
+    'option_value' => 'wp-content,wp-includes',
+    'autoload' => 'yes',
+  ),
+  207 => 
+  array (
+    'option_id' => '3052',
+    'option_name' => 'ossdl_off_exclude',
+    'option_value' => '.php',
+    'autoload' => 'yes',
+  ),
+  208 => 
+  array (
+    'option_id' => '3053',
+    'option_name' => 'ossdl_cname',
+    'option_value' => 'http://cdn-diplomat.thememakers.netdna-cdn.com',
+    'autoload' => 'yes',
+  ),
+  209 => 
+  array (
+    'option_id' => '3054',
+    'option_name' => 'wpsupercache_start',
+    'option_value' => '1431363251',
+    'autoload' => 'yes',
+  ),
+  210 => 
+  array (
+    'option_id' => '3055',
+    'option_name' => 'wpsupercache_count',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  211 => 
+  array (
+    'option_id' => '3057',
+    'option_name' => 'wpsupercache_gc_time',
+    'option_value' => '1431374215',
+    'autoload' => 'yes',
+  ),
+  212 => 
+  array (
+    'option_id' => '3059',
+    'option_name' => 'ossdl_https',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  213 => 
+  array (
+    'option_id' => '3060',
+    'option_name' => 'supercache_stats',
+    'option_value' => 
+    array (
+      'generated' => 1431375826,
+      'supercache' => 
+      array (
+        'expired' => 0,
+        'expired_list' => 
+        array (
+        ),
+        'cached' => 0,
+        'cached_list' => 
+        array (
+        ),
+        'ts' => 1431375826,
+      ),
+      'wpcache' => 
+      array (
+        'cached' => 0,
+        'expired' => 0,
+        'fsize' => '0KB',
+      ),
+    ),
+    'autoload' => 'yes',
+  ),
+  214 => 
+  array (
+    'option_id' => '3074',
+    'option_name' => 'ls-collapsed-boxes',
+    'option_value' => 
+    array (
+      'ls-advanced-settings-toggle' => false,
+    ),
+    'autoload' => 'yes',
+  ),
+  215 => 
+  array (
+    'option_id' => '3075',
+    'option_name' => 'ls_include_at_footer',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  216 => 
+  array (
+    'option_id' => '3076',
+    'option_name' => 'ls_concatenate_output',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  217 => 
+  array (
+    'option_id' => '4069',
+    'option_name' => 'position_children',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  218 => 
+  array (
+    'option_id' => '4677',
+    'option_name' => 'dgx_donate_designated_funds_legacy_import',
+    'option_value' => 'sd40',
+    'autoload' => 'yes',
+  ),
+  219 => 
+  array (
+    'option_id' => '4678',
+    'option_name' => '_dgx_donate_donations_legacy_import',
+    'option_value' => 'sd40',
+    'autoload' => 'yes',
+  ),
+  220 => 
+  array (
+    'option_id' => '4679',
+    'option_name' => 'dgx_donate_donors_legacy_import',
+    'option_value' => 'sd40',
+    'autoload' => 'yes',
+  ),
+  221 => 
+  array (
+    'option_id' => '4680',
+    'option_name' => 'dgx_donate_start_in_sd4_mode',
+    'option_value' => 'true',
+    'autoload' => 'yes',
+  ),
+  222 => 
+  array (
+    'option_id' => '4681',
+    'option_name' => 'dgx_donate_display_admin_donations_tab',
+    'option_value' => 'hide',
+    'autoload' => 'yes',
+  ),
+  223 => 
+  array (
+    'option_id' => '4682',
+    'option_name' => 'dgx_donate_display_admin_donors_tab',
+    'option_value' => 'hide',
+    'autoload' => 'yes',
+  ),
+  224 => 
+  array (
+    'option_id' => '4683',
+    'option_name' => 'dgx_donate_display_admin_funds_tab',
+    'option_value' => 'show',
+    'autoload' => 'yes',
+  ),
+  225 => 
+  array (
+    'option_id' => '4749',
+    'option_name' => 'SeamlessDonationsAdmin',
+    'option_value' => 
+    array (
+    ),
+    'autoload' => 'yes',
+  ),
+  226 => 
+  array (
+    'option_id' => '6894',
+    'option_name' => 'dgx_donate_active_version',
+    'option_value' => '4.0.23',
+    'autoload' => 'yes',
+  ),
+  227 => 
+  array (
+    'option_id' => '7720',
+    'option_name' => 'finished_splitting_shared_terms',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  228 => 
+  array (
+    'option_id' => '7723',
+    'option_name' => 'rewrite_rules',
+    'option_value' => 
+    array (
+      'forums/?$' => 'index.php?post_type=forum',
+      'forums/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=forum&feed=$matches[1]',
+      'forums/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=forum&feed=$matches[1]',
+      'forums/page/([0-9]{1,})/?$' => 'index.php?post_type=forum&paged=$matches[1]',
+      'topics/?$' => 'index.php?post_type=topic',
+      'topics/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=topic&feed=$matches[1]',
+      'topics/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=topic&feed=$matches[1]',
+      'topics/page/([0-9]{1,})/?$' => 'index.php?post_type=topic&paged=$matches[1]',
+      'forums/forum/([^/]+)/edit/?$' => 'index.php?forum=$matches[1]&edit=1',
+      'forums/topic/([^/]+)/edit/?$' => 'index.php?topic=$matches[1]&edit=1',
+      'forums/reply/([^/]+)/edit/?$' => 'index.php?reply=$matches[1]&edit=1',
+      'forums/topic-tag/([^/]+)/edit/?$' => 'index.php?topic-tag=$matches[1]&edit=1',
+      'forums/user/([^/]+)/topics/page/?([0-9]{1,})/?$' => 'index.php?bbp_user=$matches[1]&bbp_tops=1&paged=$matches[2]',
+      'forums/user/([^/]+)/replies/page/?([0-9]{1,})/?$' => 'index.php?bbp_user=$matches[1]&bbp_reps=1&paged=$matches[2]',
+      'forums/user/([^/]+)/favorites/page/?([0-9]{1,})/?$' => 'index.php?bbp_user=$matches[1]&bbp_favs=1&paged=$matches[2]',
+      'forums/user/([^/]+)/subscriptions/page/?([0-9]{1,})/?$' => 'index.php?bbp_user=$matches[1]&bbp_subs=1&paged=$matches[2]',
+      'forums/user/([^/]+)/topics/?$' => 'index.php?bbp_user=$matches[1]&bbp_tops=1',
+      'forums/user/([^/]+)/replies/?$' => 'index.php?bbp_user=$matches[1]&bbp_reps=1',
+      'forums/user/([^/]+)/favorites/?$' => 'index.php?bbp_user=$matches[1]&bbp_favs=1',
+      'forums/user/([^/]+)/subscriptions/?$' => 'index.php?bbp_user=$matches[1]&bbp_subs=1',
+      'forums/user/([^/]+)/edit/?$' => 'index.php?bbp_user=$matches[1]&edit=1',
+      'forums/user/([^/]+)/?$' => 'index.php?bbp_user=$matches[1]',
+      'forums/view/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?bbp_view=$matches[1]&paged=$matches[2]',
+      'forums/view/([^/]+)/feed/?$' => 'index.php?bbp_view=$matches[1]&feed=$matches[2]',
+      'forums/view/([^/]+)/?$' => 'index.php?bbp_view=$matches[1]',
+      'forums/search/page/?([0-9]{1,})/?$' => 'index.php?paged=$matches[1]',
+      'forums/search/?$' => 'index.php?bbp_search',
+      'event/?$' => 'index.php?post_type=event',
+      'event/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=event&feed=$matches[1]',
+      'event/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=event&feed=$matches[1]',
+      'event/page/([0-9]{1,})/?$' => 'index.php?post_type=event&paged=$matches[1]',
+      '^event/([^/]*)/date/([^/]*)/?' => 'index.php?event=$matches[1]&date=$matches[2]',
+      '^event/date/([^/]*)/?' => 'index.php?post_type=event&date=$matches[1]',
+      'team-page/?$' => 'index.php?post_type=team-page',
+      'team-page/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=team-page&feed=$matches[1]',
+      'team-page/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=team-page&feed=$matches[1]',
+      'team-page/page/([0-9]{1,})/?$' => 'index.php?post_type=team-page&paged=$matches[1]',
+      'tmonials/?$' => 'index.php?post_type=tmonials',
+      'tmonials/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=tmonials&feed=$matches[1]',
+      'tmonials/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=tmonials&feed=$matches[1]',
+      'tmonials/page/([0-9]{1,})/?$' => 'index.php?post_type=tmonials&paged=$matches[1]',
+      'email_subscriber/?$' => 'index.php?post_type=email_subscriber',
+      'email_subscriber/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=email_subscriber&feed=$matches[1]',
+      'email_subscriber/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=email_subscriber&feed=$matches[1]',
+      'email_subscriber/page/([0-9]{1,})/?$' => 'index.php?post_type=email_subscriber&paged=$matches[1]',
+      'gall/?$' => 'index.php?post_type=gall',
+      'gall/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=gall&feed=$matches[1]',
+      'gall/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_type=gall&feed=$matches[1]',
+      'gall/page/([0-9]{1,})/?$' => 'index.php?post_type=gall&paged=$matches[1]',
+      'category/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?category_name=$matches[1]&feed=$matches[2]',
+      'category/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?category_name=$matches[1]&feed=$matches[2]',
+      'category/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?category_name=$matches[1]&paged=$matches[2]',
+      'category/(.+?)/?$' => 'index.php?category_name=$matches[1]',
+      'tag/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?tag=$matches[1]&feed=$matches[2]',
+      'tag/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?tag=$matches[1]&feed=$matches[2]',
+      'tag/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?tag=$matches[1]&paged=$matches[2]',
+      'tag/([^/]+)/?$' => 'index.php?tag=$matches[1]',
+      'type/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_format=$matches[1]&feed=$matches[2]',
+      'type/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?post_format=$matches[1]&feed=$matches[2]',
+      'type/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?post_format=$matches[1]&paged=$matches[2]',
+      'type/([^/]+)/?$' => 'index.php?post_format=$matches[1]',
+      'forums/forum/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'forums/forum/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'forums/forum/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/forum/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/forum/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'forums/forum/(.+?)/trackback/?$' => 'index.php?forum=$matches[1]&tb=1',
+      'forums/forum/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?forum=$matches[1]&feed=$matches[2]',
+      'forums/forum/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?forum=$matches[1]&feed=$matches[2]',
+      'forums/forum/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?forum=$matches[1]&paged=$matches[2]',
+      'forums/forum/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?forum=$matches[1]&cpage=$matches[2]',
+      'forums/forum/(.+?)(/[0-9]+)?/?$' => 'index.php?forum=$matches[1]&page=$matches[2]',
+      'forums/topic/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'forums/topic/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'forums/topic/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/topic/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/topic/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'forums/topic/([^/]+)/trackback/?$' => 'index.php?topic=$matches[1]&tb=1',
+      'forums/topic/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?topic=$matches[1]&feed=$matches[2]',
+      'forums/topic/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?topic=$matches[1]&feed=$matches[2]',
+      'forums/topic/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?topic=$matches[1]&paged=$matches[2]',
+      'forums/topic/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?topic=$matches[1]&cpage=$matches[2]',
+      'forums/topic/([^/]+)(/[0-9]+)?/?$' => 'index.php?topic=$matches[1]&page=$matches[2]',
+      'forums/topic/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'forums/topic/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'forums/topic/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/topic/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/topic/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'forums/reply/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'forums/reply/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'forums/reply/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/reply/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/reply/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'forums/reply/([^/]+)/trackback/?$' => 'index.php?reply=$matches[1]&tb=1',
+      'forums/reply/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?reply=$matches[1]&paged=$matches[2]',
+      'forums/reply/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?reply=$matches[1]&cpage=$matches[2]',
+      'forums/reply/([^/]+)(/[0-9]+)?/?$' => 'index.php?reply=$matches[1]&page=$matches[2]',
+      'forums/reply/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'forums/reply/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'forums/reply/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/reply/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'forums/reply/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'forums/topic-tag/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?topic-tag=$matches[1]&feed=$matches[2]',
+      'forums/topic-tag/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?topic-tag=$matches[1]&feed=$matches[2]',
+      'forums/topic-tag/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?topic-tag=$matches[1]&paged=$matches[2]',
+      'forums/topic-tag/([^/]+)/?$' => 'index.php?topic-tag=$matches[1]',
+      'forums/search/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?bbp_search=$matches[1]&paged=$matches[2]',
+      'forums/search/([^/]+)/?$' => 'index.php?bbp_search=$matches[1]',
+      'donation/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'donation/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'donation/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donation/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donation/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'donation/([^/]+)/trackback/?$' => 'index.php?donation=$matches[1]&tb=1',
+      'donation/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?donation=$matches[1]&paged=$matches[2]',
+      'donation/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?donation=$matches[1]&cpage=$matches[2]',
+      'donation/([^/]+)(/[0-9]+)?/?$' => 'index.php?donation=$matches[1]&page=$matches[2]',
+      'donation/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'donation/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'donation/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donation/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donation/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'donor/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'donor/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'donor/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donor/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donor/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'donor/([^/]+)/trackback/?$' => 'index.php?donor=$matches[1]&tb=1',
+      'donor/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?donor=$matches[1]&paged=$matches[2]',
+      'donor/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?donor=$matches[1]&cpage=$matches[2]',
+      'donor/([^/]+)(/[0-9]+)?/?$' => 'index.php?donor=$matches[1]&page=$matches[2]',
+      'donor/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'donor/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'donor/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donor/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'donor/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'funds/[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'funds/[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'funds/[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'funds/[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'funds/[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'funds/([^/]+)/trackback/?$' => 'index.php?funds=$matches[1]&tb=1',
+      'funds/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?funds=$matches[1]&paged=$matches[2]',
+      'funds/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?funds=$matches[1]&cpage=$matches[2]',
+      'funds/([^/]+)(/[0-9]+)?/?$' => 'index.php?funds=$matches[1]&page=$matches[2]',
+      'funds/[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'funds/[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'funds/[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'funds/[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'funds/[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'event/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'event/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'event/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'event/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'event/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'event/(.+?)/trackback/?$' => 'index.php?event=$matches[1]&tb=1',
+      'event/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?event=$matches[1]&feed=$matches[2]',
+      'event/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?event=$matches[1]&feed=$matches[2]',
+      'event/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?event=$matches[1]&paged=$matches[2]',
+      'event/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?event=$matches[1]&cpage=$matches[2]',
+      'event/(.+?)(/[0-9]+)?/?$' => 'index.php?event=$matches[1]&page=$matches[2]',
+      'events-categories/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?events-categories=$matches[1]&feed=$matches[2]',
+      'events-categories/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?events-categories=$matches[1]&feed=$matches[2]',
+      'events-categories/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?events-categories=$matches[1]&paged=$matches[2]',
+      'events-categories/([^/]+)/?$' => 'index.php?events-categories=$matches[1]',
+      'slidergroup/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'slidergroup/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'slidergroup/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'slidergroup/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'slidergroup/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'slidergroup/(.+?)/trackback/?$' => 'index.php?slidergroup=$matches[1]&tb=1',
+      'slidergroup/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?slidergroup=$matches[1]&paged=$matches[2]',
+      'slidergroup/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?slidergroup=$matches[1]&cpage=$matches[2]',
+      'slidergroup/(.+?)(/[0-9]+)?/?$' => 'index.php?slidergroup=$matches[1]&page=$matches[2]',
+      'position/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?position=$matches[1]&feed=$matches[2]',
+      'position/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?position=$matches[1]&feed=$matches[2]',
+      'position/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?position=$matches[1]&paged=$matches[2]',
+      'position/([^/]+)/?$' => 'index.php?position=$matches[1]',
+      'team-page/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'team-page/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'team-page/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'team-page/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'team-page/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'team-page/(.+?)/trackback/?$' => 'index.php?team-page=$matches[1]&tb=1',
+      'team-page/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?team-page=$matches[1]&feed=$matches[2]',
+      'team-page/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?team-page=$matches[1]&feed=$matches[2]',
+      'team-page/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?team-page=$matches[1]&paged=$matches[2]',
+      'team-page/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?team-page=$matches[1]&cpage=$matches[2]',
+      'team-page/(.+?)(/[0-9]+)?/?$' => 'index.php?team-page=$matches[1]&page=$matches[2]',
+      'tmonials/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'tmonials/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'tmonials/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'tmonials/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'tmonials/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'tmonials/(.+?)/trackback/?$' => 'index.php?tmonials=$matches[1]&tb=1',
+      'tmonials/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?tmonials=$matches[1]&feed=$matches[2]',
+      'tmonials/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?tmonials=$matches[1]&feed=$matches[2]',
+      'tmonials/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?tmonials=$matches[1]&paged=$matches[2]',
+      'tmonials/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?tmonials=$matches[1]&cpage=$matches[2]',
+      'tmonials/(.+?)(/[0-9]+)?/?$' => 'index.php?tmonials=$matches[1]&page=$matches[2]',
+      'email_subscriber/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'email_subscriber/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'email_subscriber/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'email_subscriber/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'email_subscriber/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'email_subscriber/(.+?)/trackback/?$' => 'index.php?email_subscriber=$matches[1]&tb=1',
+      'email_subscriber/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?email_subscriber=$matches[1]&feed=$matches[2]',
+      'email_subscriber/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?email_subscriber=$matches[1]&feed=$matches[2]',
+      'email_subscriber/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?email_subscriber=$matches[1]&paged=$matches[2]',
+      'email_subscriber/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?email_subscriber=$matches[1]&cpage=$matches[2]',
+      'email_subscriber/(.+?)(/[0-9]+)?/?$' => 'index.php?email_subscriber=$matches[1]&page=$matches[2]',
+      'gallery-category/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?gallery-category=$matches[1]&feed=$matches[2]',
+      'gallery-category/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?gallery-category=$matches[1]&feed=$matches[2]',
+      'gallery-category/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?gallery-category=$matches[1]&paged=$matches[2]',
+      'gallery-category/([^/]+)/?$' => 'index.php?gallery-category=$matches[1]',
+      'gall/.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      'gall/.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      'gall/.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'gall/.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      'gall/.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      'gall/(.+?)/trackback/?$' => 'index.php?gall=$matches[1]&tb=1',
+      'gall/(.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?gall=$matches[1]&feed=$matches[2]',
+      'gall/(.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?gall=$matches[1]&feed=$matches[2]',
+      'gall/(.+?)/page/?([0-9]{1,})/?$' => 'index.php?gall=$matches[1]&paged=$matches[2]',
+      'gall/(.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?gall=$matches[1]&cpage=$matches[2]',
+      'gall/(.+?)(/[0-9]+)?/?$' => 'index.php?gall=$matches[1]&page=$matches[2]',
+      'robots\\.txt$' => 'index.php?robots=1',
+      '.*wp-(atom|rdf|rss|rss2|feed|commentsrss2)\\.php$' => 'index.php?feed=old',
+      '.*wp-app\\.php(/.*)?$' => 'index.php?error=403',
+      '.*wp-register.php$' => 'index.php?register=true',
+      'feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]',
+      '(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]',
+      'page/?([0-9]{1,})/?$' => 'index.php?&paged=$matches[1]',
+      'comment-page-([0-9]{1,})/?$' => 'index.php?&page_id=4&cpage=$matches[1]',
+      'comments/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]&withcomments=1',
+      'comments/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?&feed=$matches[1]&withcomments=1',
+      'search/(.+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?s=$matches[1]&feed=$matches[2]',
+      'search/(.+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?s=$matches[1]&feed=$matches[2]',
+      'search/(.+)/page/?([0-9]{1,})/?$' => 'index.php?s=$matches[1]&paged=$matches[2]',
+      'search/(.+)/?$' => 'index.php?s=$matches[1]',
+      'author/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?author_name=$matches[1]&feed=$matches[2]',
+      'author/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?author_name=$matches[1]&feed=$matches[2]',
+      'author/([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?author_name=$matches[1]&paged=$matches[2]',
+      'author/([^/]+)/?$' => 'index.php?author_name=$matches[1]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&feed=$matches[4]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&feed=$matches[4]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/page/?([0-9]{1,})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]&paged=$matches[4]',
+      '([0-9]{4})/([0-9]{1,2})/([0-9]{1,2})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&day=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&feed=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&feed=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/page/?([0-9]{1,})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]&paged=$matches[3]',
+      '([0-9]{4})/([0-9]{1,2})/?$' => 'index.php?year=$matches[1]&monthnum=$matches[2]',
+      '([0-9]{4})/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&feed=$matches[2]',
+      '([0-9]{4})/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?year=$matches[1]&feed=$matches[2]',
+      '([0-9]{4})/page/?([0-9]{1,})/?$' => 'index.php?year=$matches[1]&paged=$matches[2]',
+      '([0-9]{4})/?$' => 'index.php?year=$matches[1]',
+      '.?.+?/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      '.?.+?/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      '.?.+?/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '.?.+?/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '.?.+?/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      '(.?.+?)/trackback/?$' => 'index.php?pagename=$matches[1]&tb=1',
+      '(.?.+?)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?pagename=$matches[1]&feed=$matches[2]',
+      '(.?.+?)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?pagename=$matches[1]&feed=$matches[2]',
+      '(.?.+?)/page/?([0-9]{1,})/?$' => 'index.php?pagename=$matches[1]&paged=$matches[2]',
+      '(.?.+?)/comment-page-([0-9]{1,})/?$' => 'index.php?pagename=$matches[1]&cpage=$matches[2]',
+      '(.?.+?)(/[0-9]+)?/?$' => 'index.php?pagename=$matches[1]&page=$matches[2]',
+      '[^/]+/attachment/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      '[^/]+/attachment/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      '[^/]+/attachment/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/attachment/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/attachment/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+      '([^/]+)/trackback/?$' => 'index.php?name=$matches[1]&tb=1',
+      '([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?name=$matches[1]&feed=$matches[2]',
+      '([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?name=$matches[1]&feed=$matches[2]',
+      '([^/]+)/page/?([0-9]{1,})/?$' => 'index.php?name=$matches[1]&paged=$matches[2]',
+      '([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?name=$matches[1]&cpage=$matches[2]',
+      '([^/]+)(/[0-9]+)?/?$' => 'index.php?name=$matches[1]&page=$matches[2]',
+      '[^/]+/([^/]+)/?$' => 'index.php?attachment=$matches[1]',
+      '[^/]+/([^/]+)/trackback/?$' => 'index.php?attachment=$matches[1]&tb=1',
+      '[^/]+/([^/]+)/feed/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/([^/]+)/(feed|rdf|rss|rss2|atom)/?$' => 'index.php?attachment=$matches[1]&feed=$matches[2]',
+      '[^/]+/([^/]+)/comment-page-([0-9]{1,})/?$' => 'index.php?attachment=$matches[1]&cpage=$matches[2]',
+    ),
+    'autoload' => 'yes',
+  ),
+  229 => 
+  array (
+    'option_id' => '7724',
+    'option_name' => 'can_compress_scripts',
+    'option_value' => '0',
+    'autoload' => 'yes',
+  ),
+  230 => 
+  array (
+    'option_id' => '7752',
+    'option_name' => 'ls-latest-version',
+    'option_value' => '',
+    'autoload' => 'yes',
+  ),
+  231 => 
+  array (
+    'option_id' => '7753',
+    'option_name' => 'widget_tmm_testimonials_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  232 => 
+  array (
+    'option_id' => '7754',
+    'option_name' => 'widget_tmm_shortcodes_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  233 => 
+  array (
+    'option_id' => '7755',
+    'option_name' => 'widget_media_audio',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  234 => 
+  array (
+    'option_id' => '7756',
+    'option_name' => 'widget_media_image',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  235 => 
+  array (
+    'option_id' => '7757',
+    'option_name' => 'widget_media_gallery',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  236 => 
+  array (
+    'option_id' => '7758',
+    'option_name' => 'widget_media_video',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  237 => 
+  array (
+    'option_id' => '7759',
+    'option_name' => 'widget_custom_html',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  238 => 
+  array (
+    'option_id' => '7760',
+    'option_name' => 'widget_layerslider_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  239 => 
+  array (
+    'option_id' => '7761',
+    'option_name' => 'widget_bbp_login_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  240 => 
+  array (
+    'option_id' => '7762',
+    'option_name' => 'widget_bbp_search_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  241 => 
+  array (
+    'option_id' => '7763',
+    'option_name' => 'widget_bbp_topics_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  242 => 
+  array (
+    'option_id' => '7764',
+    'option_name' => 'widget_bbp_replies_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  243 => 
+  array (
+    'option_id' => '7765',
+    'option_name' => 'widget_bbp_stats_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  244 => 
+  array (
+    'option_id' => '7766',
+    'option_name' => 'widget_seamlessdonationsthismonth_widget',
+    'option_value' => 
+    array (
+      '_multiwidget' => 1,
+    ),
+    'autoload' => 'yes',
+  ),
+  245 => 
+  array (
+    'option_id' => '7768',
+    'option_name' => 'dgx_donate_log_obscure_name',
+    'option_value' => '1',
+    'autoload' => 'yes',
+  ),
+  246 => 
+  array (
+    'option_id' => '7769',
+    'option_name' => 'dgx_donate_db_version',
+    'option_value' => '1.0.1',
+    'autoload' => 'yes',
+  ),
+  247 => 
+  array (
+    'option_id' => '7770',
+    'option_name' => 'dgx_donate_4012_indexes_updated',
+    'option_value' => 'sd4012',
+    'autoload' => 'yes',
+  ),
+  248 => 
+  array (
+    'option_id' => '7771',
+    'option_name' => 'dgx_donate_4013_anon_updated',
+    'option_value' => 'sd4013',
+    'autoload' => 'yes',
+  ),
+)

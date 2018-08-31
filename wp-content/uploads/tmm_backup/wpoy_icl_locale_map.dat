@@ -1,0 +1,12 @@
+array (
+  0 => 
+  array (
+    'code' => 'en',
+    'locale' => 'en_US',
+  ),
+  1 => 
+  array (
+    'code' => 'ru',
+    'locale' => 'ru_RU',
+  ),
+)

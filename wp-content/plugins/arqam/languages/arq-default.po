@@ -1,0 +1,874 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arqam\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-11 14:23+0200\n"
+"PO-Revision-Date: 2015-10-11 14:23+0200\n"
+"Last-Translator: Fouad Badawy <support@tielabs.com>\n"
+"Language-Team: TieLabs <info@tielabs.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../arqam-panel.php:27 ../arqam-panel.php:28
+msgid "Settings"
+msgstr ""
+
+#: ../arqam-panel.php:114
+msgid "Could not connect to Tumblr. Refresh the page or try again later."
+msgstr ""
+
+#: ../arqam-panel.php:138
+msgid "Could not connect to 500px. Refresh the page or try again later."
+msgstr ""
+
+#: ../arqam-panel.php:191 ../arqam-panel.php:198
+msgid "Facebook App info"
+msgstr ""
+
+#: ../arqam-panel.php:203
+msgid "App ID"
+msgstr ""
+
+#: ../arqam-panel.php:207
+msgid "App Secret"
+msgstr ""
+
+#: ../arqam-panel.php:213 ../arqam-panel.php:258 ../arqam-panel.php:357
+#: ../arqam-panel.php:437 ../arqam-panel.php:501 ../arqam-panel.php:564
+#: ../arqam-panel.php:672 ../arqam-panel.php:704 ../arqam-panel.php:734
+#: ../arqam-panel.php:775 ../arqam-panel.php:800 ../arqam-panel.php:828
+#: ../arqam-panel.php:852 ../arqam-panel.php:889 ../arqam-panel.php:918
+#: ../arqam-panel.php:947 ../arqam-panel.php:972 ../arqam-panel.php:1004
+#: ../arqam-panel.php:1037 ../arqam-panel.php:1076 ../arqam-panel.php:1125
+#: ../arqam-panel.php:1161 ../arqam-panel.php:1202 ../arqam-panel.php:1227
+#: ../arqam-panel.php:1277 ../arqam-panel.php:1327 ../arqam-panel.php:1360
+#: ../arqam-panel.php:1385 ../arqam-panel.php:1414 ../arqam-panel.php:1439
+#: ../arqam-panel.php:1483 ../arqam-panel.php:1507 ../arqam-panel.php:1553
+#: ../arqam-panel.php:1578 ../arqam-panel.php:1626 ../arqam-panel.php:1853
+msgid "Need Help?"
+msgstr ""
+
+#: ../arqam-panel.php:213
+#, php-format
+msgid ""
+"Enter Your App ID and App Secret, <a href=\"%s\" target=\"_blank\">Click "
+"Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:222 ../arqam-panel.php:267 ../arqam-panel.php:369
+#: ../arqam-panel.php:447 ../arqam-panel.php:510 ../arqam-panel.php:573
+msgid "Submit"
+msgstr ""
+
+#: ../arqam-panel.php:236 ../arqam-panel.php:243
+msgid "Twitter App info"
+msgstr ""
+
+#: ../arqam-panel.php:248
+msgid "Consumer key"
+msgstr ""
+
+#: ../arqam-panel.php:252
+msgid "Consumer secret"
+msgstr ""
+
+#: ../arqam-panel.php:258
+#, php-format
+msgid ""
+"Enter your APP Consumer key and Consumer secret, <a href=\"%s\" target="
+"\"_blank\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:329 ../arqam-panel.php:336
+msgid "Instagram App info"
+msgstr ""
+
+#: ../arqam-panel.php:341 ../arqam-panel.php:427
+msgid "Client ID"
+msgstr ""
+
+#: ../arqam-panel.php:345 ../arqam-panel.php:431
+msgid "Client Secret"
+msgstr ""
+
+#: ../arqam-panel.php:349
+msgid "Follow The Team"
+msgstr ""
+
+#: ../arqam-panel.php:351
+msgid "Follow @tielabs and @imo3aser on instagram."
+msgstr ""
+
+#: ../arqam-panel.php:358 ../arqam-panel.php:438
+#, php-format
+msgid ""
+"Enter Your App Client ID and App Client Secret, <a href=\"%s\" target="
+"\"_blank\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:415 ../arqam-panel.php:422
+msgid "Foursquare App info"
+msgstr ""
+
+#: ../arqam-panel.php:479 ../arqam-panel.php:486
+msgid "Tumblr App info"
+msgstr ""
+
+#: ../arqam-panel.php:491 ../arqam-panel.php:554 ../arqam-panel.php:1246
+#: ../arqam-panel.php:1296
+msgid "Consumer Key"
+msgstr ""
+
+#: ../arqam-panel.php:495 ../arqam-panel.php:558 ../arqam-panel.php:1252
+#: ../arqam-panel.php:1302
+msgid "Secret Key"
+msgstr ""
+
+#: ../arqam-panel.php:501 ../arqam-panel.php:564
+#, php-format
+msgid ""
+"Enter Your APP Consumer Key and Secret Key, <a href=\"%s\" target=\"_blank"
+"\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:542 ../arqam-panel.php:549
+msgid "500px App info"
+msgstr ""
+
+#: ../arqam-panel.php:605
+msgid "Settings saved."
+msgstr ""
+
+#: ../arqam-panel.php:608
+msgid "Arqam Settings"
+msgstr ""
+
+#: ../arqam-panel.php:646
+msgid "Facebook"
+msgstr ""
+
+#: ../arqam-panel.php:651
+msgid "Page ID/Name"
+msgstr ""
+
+#: ../arqam-panel.php:655 ../arqam-panel.php:687 ../arqam-panel.php:720
+#: ../arqam-panel.php:749 ../arqam-panel.php:790 ../arqam-panel.php:819
+#: ../arqam-panel.php:842 ../arqam-panel.php:867 ../arqam-panel.php:904
+#: ../arqam-panel.php:933 ../arqam-panel.php:962 ../arqam-panel.php:987
+#: ../arqam-panel.php:1019 ../arqam-panel.php:1066 ../arqam-panel.php:1115
+#: ../arqam-panel.php:1144 ../arqam-panel.php:1192 ../arqam-panel.php:1217
+#: ../arqam-panel.php:1242 ../arqam-panel.php:1292 ../arqam-panel.php:1342
+#: ../arqam-panel.php:1375 ../arqam-panel.php:1400 ../arqam-panel.php:1429
+#: ../arqam-panel.php:1454 ../arqam-panel.php:1497 ../arqam-panel.php:1539
+#: ../arqam-panel.php:1568 ../arqam-panel.php:1616 ../arqam-panel.php:1641
+#: ../arqam-panel.php:1667 ../arqam-panel.php:1693 ../arqam-panel.php:1720
+#: ../arqam-panel.php:1750 ../arqam-panel.php:1781 ../arqam-panel.php:1811
+msgid "Text below the number"
+msgstr ""
+
+#: ../arqam-panel.php:659 ../arqam-panel.php:691 ../arqam-panel.php:815
+#: ../arqam-panel.php:991 ../arqam-panel.php:1148 ../arqam-panel.php:1258
+#: ../arqam-panel.php:1308
+msgid "Access Token Key"
+msgstr ""
+
+#: ../arqam-panel.php:662 ../arqam-panel.php:694 ../arqam-panel.php:994
+#: ../arqam-panel.php:1151
+msgid "Get Access Token"
+msgstr ""
+
+#: ../arqam-panel.php:666 ../arqam-panel.php:698 ../arqam-panel.php:728
+#: ../arqam-panel.php:769 ../arqam-panel.php:794 ../arqam-panel.php:823
+#: ../arqam-panel.php:846 ../arqam-panel.php:883 ../arqam-panel.php:912
+#: ../arqam-panel.php:941 ../arqam-panel.php:966 ../arqam-panel.php:998
+#: ../arqam-panel.php:1031 ../arqam-panel.php:1070 ../arqam-panel.php:1119
+#: ../arqam-panel.php:1155 ../arqam-panel.php:1196 ../arqam-panel.php:1221
+#: ../arqam-panel.php:1271 ../arqam-panel.php:1321 ../arqam-panel.php:1354
+#: ../arqam-panel.php:1379 ../arqam-panel.php:1408 ../arqam-panel.php:1433
+#: ../arqam-panel.php:1478 ../arqam-panel.php:1501 ../arqam-panel.php:1547
+#: ../arqam-panel.php:1572 ../arqam-panel.php:1620 ../arqam-panel.php:1649
+#: ../arqam-panel.php:1675 ../arqam-panel.php:1701 ../arqam-panel.php:1728
+#: ../arqam-panel.php:1758 ../arqam-panel.php:1789 ../arqam-panel.php:1819
+msgid "Custom color"
+msgstr ""
+
+#: ../arqam-panel.php:672
+#, php-format
+msgid ""
+"Enter Your Facebook Page Name or ID and click on Get Access Token to get "
+"your App Access Token, <a href=\"%s\" target=\"_blank\">Click Here</a> For "
+"More Details."
+msgstr ""
+
+#: ../arqam-panel.php:678
+msgid "Twitter"
+msgstr ""
+
+#: ../arqam-panel.php:683 ../arqam-panel.php:811 ../arqam-panel.php:838
+#: ../arqam-panel.php:863 ../arqam-panel.php:900 ../arqam-panel.php:929
+#: ../arqam-panel.php:958 ../arqam-panel.php:983 ../arqam-panel.php:1140
+#: ../arqam-panel.php:1288 ../arqam-panel.php:1371 ../arqam-panel.php:1612
+msgid "UserName"
+msgstr ""
+
+#: ../arqam-panel.php:704
+#, php-format
+msgid ""
+"Enter Your Twitter Account Username and click on Get Access Token to get "
+"your App Access Token. <a href=\"%s\" target=\"_blank\">Click Here</a> For "
+"More Details."
+msgstr ""
+
+#: ../arqam-panel.php:711
+msgid "Google+"
+msgstr ""
+
+#: ../arqam-panel.php:716
+msgid "Google+ ID"
+msgstr ""
+
+#: ../arqam-panel.php:724
+msgid "Google API Key"
+msgstr ""
+
+#: ../arqam-panel.php:734
+#, php-format
+msgid ""
+"Enter Your Google+ page or profile ID and Google API Key, <a href=\"%s\" "
+"target=\"_blank\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:740
+msgid "Youtube"
+msgstr ""
+
+#: ../arqam-panel.php:745
+msgid "Username or Channel ID"
+msgstr ""
+
+#: ../arqam-panel.php:753
+msgid "Youtube API Key"
+msgstr ""
+
+#: ../arqam-panel.php:757 ../arqam-panel.php:1172 ../arqam-panel.php:1458
+msgid "Type"
+msgstr ""
+
+#: ../arqam-panel.php:775
+#, php-format
+msgid ""
+"Enter Your Youtube username or Channel ID, API Key and choose User or "
+"Channel from Type menu, <a href=\"%s\" target=\"_blank\">Click Here</a> For "
+"More Details."
+msgstr ""
+
+#: ../arqam-panel.php:781
+msgid "Vimeo"
+msgstr ""
+
+#: ../arqam-panel.php:786 ../arqam-panel.php:1564
+msgid "Channel Name"
+msgstr ""
+
+#: ../arqam-panel.php:800
+msgid "Enter Your Vimeo Channel Name."
+msgstr ""
+
+#: ../arqam-panel.php:806
+msgid "Dribbble"
+msgstr ""
+
+#: ../arqam-panel.php:828
+#, php-format
+msgid ""
+"Enter Your Dribbble Account Username and the Access Token Key, <a href=\"%s"
+"\" target=\"_blank\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:833
+msgid "Github"
+msgstr ""
+
+#: ../arqam-panel.php:852
+msgid "Enter Your Github Account Username ."
+msgstr ""
+
+#: ../arqam-panel.php:858
+msgid "Envato"
+msgstr ""
+
+#: ../arqam-panel.php:871
+msgid "Marketplace"
+msgstr ""
+
+#: ../arqam-panel.php:889
+msgid "Enter Your Envato Account Username ."
+msgstr ""
+
+#: ../arqam-panel.php:895
+msgid "SoundCloud"
+msgstr ""
+
+#: ../arqam-panel.php:908 ../arqam-panel.php:937 ../arqam-panel.php:1027
+#: ../arqam-panel.php:1404 ../arqam-panel.php:1543
+msgid "API Key"
+msgstr ""
+
+#: ../arqam-panel.php:918
+#, php-format
+msgid ""
+"Enter Your SoundCloud Account Username and the API Key, <a href=\"%s\" "
+"target=\"_blank\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:924
+msgid "Behance"
+msgstr ""
+
+#: ../arqam-panel.php:947
+#, php-format
+msgid ""
+"Enter Your Behance Account Username and the API Key, <a href=\"%s\" target="
+"\"_blank\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:953
+msgid "Delicious"
+msgstr ""
+
+#: ../arqam-panel.php:972
+msgid "Enter Your Delicious Account Username ."
+msgstr ""
+
+#: ../arqam-panel.php:978
+msgid "Instagram"
+msgstr ""
+
+#: ../arqam-panel.php:1004
+#, php-format
+msgid ""
+"Enter Your Instagram Username and click on Get Access Token to get your App "
+"Access Token, <a target=\"_blank\" href=\"%s\" target=\"_blank\">Click Here</"
+"a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:1010
+msgid "MailChimp"
+msgstr ""
+
+#: ../arqam-panel.php:1015
+msgid "List ID"
+msgstr ""
+
+#: ../arqam-panel.php:1023 ../arqam-panel.php:1049 ../arqam-panel.php:1092
+msgid "List URL"
+msgstr ""
+
+#: ../arqam-panel.php:1037
+#, php-format
+msgid ""
+"Enter Your <a href=\"%1$s\" target=\"_blank\">List ID</a>, <a href=\"%2$s\" "
+"target=\"_blank\">List URL</a> and <a href=\"%3$s\" target=\"_blank\">API "
+"Key</a>."
+msgstr ""
+
+#: ../arqam-panel.php:1043
+msgid "MailPoet"
+msgstr ""
+
+#: ../arqam-panel.php:1053 ../arqam-panel.php:1096
+msgid "Choose a List"
+msgstr ""
+
+#: ../arqam-panel.php:1058 ../arqam-panel.php:1106
+msgid " Total Subscribers"
+msgstr ""
+
+#: ../arqam-panel.php:1076 ../arqam-panel.php:1125
+msgid "Choose a list and enter the list URL."
+msgstr ""
+
+#: ../arqam-panel.php:1080
+#, php-format
+msgid ""
+"You need to install the <a href=\"%s\" target=\"_blank\">MailPoet "
+"Newsletters</a> plugin first to use this section."
+msgstr ""
+
+#: ../arqam-panel.php:1086
+msgid "myMail"
+msgstr ""
+
+#: ../arqam-panel.php:1129
+#, php-format
+msgid ""
+"You need to install the <a href=\"%s\" target=\"_blank\">MyMail - Email "
+"Newsletter Plugin for WordPress</a> first to use this section."
+msgstr ""
+
+#: ../arqam-panel.php:1135
+msgid "Foursquare"
+msgstr ""
+
+#: ../arqam-panel.php:1161
+#, php-format
+msgid ""
+"Enter Your Foursquare Username and click on Get Access Token to get your App "
+"Access Token, <a target=\"_blank\" href=\"%s\" target=\"_blank\">Click Here</"
+"a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:1167
+msgid "LinkedIn"
+msgstr ""
+
+#: ../arqam-panel.php:1184
+msgid "Company Page URL"
+msgstr ""
+
+#: ../arqam-panel.php:1188
+msgid "Group Page URL"
+msgstr ""
+
+#: ../arqam-panel.php:1202
+msgid "Enter Your LinkedIn Company Page URL or Group Page URL."
+msgstr ""
+
+#: ../arqam-panel.php:1208
+msgid "VK"
+msgstr ""
+
+#: ../arqam-panel.php:1213
+msgid "Community ID/Name"
+msgstr ""
+
+#: ../arqam-panel.php:1227
+msgid "Enter Your VK Community Name/ID ."
+msgstr ""
+
+#: ../arqam-panel.php:1233
+msgid "Tumblr"
+msgstr ""
+
+#: ../arqam-panel.php:1238
+msgid "Blog Hostname"
+msgstr ""
+
+#: ../arqam-panel.php:1264 ../arqam-panel.php:1314
+msgid "Access Token secret Key"
+msgstr ""
+
+#: ../arqam-panel.php:1267 ../arqam-panel.php:1317
+msgid "Get the required info"
+msgstr ""
+
+#: ../arqam-panel.php:1277
+#, php-format
+msgid ""
+"Enter Your Blog Hostname and click on Get the required info to get your app "
+"info, <a href=\"%s\" target=\"_blank\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:1283
+msgid "500px"
+msgstr ""
+
+#: ../arqam-panel.php:1327
+#, php-format
+msgid ""
+"Enter Your username and click on Get the required info to get your app info, "
+"<a href=\"%s\" target=\"_blank\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:1333
+msgid "Vine"
+msgstr ""
+
+#: ../arqam-panel.php:1338
+msgid "Profile URL"
+msgstr ""
+
+#: ../arqam-panel.php:1346
+msgid "Account Email"
+msgstr ""
+
+#: ../arqam-panel.php:1350
+msgid "Account Password"
+msgstr ""
+
+#: ../arqam-panel.php:1360
+msgid "Enter Your profile URL, your account Email and password,"
+msgstr ""
+
+#: ../arqam-panel.php:1366
+msgid "Pinterest"
+msgstr ""
+
+#: ../arqam-panel.php:1385
+msgid "Enter Your Pinterest username"
+msgstr ""
+
+#: ../arqam-panel.php:1391
+msgid "Flickr"
+msgstr ""
+
+#: ../arqam-panel.php:1396
+msgid "Group ID"
+msgstr ""
+
+#: ../arqam-panel.php:1414
+#, php-format
+msgid ""
+"Enter the Group ID and Your app API key, <a href=\"%s\" target=\"_blank"
+"\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:1420
+msgid "Steam"
+msgstr ""
+
+#: ../arqam-panel.php:1425
+msgid "Group Slug"
+msgstr ""
+
+#: ../arqam-panel.php:1439
+#, php-format
+msgid ""
+"Enter the Group Slug, <a href=\"%s\" target=\"_blank\">Click Here</a> For "
+"More Details."
+msgstr ""
+
+#: ../arqam-panel.php:1445
+msgid "RSS"
+msgstr ""
+
+#: ../arqam-panel.php:1450
+msgid "Feed URL"
+msgstr ""
+
+#: ../arqam-panel.php:1470
+msgid "Feedpress Json file URL"
+msgstr ""
+
+#: ../arqam-panel.php:1474
+msgid "Number of Subscribers"
+msgstr ""
+
+#: ../arqam-panel.php:1483
+#, php-format
+msgid ""
+"Enter Your Feed URl and the Feedpress Json file URL or Number of Subscribers "
+"manually, <a href=\"%s\" target=\"_blank\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:1488
+msgid "Spotify"
+msgstr ""
+
+#: ../arqam-panel.php:1493
+msgid "Spotify URI"
+msgstr ""
+
+#: ../arqam-panel.php:1507
+msgid "Enter Spotify URI of the user or artist."
+msgstr ""
+
+#: ../arqam-panel.php:1529
+msgid "Goodreads"
+msgstr ""
+
+#: ../arqam-panel.php:1535
+msgid "Goodreads profile URI"
+msgstr ""
+
+#: ../arqam-panel.php:1553
+#, php-format
+msgid ""
+"Enter Goodreads profile URI and the API key, <a href=\"%s\" target=\"_blank"
+"\">Click Here</a> For More Details."
+msgstr ""
+
+#: ../arqam-panel.php:1559
+msgid "Twitch"
+msgstr ""
+
+#: ../arqam-panel.php:1578
+msgid "Enter the Twitch channel Name."
+msgstr ""
+
+#: ../arqam-panel.php:1606
+msgid "Mixcloud"
+msgstr ""
+
+#: ../arqam-panel.php:1626
+msgid "Enter Mixcloud username ."
+msgstr ""
+
+#: ../arqam-panel.php:1632 ../arqam.php:105 ../arqam.php:718
+msgid "Posts"
+msgstr ""
+
+#: ../arqam-panel.php:1637
+msgid "Posts counter"
+msgstr ""
+
+#: ../arqam-panel.php:1645 ../arqam-panel.php:1671 ../arqam-panel.php:1697
+#: ../arqam-panel.php:1724 ../arqam-panel.php:1754 ../arqam-panel.php:1785
+#: ../arqam-panel.php:1815
+msgid "URL"
+msgstr ""
+
+#: ../arqam-panel.php:1645 ../arqam-panel.php:1671 ../arqam-panel.php:1697
+#: ../arqam-panel.php:1724 ../arqam-panel.php:1754 ../arqam-panel.php:1785
+#: ../arqam-panel.php:1815
+msgid "( Optional )"
+msgstr ""
+
+#: ../arqam-panel.php:1658 ../arqam.php:104 ../arqam.php:733
+msgid "Comments"
+msgstr ""
+
+#: ../arqam-panel.php:1663
+msgid "Comments counter"
+msgstr ""
+
+#: ../arqam-panel.php:1684 ../arqam.php:100 ../arqam.php:101 ../arqam.php:102
+#: ../arqam.php:103 ../arqam.php:503 ../arqam.php:578 ../arqam.php:593
+#: ../arqam.php:748
+msgid "Members"
+msgstr ""
+
+#: ../arqam-panel.php:1689
+msgid "Members counter"
+msgstr ""
+
+#: ../arqam-panel.php:1710
+msgid "BuddyPress - Groups"
+msgstr ""
+
+#: ../arqam-panel.php:1716
+msgid "Groups counter"
+msgstr ""
+
+#: ../arqam-panel.php:1734
+#, php-format
+msgid ""
+"You need to install the <a href=\"%s\" target=\"_blank\">BuddyPress</a> "
+"first to use this section."
+msgstr ""
+
+#: ../arqam-panel.php:1740
+msgid "bbPress - Forums"
+msgstr ""
+
+#: ../arqam-panel.php:1746
+msgid "Forums counter"
+msgstr ""
+
+#: ../arqam-panel.php:1764 ../arqam-panel.php:1795 ../arqam-panel.php:1825
+#, php-format
+msgid ""
+"You need to install the <a href=\"%s\" target=\"_blank\">bbPress</a> first "
+"to use this section."
+msgstr ""
+
+#: ../arqam-panel.php:1771
+msgid "bbPress - Topics"
+msgstr ""
+
+#: ../arqam-panel.php:1777
+msgid "Topics counter"
+msgstr ""
+
+#: ../arqam-panel.php:1801
+msgid "bbPress - Replies"
+msgstr ""
+
+#: ../arqam-panel.php:1807
+msgid "Replies counter"
+msgstr ""
+
+#: ../arqam-panel.php:1848
+msgid ""
+"If you like Arqam please leave us a <a href=\"http://codecanyon.net/"
+"downloads?ref=tielabs\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;"
+"</a> rating, that will help us a lot on improving our items and the support "
+"as well … A huge thank you from TieLabs in advance :)"
+msgstr ""
+
+#: ../arqam-panel.php:1857
+msgid "Plugin Docs"
+msgstr ""
+
+#: ../arqam-panel.php:1858
+msgid "Support"
+msgstr ""
+
+#: ../arqam-panel.php:1865
+msgid "Custom CSS"
+msgstr ""
+
+#: ../arqam-panel.php:1874
+msgid "General Settings"
+msgstr ""
+
+#: ../arqam-panel.php:1877
+msgid "Cache Time"
+msgstr ""
+
+#: ../arqam-panel.php:1881
+msgid "hours"
+msgstr ""
+
+#: ../arqam-panel.php:1887
+msgid ""
+"Saving the plugin settings will delete the counters cached data, so you may "
+"notice some delay in Arqam widget loading for the first time you visit your "
+"website after saving the settings till the plugin gets the counters data and "
+"cache it again. "
+msgstr ""
+
+#: ../arqam-panel.php:1892
+msgid "Save"
+msgstr ""
+
+#: ../arqam-panel.php:1917
+msgid "Arqam"
+msgstr ""
+
+#: ../arqam-panel.php:1918 ../arqam-panel.php:1992 ../arqam.php:1909
+msgid "Style :"
+msgstr ""
+
+#: ../arqam-panel.php:1919 ../arqam-panel.php:1995 ../arqam.php:1911
+msgid "Metro Style"
+msgstr ""
+
+#: ../arqam-panel.php:1920 ../arqam-panel.php:1996 ../arqam.php:1912
+msgid "Gray Icons"
+msgstr ""
+
+#: ../arqam-panel.php:1921 ../arqam-panel.php:1997 ../arqam.php:1913
+msgid "Colored Icons"
+msgstr ""
+
+#: ../arqam-panel.php:1922 ../arqam-panel.php:1998 ../arqam.php:1914
+msgid "Colored Border Icons"
+msgstr ""
+
+#: ../arqam-panel.php:1923 ../arqam-panel.php:1999 ../arqam.php:1915
+msgid "Flat Icons"
+msgstr ""
+
+#: ../arqam-panel.php:1924 ../arqam-panel.php:2006 ../arqam.php:1919
+msgid "Columns :"
+msgstr ""
+
+#: ../arqam-panel.php:1925 ../arqam-panel.php:2009 ../arqam.php:1922
+msgid "1 Column"
+msgstr ""
+
+#: ../arqam-panel.php:1926 ../arqam-panel.php:2010 ../arqam.php:1923
+msgid "2 Columns"
+msgstr ""
+
+#: ../arqam-panel.php:1927 ../arqam-panel.php:2011 ../arqam.php:1924
+msgid "3 Columns"
+msgstr ""
+
+#: ../arqam-panel.php:1928 ../arqam-panel.php:2019 ../arqam.php:1929
+msgid "Dark Skin :"
+msgstr ""
+
+#: ../arqam-panel.php:1929 ../arqam-panel.php:2027
+msgid "Widget Width :"
+msgstr ""
+
+#: ../arqam-panel.php:1930 ../arqam-panel.php:2034 ../arqam.php:1938
+msgid "Forced Items Width :"
+msgstr ""
+
+#: ../arqam-panel.php:1931
+msgid ""
+"You will be moved to a new window, All unsaved changes will be lost it is "
+"recommended to save settings first. Are you sure you want to continue?"
+msgstr ""
+
+#: ../arqam-panel.php:1982
+msgid "Social Counters"
+msgstr ""
+
+#: ../arqam-panel.php:2013 ../arqam.php:1926
+msgid "Columns option not available for the METRO style."
+msgstr ""
+
+#: ../arqam.php:74 ../arqam.php:237
+msgid "Fans"
+msgstr ""
+
+#: ../arqam.php:75 ../arqam.php:76 ../arqam.php:77 ../arqam.php:78
+#: ../arqam.php:79 ../arqam.php:80 ../arqam.php:81 ../arqam.php:82
+#: ../arqam.php:83 ../arqam.php:84 ../arqam.php:85 ../arqam.php:86
+#: ../arqam.php:87 ../arqam.php:88 ../arqam.php:89 ../arqam.php:90
+#: ../arqam.php:91 ../arqam.php:252 ../arqam.php:267 ../arqam.php:315
+#: ../arqam.php:330 ../arqam.php:345 ../arqam.php:360 ../arqam.php:375
+#: ../arqam.php:390 ../arqam.php:405 ../arqam.php:482 ../arqam.php:518
+#: ../arqam.php:533 ../arqam.php:548 ../arqam.php:563 ../arqam.php:608
+#: ../arqam.php:623 ../arqam.php:652 ../arqam.php:667
+msgid "Followers"
+msgstr ""
+
+#: ../arqam.php:92 ../arqam.php:93 ../arqam.php:94 ../arqam.php:95
+#: ../arqam.php:96 ../arqam.php:97 ../arqam.php:282 ../arqam.php:300
+#: ../arqam.php:420 ../arqam.php:435 ../arqam.php:450 ../arqam.php:703
+msgid "Subscribers"
+msgstr ""
+
+#: ../arqam.php:98 ../arqam.php:99 ../arqam.php:465
+msgid "Friends"
+msgstr ""
+
+#: ../arqam.php:106 ../arqam.php:763
+msgid "Groups"
+msgstr ""
+
+#: ../arqam.php:107 ../arqam.php:778
+msgid "Forums"
+msgstr ""
+
+#: ../arqam.php:108 ../arqam.php:793
+msgid "Topics"
+msgstr ""
+
+#: ../arqam.php:109 ../arqam.php:808
+msgid "Replies"
+msgstr ""
+
+#: ../arqam.php:1864
+msgid "Social Counter"
+msgstr ""
+
+#: ../arqam.php:1902
+msgid "Follow us"
+msgstr ""
+
+#: ../arqam.php:1905
+msgid "Title :"
+msgstr ""
+
+#: ../arqam.php:1933
+msgid "Show the Social Box only :"
+msgstr ""
+
+#: ../arqam.php:1935
+msgid "Will avoid the theme widget design and hide the widget title ."
+msgstr ""

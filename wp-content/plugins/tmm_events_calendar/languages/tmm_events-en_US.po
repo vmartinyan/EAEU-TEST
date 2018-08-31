@@ -1,0 +1,735 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeMakers Events\n"
+"POT-Creation-Date: 2016-08-01 21:40+0200\n"
+"PO-Revision-Date: 2016-08-01 21:40+0200\n"
+"Last-Translator: Alex TM <support@webtemplatemasters.com>\n"
+"Language-Team: Alex TM <support@webtemplatemasters.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/TMM_Event.php:12
+msgid "No repeating"
+msgstr ""
+
+#: classes/TMM_Event.php:13
+msgid "Week"
+msgstr ""
+
+#: classes/TMM_Event.php:14
+msgid "2 weeks"
+msgstr ""
+
+#: classes/TMM_Event.php:15
+msgid "3 weeks"
+msgstr ""
+
+#: classes/TMM_Event.php:16
+msgid "Month"
+msgstr ""
+
+#: classes/TMM_Event.php:17
+msgid "Year"
+msgstr ""
+
+#: classes/TMM_Event.php:158 views/widgets/calendar_form.php:2
+#: views/widgets/soonest_event_form.php:2
+#: views/widgets/upcoming_events_form.php:17
+msgid "Title"
+msgstr ""
+
+#: classes/TMM_Event.php:159 classes/TMM_EventsPlugin.php:258
+#: classes/TMM_EventsPlugin.php:307
+msgid "Place"
+msgstr ""
+
+#: classes/TMM_Event.php:160
+msgid "Description"
+msgstr ""
+
+#: classes/TMM_Event.php:161
+msgid "Date"
+msgstr ""
+
+#: classes/TMM_Event.php:162 views/templates/content-event.php:99
+#: views/templates/single-event.php:127
+msgid "Duration"
+msgstr ""
+
+#: classes/TMM_Event.php:163
+msgid "Category"
+msgstr ""
+
+#: classes/TMM_Event.php:164
+msgid "Repeating"
+msgstr ""
+
+#: classes/TMM_EventsCalendarWidget.php:12
+msgid "Events calendar"
+msgstr ""
+
+#: classes/TMM_EventsCalendarWidget.php:15
+msgid "ThemeMakers Events Calendar"
+msgstr ""
+
+#: classes/TMM_EventsCalendarWidget.php:35
+msgid "Events Calendar"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:15 classes/TMM_EventsPlugin.php:61
+#: views/admin/theme_options_tab.php:142 views/admin/theme_options_tab.php:160
+msgid "Events"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:16
+msgid "Event"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:17 classes/TMM_EventsPlugin.php:51
+msgid "Add New"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:18
+msgid "Add New Event"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:19
+msgid "Edit Event"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:20
+msgid "New Event"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:21
+msgid "View Event"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:22
+msgid "Search In Events"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:23
+msgid "Nothing found"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:24
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:49
+msgid "Events Categories"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:50
+msgid "Event category"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:52
+msgid "Add New Event category"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:53
+msgid "Edit Event category"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:54
+msgid "New Event category"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:55
+msgid "View Event category"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:56
+msgid "Search Events categories"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:57
+msgid "No Events categories found"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:58
+msgid "No Events categories found in Trash"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:147
+msgid "Seo options"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:256 classes/TMM_EventsPlugin.php:308
+msgid "There was an error while fetching events!"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:257 classes/TMM_EventsPlugin.php:306
+msgid "Time"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:271
+msgid "No events at this period!"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:302
+msgid "today"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:303 views/widgets/soonest_event_form.php:31
+#: views/widgets/upcoming_events_form.php:49
+msgid "month"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:304
+msgid "week"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:305
+msgid "day"
+msgstr ""
+
+#: classes/TMM_EventsPlugin.php:318
+msgid "Event attributes"
+msgstr ""
+
+#: classes/TMM_SoonestEventWidget.php:12
+msgid "Soonest event"
+msgstr ""
+
+#: classes/TMM_SoonestEventWidget.php:15
+msgid "ThemeMakers Soonest Event"
+msgstr ""
+
+#: classes/TMM_SoonestEventWidget.php:38
+msgid "Soonest Event"
+msgstr ""
+
+#: classes/TMM_UpcomingEventsWidget.php:12
+msgid "Featured event"
+msgstr ""
+
+#: classes/TMM_UpcomingEventsWidget.php:15
+msgid "ThemeMakers Featured Event"
+msgstr ""
+
+#: classes/TMM_UpcomingEventsWidget.php:41
+msgid "Upcoming Events"
+msgstr ""
+
+#: functions.php:35 views/admin/event_attributes.php:30
+msgid "Sunday"
+msgstr ""
+
+#: functions.php:36 views/admin/event_attributes.php:24
+msgid "Monday"
+msgstr ""
+
+#: functions.php:37 views/admin/event_attributes.php:25
+msgid "Tuesday"
+msgstr ""
+
+#: functions.php:38 views/admin/event_attributes.php:26
+msgid "Wednesday"
+msgstr ""
+
+#: functions.php:39 views/admin/event_attributes.php:27
+msgid "Thursday"
+msgstr ""
+
+#: functions.php:40 views/admin/event_attributes.php:28
+msgid "Friday"
+msgstr ""
+
+#: functions.php:41 views/admin/event_attributes.php:29
+msgid "Saturday"
+msgstr ""
+
+#: functions.php:51
+msgid "Sun"
+msgstr ""
+
+#: functions.php:52
+msgid "Mon"
+msgstr ""
+
+#: functions.php:53
+msgid "Tue"
+msgstr ""
+
+#: functions.php:54
+msgid "Wed"
+msgstr ""
+
+#: functions.php:55
+msgid "Thu"
+msgstr ""
+
+#: functions.php:56
+msgid "Fri"
+msgstr ""
+
+#: functions.php:57
+msgid "Sat"
+msgstr ""
+
+#: functions.php:67
+msgid "January"
+msgstr ""
+
+#: functions.php:68
+msgid "February"
+msgstr ""
+
+#: functions.php:69
+msgid "March"
+msgstr ""
+
+#: functions.php:70
+msgid "April"
+msgstr ""
+
+#: functions.php:71 functions.php:92
+msgid "May"
+msgstr ""
+
+#: functions.php:72
+msgid "June"
+msgstr ""
+
+#: functions.php:73
+msgid "July"
+msgstr ""
+
+#: functions.php:74
+msgid "August"
+msgstr ""
+
+#: functions.php:75
+msgid "September"
+msgstr ""
+
+#: functions.php:76
+msgid "October"
+msgstr ""
+
+#: functions.php:77
+msgid "November"
+msgstr ""
+
+#: functions.php:78
+msgid "December"
+msgstr ""
+
+#: functions.php:88
+msgid "Jan"
+msgstr ""
+
+#: functions.php:89
+msgid "Feb"
+msgstr ""
+
+#: functions.php:90
+msgid "Mar"
+msgstr ""
+
+#: functions.php:91
+msgid "Apr"
+msgstr ""
+
+#: functions.php:93
+msgid "Jun"
+msgstr ""
+
+#: functions.php:94
+msgid "Jul"
+msgstr ""
+
+#: functions.php:95
+msgid "Aug"
+msgstr ""
+
+#: functions.php:96
+msgid "Sep"
+msgstr ""
+
+#: functions.php:97
+msgid "Oct"
+msgstr ""
+
+#: functions.php:98
+msgid "Nov"
+msgstr ""
+
+#: functions.php:99
+msgid "Dec"
+msgstr ""
+
+#: views/admin/event_attributes.php:8
+msgid "Event Repeating"
+msgstr ""
+
+#: views/admin/event_attributes.php:47
+msgid "Event Start Date"
+msgstr ""
+
+#: views/admin/event_attributes.php:59
+msgid "Event End Date"
+msgstr ""
+
+#: views/admin/event_attributes.php:71
+msgid "All Day"
+msgstr ""
+
+#: views/admin/event_attributes.php:86
+msgid "Event Start Time"
+msgstr ""
+
+#: views/admin/event_attributes.php:94
+msgid "Warning! Event start time must be earlier than event end time!"
+msgstr ""
+
+#: views/admin/event_attributes.php:114
+msgid "Event End Time"
+msgstr ""
+
+#: views/admin/event_attributes.php:133
+msgid "Event Organizer Info"
+msgstr ""
+
+#: views/admin/event_attributes.php:139 views/admin/event_attributes.php:179
+#: views/templates/content-event.php:108 views/templates/single-event.php:146
+#: views/templates/single-event.php:166
+msgid "Phone"
+msgstr ""
+
+#: views/admin/event_attributes.php:151 views/admin/event_attributes.php:191
+#: views/templates/content-event.php:118 views/templates/single-event.php:151
+#: views/templates/single-event.php:176
+msgid "Website"
+msgstr ""
+
+#: views/admin/event_attributes.php:163 views/templates/single-event.php:141
+msgid "Contact Person"
+msgstr ""
+
+#: views/admin/event_attributes.php:173
+msgid "Event Venue"
+msgstr ""
+
+#: views/admin/event_attributes.php:203
+msgid "Event Place"
+msgstr ""
+
+#: views/admin/event_attributes.php:209
+msgid "Set Location"
+msgstr ""
+
+#: views/admin/event_attributes.php:227
+msgid "Hide Map"
+msgstr ""
+
+#: views/admin/event_attributes.php:239
+msgid "Event Map Zoom"
+msgstr ""
+
+#: views/admin/event_attributes.php:254
+msgid "Event Map Latitude"
+msgstr ""
+
+#: views/admin/event_attributes.php:265
+msgid "Event Map Longitude"
+msgstr ""
+
+#: views/admin/event_attributes.php:397
+msgid "Geocode was not successful for the following reason"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:14
+msgid "Select page"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:15
+msgid "Events archive"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:32
+msgid "Event Date Format"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:37
+msgid "Month Day, Year"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:38
+msgid "Day Month, Year"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:40
+msgid "Event date format"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:45
+msgid "Send Old Events to Draft"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:48
+msgid "Send old events to draft (only for no repeating events)"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:54
+msgid "Listing Page"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:58 views/admin/theme_options_tab.php:112
+msgid "Display Time Zone"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:61 views/admin/theme_options_tab.php:115
+msgid "Display time zone next to the time."
+msgstr ""
+
+#: views/admin/theme_options_tab.php:65 views/admin/theme_options_tab.php:119
+msgid "Enable AP Time Style"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:68 views/admin/theme_options_tab.php:122
+msgid "Display time in 12 hour format using a.m. or p.m."
+msgstr ""
+
+#: views/admin/theme_options_tab.php:72 views/admin/theme_options_tab.php:126
+msgid "Display Event Duration"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:75
+msgid "Display events duration time"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:79
+msgid "Display Venue Website"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:82
+msgid "Display event venue website link"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:86
+msgid "Effect for Appearing Post"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:90
+msgid "None"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:91
+msgid "Element Fade"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:92
+msgid "Opacity"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:93
+msgid "Opacity 2x Run"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:94
+msgid "Scale"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:95
+msgid "Slide Right"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:96
+msgid "Slide Left"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:97
+msgid "Slide Down"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:98
+msgid "Slide Up"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:99
+msgid "Slide Up 2x"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:100
+msgid "Extra Radius"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:102
+msgid "Effect for Appearing Post."
+msgstr ""
+
+#: views/admin/theme_options_tab.php:108
+msgid "Single Page"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:129
+msgid "Display event duration time"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:133
+msgid "Enable Comments"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:136
+msgid "Enable comments"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:140
+msgid "Override Event Page Title"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:143
+msgid "Overrides single event page title"
+msgstr ""
+
+#: views/admin/theme_options_tab.php:147 views/admin/theme_options_tab.php:151
+msgid "Select page for \"All Events\" button"
+msgstr ""
+
+#: views/shortcodes/events_list.php:57
+msgid "Filter by Month"
+msgstr ""
+
+#: views/shortcodes/upcoming_events.php:42
+msgid "There is no events added yet!"
+msgstr ""
+
+#: views/templates/content-event.php:92 views/templates/single-event.php:120
+msgid "Start"
+msgstr ""
+
+#: views/templates/content-event.php:95 views/templates/single-event.php:123
+msgid "End"
+msgstr ""
+
+#: views/templates/content-event.php:113 views/templates/single-event.php:171
+msgid "Address"
+msgstr ""
+
+#: views/templates/content-event.php:132
+msgid "NO EVENTS"
+msgstr ""
+
+#: views/templates/single-event.php:119
+msgid "Details"
+msgstr ""
+
+#: views/templates/single-event.php:132
+msgid "Event Category"
+msgstr ""
+
+#: views/templates/single-event.php:138
+msgid "Organizer"
+msgstr ""
+
+#: views/templates/single-event.php:163
+msgid "Venue"
+msgstr ""
+
+#: views/templates/single-event.php:212
+msgid "Previous article"
+msgstr ""
+
+#: views/templates/single-event.php:221
+msgid "Next article"
+msgstr ""
+
+#: views/templates/single-event.php:232
+msgid "All Events"
+msgstr ""
+
+#: views/widgets/soonest_event.php:29
+msgid "days"
+msgstr ""
+
+#: views/widgets/soonest_event.php:31
+msgid "hr"
+msgstr ""
+
+#: views/widgets/soonest_event.php:33
+msgid "min"
+msgstr ""
+
+#: views/widgets/soonest_event.php:35
+msgid "sec"
+msgstr ""
+
+#: views/widgets/soonest_event_form.php:13
+msgid "Show event title"
+msgstr ""
+
+#: views/widgets/soonest_event_form.php:24
+msgid "Show time zone"
+msgstr ""
+
+#: views/widgets/soonest_event_form.php:28
+msgid "Soonest event data parsing"
+msgstr ""
+
+#: views/widgets/upcoming_events_form.php:22
+msgid "Choose type"
+msgstr ""
+
+#: views/widgets/upcoming_events_form.php:24
+msgid "Upcoming Event"
+msgstr ""
+
+#: views/widgets/upcoming_events_form.php:25
+msgid "Featured Event"
+msgstr ""
+
+#: views/widgets/upcoming_events_form.php:37
+msgid "Display Excerpt"
+msgstr ""
+
+#: views/widgets/upcoming_events_form.php:40
+msgid "Truncate event excerpt"
+msgstr ""
+
+#: views/widgets/upcoming_events_form.php:46
+msgid "Upcoming events period"
+msgstr ""
+
+#: views/widgets/upcoming_events_form.php:55
+msgid "Count"
+msgstr ""
+
+#: views/widgets/upcoming_events_form.php:62
+msgid "Choose Event to Display"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ThemeMakers Events"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://webtemplatemasters.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Events calendar, events list"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeMakers"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/ThemeMakers"
+msgstr ""

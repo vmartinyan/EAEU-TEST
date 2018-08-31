@@ -1,0 +1,113 @@
+
+@import "functions";
+
+// Website Width
+	$row-width : rem-calc(1170);
+	
+// General Logo
+
+$logo-font-size: rem-calc(34);
+$logo-font-family: "Roboto Slab";
+$logo-first-part-color: #262626;
+$logo-first-part-color: #262626;
+$logo-second-part-color: #969696;
+$logo-first-part-color-2: #ffffff;
+$logo-second-part-color-2: #b4b4b4;
+
+//RTL Support
+
+$text-direction : ltr;
+$default-float : left;
+
+// Styling
+
+$link-color: #55bbff;
+$widget-sidebar-sheet-hover-color : #55bbff;
+$focus-border-color : rgb(red(#55bbff), green(#55bbff), blue(#55bbff));
+$widget-sidebar-list-color : #55bbff;
+$widget-footer-list-color : #55bbff;
+$widget-sidebar-sheet-hover-color : #55bbff;
+$widget-footer-sheet-hover-color : #55bbff;
+$widget-footer-list-color : #55bbff;
+$info-font-color : #55bbff;
+$font-family-serif: "Roboto Slab";
+$base-font-size: 16px;
+$body-font-color: #777;
+
+// Styling General Backgrounds
+
+$header-top-bg: #e1e1e1;
+$header-middle-bg: #f5f5f5;
+$header-middle-bg-3: #557799;
+$body-bg: #f5f5f5;
+$footer-top-bg: #3a3a3c;
+$footer-bottom-bg:#313133;
+
+// Styling Headings
+
+$h1-font-family: "Roboto Slab";
+$h1-font-color: #222222;
+$h1-font-size: rem-calc(34);
+
+$h2-font-family: "Roboto Slab";
+$h2-font-color: #222222;
+$h2-font-size: rem-calc(25);
+
+$h3-font-family: "Roboto Slab";
+$h3-font-color: #222222;
+$h3-font-size: rem-calc(18);
+
+$h4-font-family: "Roboto Slab";
+$h4-font-color: #222222;
+$h4-font-size: rem-calc(16);
+
+$h5-font-family: "Roboto Slab";
+$h5-font-color: #222222;
+$h5-font-size: rem-calc(16);
+
+$h6-font-family: "Roboto Slab";
+$h6-font-color: #222222;
+$h6-font-size: rem-calc(16);
+
+// Styling Main Navigation
+
+$header-navigation-font-family: "Roboto";
+$header-font-size: rem-calc(15);
+$sub-menu-font-size: rem-calc(15);
+$header-navigation-font-color: #424246;
+
+$sub-menu-font-color: #969696;
+$sub-menu-hover-bg: #f9f9f9;
+
+// Styling Content
+
+$anchor-font-color: #55bbff;
+$anchor-font-color-hover: #55bbff;
+$donate-amount-button-bg-hover-color: #557799;
+$pagination-hover-bg: #557799;
+$search-button-color: #557799;
+
+// Styling Buttons
+
+$button-font-family : "Roboto";
+$button-font-size: rem-calc(18);
+$button-default-font-color: #000000;
+$button-default-border-color: #262626;
+$button-default-bg-color : #f5f5f5;
+$button-default-hover-font-color: #fff;
+$button-default-hover-border-color: transparent;
+$button-default-hover-bg-color: #55bbff;
+
+// Widgets
+
+$widget-sidebar-title-color: #fff;
+$widget-sidebar-title-bg-color : #557799;
+$widget-sidebar-text-color: #777777;
+$widget-footer-title-color: #f2f2f2;
+$widget-footer-text-color: #959595;
+$widget-cat-bg-color: #557799;
+
+// Events
+
+$event-title-bg: #55bbff;
+$event-date-bg: #55bbff;

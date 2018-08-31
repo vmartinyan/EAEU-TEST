@@ -1,0 +1,569 @@
+array (
+  0 => 
+  array (
+    'term_id' => '2',
+    'name' => 'Primary Menu',
+    'slug' => 'primary-menu',
+    'term_group' => '0',
+  ),
+  1 => 
+  array (
+    'term_id' => '3',
+    'name' => 'Concerts',
+    'slug' => 'concerts',
+    'term_group' => '0',
+  ),
+  2 => 
+  array (
+    'term_id' => '4',
+    'name' => 'Festivals',
+    'slug' => 'festivals',
+    'term_group' => '0',
+  ),
+  3 => 
+  array (
+    'term_id' => '5',
+    'name' => 'Kids &amp; Family',
+    'slug' => 'kids-family',
+    'term_group' => '0',
+  ),
+  4 => 
+  array (
+    'term_id' => '6',
+    'name' => 'Performing Arts',
+    'slug' => 'performing-arts',
+    'term_group' => '0',
+  ),
+  5 => 
+  array (
+    'term_id' => '7',
+    'name' => 'Food',
+    'slug' => 'food',
+    'term_group' => '0',
+  ),
+  6 => 
+  array (
+    'term_id' => '8',
+    'name' => 'Sports',
+    'slug' => 'sports',
+    'term_group' => '0',
+  ),
+  7 => 
+  array (
+    'term_id' => '9',
+    'name' => 'Conferences',
+    'slug' => 'conferences',
+    'term_group' => '0',
+  ),
+  8 => 
+  array (
+    'term_id' => '10',
+    'name' => 'Health',
+    'slug' => 'health',
+    'term_group' => '0',
+  ),
+  9 => 
+  array (
+    'term_id' => '11',
+    'name' => 'Science',
+    'slug' => 'science',
+    'term_group' => '0',
+  ),
+  10 => 
+  array (
+    'term_id' => '12',
+    'name' => 'Holiday',
+    'slug' => 'holiday',
+    'term_group' => '0',
+  ),
+  11 => 
+  array (
+    'term_id' => '13',
+    'name' => 'Education',
+    'slug' => 'education',
+    'term_group' => '0',
+  ),
+  12 => 
+  array (
+    'term_id' => '14',
+    'name' => 'Politics',
+    'slug' => 'politics',
+    'term_group' => '0',
+  ),
+  13 => 
+  array (
+    'term_id' => '15',
+    'name' => 'Synposium',
+    'slug' => 'synposium',
+    'term_group' => '0',
+  ),
+  14 => 
+  array (
+    'term_id' => '16',
+    'name' => 'Exhibition',
+    'slug' => 'exhibition',
+    'term_group' => '0',
+  ),
+  15 => 
+  array (
+    'term_id' => '17',
+    'name' => 'Seminar',
+    'slug' => 'seminar',
+    'term_group' => '0',
+  ),
+  16 => 
+  array (
+    'term_id' => '18',
+    'name' => 'Political News',
+    'slug' => 'political-news',
+    'term_group' => '0',
+  ),
+  17 => 
+  array (
+    'term_id' => '19',
+    'name' => 'Upcoming Events',
+    'slug' => 'upcoming-events',
+    'term_group' => '0',
+  ),
+  18 => 
+  array (
+    'term_id' => '20',
+    'name' => 'Economics',
+    'slug' => 'economics',
+    'term_group' => '0',
+  ),
+  19 => 
+  array (
+    'term_id' => '21',
+    'name' => 'World',
+    'slug' => 'world',
+    'term_group' => '0',
+  ),
+  20 => 
+  array (
+    'term_id' => '22',
+    'name' => 'People',
+    'slug' => 'people',
+    'term_group' => '0',
+  ),
+  21 => 
+  array (
+    'term_id' => '23',
+    'name' => 'post-format-gallery',
+    'slug' => 'post-format-gallery',
+    'term_group' => '0',
+  ),
+  22 => 
+  array (
+    'term_id' => '24',
+    'name' => 'post-format-video',
+    'slug' => 'post-format-video',
+    'term_group' => '0',
+  ),
+  23 => 
+  array (
+    'term_id' => '25',
+    'name' => '2010',
+    'slug' => '2010',
+    'term_group' => '0',
+  ),
+  24 => 
+  array (
+    'term_id' => '26',
+    'name' => '2011',
+    'slug' => '2011',
+    'term_group' => '0',
+  ),
+  25 => 
+  array (
+    'term_id' => '27',
+    'name' => '2012',
+    'slug' => '2012',
+    'term_group' => '0',
+  ),
+  26 => 
+  array (
+    'term_id' => '28',
+    'name' => '2015',
+    'slug' => '2015',
+    'term_group' => '0',
+  ),
+  27 => 
+  array (
+    'term_id' => '29',
+    'name' => 'News',
+    'slug' => 'news',
+    'term_group' => '0',
+  ),
+  28 => 
+  array (
+    'term_id' => '30',
+    'name' => 'People',
+    'slug' => 'people',
+    'term_group' => '0',
+  ),
+  29 => 
+  array (
+    'term_id' => '31',
+    'name' => 'Economics',
+    'slug' => 'economics',
+    'term_group' => '0',
+  ),
+  30 => 
+  array (
+    'term_id' => '33',
+    'name' => 'Nation',
+    'slug' => 'nation',
+    'term_group' => '0',
+  ),
+  31 => 
+  array (
+    'term_id' => '34',
+    'name' => 'Events',
+    'slug' => 'events',
+    'term_group' => '0',
+  ),
+  32 => 
+  array (
+    'term_id' => '35',
+    'name' => 'Norway',
+    'slug' => 'norway',
+    'term_group' => '0',
+  ),
+  33 => 
+  array (
+    'term_id' => '36',
+    'name' => 'Cyclone',
+    'slug' => 'cyclone',
+    'term_group' => '0',
+  ),
+  34 => 
+  array (
+    'term_id' => '37',
+    'name' => 'Vanuatu',
+    'slug' => 'vanuatu',
+    'term_group' => '0',
+  ),
+  35 => 
+  array (
+    'term_id' => '41',
+    'name' => 'EU',
+    'slug' => 'eu',
+    'term_group' => '0',
+  ),
+  36 => 
+  array (
+    'term_id' => '42',
+    'name' => 'Italy',
+    'slug' => 'italy',
+    'term_group' => '0',
+  ),
+  37 => 
+  array (
+    'term_id' => '43',
+    'name' => 'Party',
+    'slug' => 'party',
+    'term_group' => '0',
+  ),
+  38 => 
+  array (
+    'term_id' => '44',
+    'name' => 'Israel',
+    'slug' => 'israel',
+    'term_group' => '0',
+  ),
+  39 => 
+  array (
+    'term_id' => '45',
+    'name' => 'Coalition',
+    'slug' => 'coalition',
+    'term_group' => '0',
+  ),
+  40 => 
+  array (
+    'term_id' => '46',
+    'name' => 'Sanctions',
+    'slug' => 'sanctions',
+    'term_group' => '0',
+  ),
+  41 => 
+  array (
+    'term_id' => '47',
+    'name' => 'Ukraine',
+    'slug' => 'ukraine',
+    'term_group' => '0',
+  ),
+  42 => 
+  array (
+    'term_id' => '48',
+    'name' => 'Pressure',
+    'slug' => 'pressure',
+    'term_group' => '0',
+  ),
+  43 => 
+  array (
+    'term_id' => '49',
+    'name' => 'post-format-quote',
+    'slug' => 'post-format-quote',
+    'term_group' => '0',
+  ),
+  44 => 
+  array (
+    'term_id' => '50',
+    'name' => 'World',
+    'slug' => 'world',
+    'term_group' => '0',
+  ),
+  45 => 
+  array (
+    'term_id' => '51',
+    'name' => 'Crimea',
+    'slug' => 'crimea',
+    'term_group' => '0',
+  ),
+  46 => 
+  array (
+    'term_id' => '52',
+    'name' => 'Asia',
+    'slug' => 'asia',
+    'term_group' => '0',
+  ),
+  47 => 
+  array (
+    'term_id' => '53',
+    'name' => 'Airport',
+    'slug' => 'airport',
+    'term_group' => '0',
+  ),
+  48 => 
+  array (
+    'term_id' => '54',
+    'name' => 'post-format-audio',
+    'slug' => 'post-format-audio',
+    'term_group' => '0',
+  ),
+  49 => 
+  array (
+    'term_id' => '55',
+    'name' => 'Syria',
+    'slug' => 'syria',
+    'term_group' => '0',
+  ),
+  50 => 
+  array (
+    'term_id' => '56',
+    'name' => 'Police',
+    'slug' => 'police',
+    'term_group' => '0',
+  ),
+  51 => 
+  array (
+    'term_id' => '57',
+    'name' => 'Politic',
+    'slug' => 'politic',
+    'term_group' => '0',
+  ),
+  52 => 
+  array (
+    'term_id' => '58',
+    'name' => 'Europe',
+    'slug' => 'europe',
+    'term_group' => '0',
+  ),
+  53 => 
+  array (
+    'term_id' => '59',
+    'name' => 'Featured',
+    'slug' => 'featured',
+    'term_group' => '0',
+  ),
+  54 => 
+  array (
+    'term_id' => '60',
+    'name' => 'latest',
+    'slug' => 'latest',
+    'term_group' => '0',
+  ),
+  55 => 
+  array (
+    'term_id' => '61',
+    'name' => 'small',
+    'slug' => 'small',
+    'term_group' => '0',
+  ),
+  56 => 
+  array (
+    'term_id' => '62',
+    'name' => 'Headline',
+    'slug' => 'headline',
+    'term_group' => '0',
+  ),
+  57 => 
+  array (
+    'term_id' => '63',
+    'name' => 'Headline-noimage',
+    'slug' => 'headline-noimage',
+    'term_group' => '0',
+  ),
+  58 => 
+  array (
+    'term_id' => '64',
+    'name' => 'headline-big',
+    'slug' => 'headline-big',
+    'term_group' => '0',
+  ),
+  59 => 
+  array (
+    'term_id' => '65',
+    'name' => 'Headline-sm',
+    'slug' => 'headline-sm',
+    'term_group' => '0',
+  ),
+  60 => 
+  array (
+    'term_id' => '71',
+    'name' => 'latest-big',
+    'slug' => 'latest-big',
+    'term_group' => '0',
+  ),
+  61 => 
+  array (
+    'term_id' => '72',
+    'name' => 'related',
+    'slug' => 'related',
+    'term_group' => '0',
+  ),
+  62 => 
+  array (
+    'term_id' => '73',
+    'name' => 'Campaign',
+    'slug' => 'campaign',
+    'term_group' => '0',
+  ),
+  63 => 
+  array (
+    'term_id' => '74',
+    'name' => 'Issues',
+    'slug' => 'issues',
+    'term_group' => '0',
+  ),
+  64 => 
+  array (
+    'term_id' => '75',
+    'name' => 'latest-big-2',
+    'slug' => 'latest-big-2',
+    'term_group' => '0',
+  ),
+  65 => 
+  array (
+    'term_id' => '76',
+    'name' => 'corrupti',
+    'slug' => 'corrupti',
+    'term_group' => '0',
+  ),
+  66 => 
+  array (
+    'term_id' => '77',
+    'name' => 'perferendis',
+    'slug' => 'perferendis',
+    'term_group' => '0',
+  ),
+  67 => 
+  array (
+    'term_id' => '78',
+    'name' => 'gravida',
+    'slug' => 'gravida',
+    'term_group' => '0',
+  ),
+  68 => 
+  array (
+    'term_id' => '79',
+    'name' => 'reiciendis',
+    'slug' => 'reiciendis',
+    'term_group' => '0',
+  ),
+  69 => 
+  array (
+    'term_id' => '80',
+    'name' => 'penatibus',
+    'slug' => 'penatibus',
+    'term_group' => '0',
+  ),
+  70 => 
+  array (
+    'term_id' => '81',
+    'name' => 'voluptas',
+    'slug' => 'voluptas',
+    'term_group' => '0',
+  ),
+  71 => 
+  array (
+    'term_id' => '82',
+    'name' => 'Mauris',
+    'slug' => 'mauris',
+    'term_group' => '0',
+  ),
+  72 => 
+  array (
+    'term_id' => '83',
+    'name' => 'inceptos',
+    'slug' => 'inceptos',
+    'term_group' => '0',
+  ),
+  73 => 
+  array (
+    'term_id' => '84',
+    'name' => 'ratione',
+    'slug' => 'ratione',
+    'term_group' => '0',
+  ),
+  74 => 
+  array (
+    'term_id' => '85',
+    'name' => 'repellendus',
+    'slug' => 'repellendus',
+    'term_group' => '0',
+  ),
+  75 => 
+  array (
+    'term_id' => '86',
+    'name' => 'consectetuer',
+    'slug' => 'consectetuer',
+    'term_group' => '0',
+  ),
+  76 => 
+  array (
+    'term_id' => '87',
+    'name' => 'netus',
+    'slug' => 'netus',
+    'term_group' => '0',
+  ),
+  77 => 
+  array (
+    'term_id' => '88',
+    'name' => 'maecenas',
+    'slug' => 'maecenas',
+    'term_group' => '0',
+  ),
+  78 => 
+  array (
+    'term_id' => '89',
+    'name' => 'deserunt',
+    'slug' => 'deserunt',
+    'term_group' => '0',
+  ),
+  79 => 
+  array (
+    'term_id' => '90',
+    'name' => 'Political Member',
+    'slug' => 'political-member',
+    'term_group' => '0',
+  ),
+  80 => 
+  array (
+    'term_id' => '91',
+    'name' => 'Volunteer',
+    'slug' => 'volunteer',
+    'term_group' => '0',
+  ),
+)

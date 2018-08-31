@@ -1,0 +1,1 @@
+a:2:{i:0;O:8:"stdClass":6:{s:5:"Field";s:4:"code";s:4:"Type";s:10:"varchar(7)";s:4:"Null";s:2:"NO";s:3:"Key";s:3:"PRI";s:7:"Default";N;s:5:"Extra";s:0:"";}i:1;O:8:"stdClass":6:{s:5:"Field";s:6:"locale";s:4:"Type";s:11:"varchar(35)";s:4:"Null";s:2:"NO";s:3:"Key";s:3:"PRI";s:7:"Default";N;s:5:"Extra";s:0:"";}}

@@ -1,0 +1,90 @@
+array (
+  0 => 
+  array (
+    'id' => '1',
+    'user_id' => '1',
+    'user_login' => 'eaeuadmin',
+    'login_date' => '2018-08-08 04:32:17',
+    'logout_date' => '2018-08-08 04:50:01',
+    'login_ip' => '188.186.205.152',
+    'login_country' => '',
+    'browser_type' => '',
+  ),
+  1 => 
+  array (
+    'id' => '2',
+    'user_id' => '1',
+    'user_login' => 'eaeuadmin',
+    'login_date' => '2018-08-08 04:50:17',
+    'logout_date' => '2018-08-08 05:10:47',
+    'login_ip' => '188.186.205.152',
+    'login_country' => '',
+    'browser_type' => '',
+  ),
+  2 => 
+  array (
+    'id' => '3',
+    'user_id' => '1',
+    'user_login' => 'eaeuadmin',
+    'login_date' => '2018-08-08 05:11:40',
+    'logout_date' => '0000-00-00 00:00:00',
+    'login_ip' => '188.186.205.152',
+    'login_country' => '',
+    'browser_type' => '',
+  ),
+  3 => 
+  array (
+    'id' => '4',
+    'user_id' => '1',
+    'user_login' => 'eaeuadmin',
+    'login_date' => '2018-08-08 05:54:32',
+    'logout_date' => '0000-00-00 00:00:00',
+    'login_ip' => '188.186.205.152',
+    'login_country' => '',
+    'browser_type' => '',
+  ),
+  4 => 
+  array (
+    'id' => '5',
+    'user_id' => '1',
+    'user_login' => 'eaeuadmin',
+    'login_date' => '2018-08-08 16:02:02',
+    'logout_date' => '0000-00-00 00:00:00',
+    'login_ip' => '188.186.205.152',
+    'login_country' => '',
+    'browser_type' => '',
+  ),
+  5 => 
+  array (
+    'id' => '6',
+    'user_id' => '1',
+    'user_login' => 'eaeuadmin',
+    'login_date' => '2018-08-28 07:09:13',
+    'logout_date' => '2018-08-28 08:09:44',
+    'login_ip' => '91.205.137.236',
+    'login_country' => '',
+    'browser_type' => '',
+  ),
+  6 => 
+  array (
+    'id' => '7',
+    'user_id' => '1',
+    'user_login' => 'eaeuadmin',
+    'login_date' => '2018-08-28 08:10:56',
+    'logout_date' => '2018-08-28 09:29:36',
+    'login_ip' => '91.205.137.236',
+    'login_country' => '',
+    'browser_type' => '',
+  ),
+  7 => 
+  array (
+    'id' => '8',
+    'user_id' => '1',
+    'user_login' => 'eaeuadmin',
+    'login_date' => '2018-08-28 09:30:26',
+    'logout_date' => '0000-00-00 00:00:00',
+    'login_ip' => '91.205.137.236',
+    'login_country' => '',
+    'browser_type' => '',
+  ),
+)

@@ -1,0 +1,1718 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ThemeMakers Visual Content Composer\n"
+"POT-Creation-Date: 2016-10-08 15:57+0200\n"
+"PO-Revision-Date: 2016-10-08 15:57+0200\n"
+"Last-Translator: Alex TM <support@webtemplatemasters.com>\n"
+"Language-Team: Alex TM <support@webtemplatemasters.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/content_composer.php:56
+msgid "ThemeMakers Layout Constructor"
+msgstr ""
+
+#: classes/content_composer.php:92
+msgid "Loading ..."
+msgstr ""
+
+#: classes/content_composer.php:93
+msgid "Close"
+msgstr ""
+
+#: classes/content_composer.php:94
+msgid "Apply"
+msgstr ""
+
+#: classes/content_composer.php:95
+msgid "There is no options for shortcode!"
+msgstr ""
+
+#: classes/content_composer.php:96
+msgid "Shortcode updated!"
+msgstr ""
+
+#: classes/content_composer.php:97
+msgid "Insert Shortcode"
+msgstr ""
+
+#: classes/content_composer.php:98
+msgid "Edit shortcode"
+msgstr ""
+
+#: classes/content_composer.php:108
+msgid "Sure about column deleting?"
+msgstr ""
+
+#: classes/content_composer.php:109
+msgid "Sure about row deleting?"
+msgstr ""
+
+#: classes/content_composer.php:110 views/column_item.php:13
+msgid "Empty title"
+msgstr ""
+
+#: classes/content_composer.php:111
+msgid "Column content editor"
+msgstr ""
+
+#: classes/content_composer.php:112
+msgid "Row editor"
+msgstr ""
+
+#: classes/content_composer.php:199 index.php:40
+#: views/shortcodes/default/popups/title.php:45
+#: views/shortcodes/default/popups/title.php:85
+#: views/shortcodes/diplomat/popups/imggallery.php:21
+msgid "Default"
+msgstr ""
+
+#: classes/content_composer.php:200
+msgid "Default-white"
+msgstr ""
+
+#: classes/content_composer.php:211
+msgid "Small"
+msgstr ""
+
+#: classes/content_composer.php:212
+msgid "Middle"
+msgstr ""
+
+#: classes/content_composer.php:213
+msgid "Large"
+msgstr ""
+
+#: classes/content_composer.php:221
+msgid "All Categories"
+msgstr ""
+
+#: classes/content_composer.php:256
+msgid "All Tags"
+msgstr ""
+
+#: classes/content_composer.php:321
+msgid "Blog Classic"
+msgstr ""
+
+#: classes/content_composer.php:322
+msgid "Blog Classic Alternate"
+msgstr ""
+
+#: classes/content_composer.php:323
+msgid "Blog Masonry"
+msgstr ""
+
+#: classes/content_composer.php:324
+#: views/shortcodes/default/popups/dropcap.php:13
+msgid "Type 1"
+msgstr ""
+
+#: classes/content_composer.php:325
+#: views/shortcodes/default/popups/dropcap.php:14
+msgid "Type 2"
+msgstr ""
+
+#: classes/content_composer.php:326
+msgid "Type 3"
+msgstr ""
+
+#: classes/content_composer.php:327
+msgid "Type 4"
+msgstr ""
+
+#: classes/content_composer.php:457
+msgid "Browse"
+msgstr ""
+
+#: classes/layout_constructor.php:202
+#: views/shortcodes/default/tmm_video.php:136
+#: views/shortcodes/default/tmm_video.php:139
+msgid "Unsupported video format"
+msgstr ""
+
+#: classes/shortcode.php:57
+msgid "Price table"
+msgstr ""
+
+#: classes/shortcode.php:58
+msgid "Google table row"
+msgstr ""
+
+#: views/column_item.php:16 views/meta_panel.php:20 views/meta_panel.php:121
+msgid "Edit"
+msgstr ""
+
+#: views/column_item.php:17 views/meta_panel.php:21 views/meta_panel.php:122
+msgid "Delete"
+msgstr ""
+
+#: views/meta_panel.php:4
+msgid "Add New Row"
+msgstr ""
+
+#: views/meta_panel.php:5
+msgid "Insert Clipboard Row here"
+msgstr ""
+
+#: views/meta_panel.php:18 views/meta_panel.php:119
+msgid "Add Column"
+msgstr ""
+
+#: views/meta_panel.php:19
+msgid "Add Row to Clipboard"
+msgstr ""
+
+#: views/meta_panel.php:120
+msgid "Add to Clipboard"
+msgstr ""
+
+#: views/meta_panel.php:155
+msgid "No effects"
+msgstr ""
+
+#: views/meta_panel.php:156 views/shortcodes/default/popups/blog.php:40
+#: views/shortcodes/default/popups/pricing_tables.php:156
+msgid "Element Fade"
+msgstr ""
+
+#: views/meta_panel.php:157 views/shortcodes/default/popups/blog.php:41
+#: views/shortcodes/default/popups/pricing_tables.php:157
+msgid "Opacity"
+msgstr ""
+
+#: views/meta_panel.php:158 views/shortcodes/default/popups/blog.php:44
+#: views/shortcodes/default/popups/pricing_tables.php:160
+msgid "Slide Right"
+msgstr ""
+
+#: views/meta_panel.php:159 views/shortcodes/default/popups/blog.php:45
+#: views/shortcodes/default/popups/pricing_tables.php:161
+msgid "Slide Left"
+msgstr ""
+
+#: views/meta_panel.php:160 views/shortcodes/default/popups/blog.php:46
+#: views/shortcodes/default/popups/pricing_tables.php:162
+msgid "Slide Down"
+msgstr ""
+
+#: views/meta_panel.php:161 views/shortcodes/default/popups/blog.php:47
+#: views/shortcodes/default/popups/pricing_tables.php:163
+msgid "Slide Up"
+msgstr ""
+
+#: views/meta_panel.php:162 views/shortcodes/default/popups/blog.php:48
+#: views/shortcodes/default/popups/pricing_tables.php:164
+msgid "Slide Up 2x"
+msgstr ""
+
+#: views/meta_panel.php:163 views/shortcodes/default/popups/blog.php:49
+#: views/shortcodes/default/popups/pricing_tables.php:165
+msgid "Extra Radius"
+msgstr ""
+
+#: views/meta_panel.php:168
+msgid "Column Appearing Effect"
+msgstr ""
+
+#: views/meta_panel.php:169
+msgid "Layout constructor"
+msgstr ""
+
+#: views/meta_panel.php:183 views/meta_panel.php:184
+msgid "Column Left Indent"
+msgstr ""
+
+#: views/meta_panel.php:197 views/meta_panel.php:198
+msgid "Column Right Indent"
+msgstr ""
+
+#: views/meta_panel.php:218
+msgid "Row content displaying"
+msgstr ""
+
+#: views/meta_panel.php:222
+msgid "Below content matching its layout"
+msgstr ""
+
+#: views/meta_panel.php:223
+msgid "Before main content with separate layout options"
+msgstr ""
+
+#: views/meta_panel.php:224
+msgid "Below main content with separate layout options"
+msgstr ""
+
+#: views/meta_panel.php:235
+msgid "Row Full Width"
+msgstr ""
+
+#: views/meta_panel.php:239 views/shortcodes/default/popups/google_table.php:58
+msgid "No"
+msgstr ""
+
+#: views/meta_panel.php:240 views/shortcodes/default/popups/google_table.php:52
+msgid "Yes"
+msgstr ""
+
+#: views/meta_panel.php:268
+msgid "Padding top"
+msgstr ""
+
+#: views/meta_panel.php:277
+msgid "Padding bottom"
+msgstr ""
+
+#: views/meta_panel.php:286
+msgid "Margin top"
+msgstr ""
+
+#: views/meta_panel.php:295
+msgid "Margin bottom"
+msgstr ""
+
+#: views/meta_panel.php:305
+msgid "Content Align"
+msgstr ""
+
+#: views/meta_panel.php:325
+msgid "Custom css class"
+msgstr ""
+
+#: views/meta_panel.php:335
+msgid "Row Background Type"
+msgstr ""
+
+#: views/meta_panel.php:339 views/shortcodes/default/popups/blog.php:39
+#: views/shortcodes/default/popups/blog.php:192
+#: views/shortcodes/default/popups/blog.php:212
+#: views/shortcodes/default/popups/image.php:27
+#: views/shortcodes/default/popups/testimonials.php:96
+#: views/shortcodes/diplomat/popups/menu.php:26
+msgid "None"
+msgstr ""
+
+#: views/meta_panel.php:340
+msgid "Default Theme Color"
+msgstr ""
+
+#: views/meta_panel.php:341
+msgid "Custom"
+msgstr ""
+
+#: views/meta_panel.php:353
+msgid "Custom Background Type"
+msgstr ""
+
+#: views/meta_panel.php:357 views/shortcodes/default/popups/title.php:174
+msgid "Color"
+msgstr ""
+
+#: views/meta_panel.php:358 views/shortcodes/default/popups/google_map.php:45
+msgid "Image"
+msgstr ""
+
+#: views/meta_panel.php:368 views/shortcodes/default/popups/button.php:106
+#: views/shortcodes/default/popups/chart.php:146
+#: views/shortcodes/default/popups/services.php:141
+#: views/shortcodes/diplomat/popups/featured-boxes.php:182
+#: views/shortcodes/diplomat/popups/featured-boxes.php:367
+#: views/shortcodes/diplomat/popups/featured-boxes.php:552
+msgid "Background Color"
+msgstr ""
+
+#: views/meta_panel.php:384
+msgid "Background Image"
+msgstr ""
+
+#: views/shortcodes/default/blog.php:245
+#: views/shortcodes/diplomat/imggallery.php:183
+msgid "Load More"
+msgstr ""
+
+#: views/shortcodes/default/google_map.php:69
+msgid "Enter your Google Maps API key on Theme Options Page."
+msgstr ""
+
+#: views/shortcodes/default/mail_subscription.php:28
+msgid "Zip code"
+msgstr ""
+
+#: views/shortcodes/default/mail_subscription.php:31
+msgid "Submit"
+msgstr ""
+
+#: views/shortcodes/default/our_contacts.php:6
+msgid "Call:"
+msgstr ""
+
+#: views/shortcodes/default/our_contacts.php:7
+msgid "E-mail:"
+msgstr ""
+
+#: views/shortcodes/default/our_contacts.php:19
+msgid "Closed"
+msgstr ""
+
+#: views/shortcodes/default/popups/accordion.php:9
+#: views/shortcodes/default/popups/dropcap.php:9
+#: views/shortcodes/default/popups/services.php:12
+#: views/shortcodes/default/popups/services.php:39
+#: views/shortcodes/default/popups/services.php:40
+#: views/shortcodes/default/popups/services.php:41
+#: views/shortcodes/default/popups/services.php:42
+#: views/shortcodes/default/popups/services.php:43
+#: views/shortcodes/default/popups/services.php:44
+#: views/shortcodes/default/popups/services.php:45
+#: views/shortcodes/default/popups/services.php:46
+#: views/shortcodes/default/popups/services.php:47
+#: views/shortcodes/default/popups/services.php:48
+#: views/shortcodes/default/popups/services.php:49
+#: views/shortcodes/default/popups/services.php:50
+#: views/shortcodes/default/popups/services.php:51
+#: views/shortcodes/default/popups/services.php:52
+#: views/shortcodes/default/popups/services.php:53
+#: views/shortcodes/default/popups/services.php:54
+#: views/shortcodes/default/popups/services.php:55
+#: views/shortcodes/default/popups/services.php:56
+#: views/shortcodes/default/popups/services.php:57
+#: views/shortcodes/default/popups/services.php:58
+#: views/shortcodes/default/popups/services.php:59
+#: views/shortcodes/default/popups/services.php:60
+#: views/shortcodes/default/popups/services.php:61
+#: views/shortcodes/default/popups/services.php:62
+#: views/shortcodes/default/popups/services.php:63
+#: views/shortcodes/default/popups/services.php:64
+#: views/shortcodes/default/popups/services.php:65
+#: views/shortcodes/default/popups/services.php:66
+#: views/shortcodes/default/popups/services.php:67
+#: views/shortcodes/default/popups/services.php:68
+#: views/shortcodes/default/popups/services.php:69
+#: views/shortcodes/default/popups/services.php:70
+#: views/shortcodes/default/popups/services.php:71
+#: views/shortcodes/default/popups/services.php:72
+#: views/shortcodes/default/popups/services.php:73
+#: views/shortcodes/default/popups/services.php:74
+#: views/shortcodes/default/popups/services.php:75
+#: views/shortcodes/default/popups/services.php:76
+#: views/shortcodes/default/popups/services.php:77
+#: views/shortcodes/default/popups/services.php:78
+#: views/shortcodes/diplomat/popups/menu.php:27
+#: views/shortcodes/diplomat/popups/menu.php:28
+#: views/shortcodes/diplomat/popups/menu.php:29
+#: views/shortcodes/diplomat/popups/menu.php:30
+#: views/shortcodes/diplomat/popups/menu.php:31
+#: views/shortcodes/diplomat/popups/menu.php:32
+#: views/shortcodes/diplomat/popups/menu.php:33
+#: views/shortcodes/diplomat/popups/menu.php:34
+#: views/shortcodes/diplomat/popups/menu.php:35
+#: views/shortcodes/diplomat/popups/menu.php:36
+#: views/shortcodes/diplomat/popups/menu.php:37
+#: views/shortcodes/diplomat/popups/menu.php:38
+#: views/shortcodes/diplomat/popups/menu.php:39
+#: views/shortcodes/diplomat/popups/menu.php:40
+#: views/shortcodes/diplomat/popups/menu.php:41
+#: views/shortcodes/diplomat/popups/menu.php:42
+#: views/shortcodes/diplomat/popups/menu.php:43
+#: views/shortcodes/diplomat/popups/menu.php:44
+#: views/shortcodes/diplomat/popups/menu.php:45
+#: views/shortcodes/diplomat/popups/menu.php:46
+#: views/shortcodes/diplomat/popups/menu.php:47
+#: views/shortcodes/diplomat/popups/menu.php:48
+#: views/shortcodes/diplomat/popups/menu.php:49
+#: views/shortcodes/diplomat/popups/menu.php:50
+#: views/shortcodes/diplomat/popups/menu.php:51
+#: views/shortcodes/diplomat/popups/menu.php:52
+#: views/shortcodes/diplomat/popups/menu.php:53
+#: views/shortcodes/diplomat/popups/menu.php:54
+#: views/shortcodes/diplomat/popups/menu.php:55
+#: views/shortcodes/diplomat/popups/menu.php:56
+#: views/shortcodes/diplomat/popups/menu.php:57
+#: views/shortcodes/diplomat/popups/menu.php:58
+#: views/shortcodes/diplomat/popups/menu.php:59
+#: views/shortcodes/diplomat/popups/menu.php:60
+#: views/shortcodes/diplomat/popups/menu.php:61
+#: views/shortcodes/diplomat/popups/menu.php:62
+#: views/shortcodes/diplomat/popups/menu.php:63
+#: views/shortcodes/diplomat/popups/menu.php:64
+msgid "Type"
+msgstr ""
+
+#: views/shortcodes/default/popups/accordion.php:13
+msgid "Accordion"
+msgstr ""
+
+#: views/shortcodes/default/popups/accordion.php:14
+msgid "Toggle"
+msgstr ""
+
+#: views/shortcodes/default/popups/accordion.php:28
+#: views/shortcodes/default/popups/accordion.php:59
+#: views/shortcodes/default/popups/services.php:83
+#: views/shortcodes/default/popups/services.php:209
+#: views/shortcodes/default/popups/socialicons.php:41
+#: views/shortcodes/default/popups/socialicons.php:87
+#: views/shortcodes/default/popups/tabs.php:9
+#: views/shortcodes/default/popups/tabs.php:41
+#: views/shortcodes/diplomat/popups/menu.php:8
+#: views/shortcodes/diplomat/popups/menu.php:143
+msgid "Add item"
+msgstr ""
+
+#: views/shortcodes/default/popups/accordion.php:45
+#: views/shortcodes/default/popups/chart.php:32
+#: views/shortcodes/default/popups/mail_subscription.php:9
+#: views/shortcodes/default/popups/services.php:182
+#: views/shortcodes/default/popups/testimonials.php:99
+#: views/shortcodes/diplomat/popups/featured-boxes.php:72
+#: views/shortcodes/diplomat/popups/featured-boxes.php:257
+#: views/shortcodes/diplomat/popups/featured-boxes.php:442
+msgid "Title"
+msgstr ""
+
+#: views/shortcodes/default/popups/accordion.php:46
+#: views/shortcodes/default/popups/list.php:167
+#: views/shortcodes/default/popups/services.php:198
+#: views/shortcodes/default/popups/socialicons.php:77
+#: views/shortcodes/default/popups/tabs.php:28
+#: views/shortcodes/diplomat/popups/menu.php:87
+#: views/shortcodes/diplomat/popups/team.php:68
+msgid "Remove"
+msgstr ""
+
+#: views/shortcodes/default/popups/accordion.php:51
+#: views/shortcodes/default/popups/services.php:193
+#: views/shortcodes/default/popups/tabs.php:33
+msgid "Content"
+msgstr ""
+
+#: views/shortcodes/default/popups/alert.php:10
+#: views/shortcodes/default/popups/highlight.php:9
+#: views/shortcodes/default/popups/tooltip.php:20
+msgid "Enter Text"
+msgstr ""
+
+#: views/shortcodes/default/popups/alert.php:22
+#: views/shortcodes/default/popups/divider.php:8
+msgid "Select Type"
+msgstr ""
+
+#: views/shortcodes/default/popups/alert.php:26
+msgid "Error"
+msgstr ""
+
+#: views/shortcodes/default/popups/alert.php:27
+msgid "Success"
+msgstr ""
+
+#: views/shortcodes/default/popups/alert.php:28
+msgid "Info"
+msgstr ""
+
+#: views/shortcodes/default/popups/alert.php:29
+msgid "Notice"
+msgstr ""
+
+#: views/shortcodes/default/popups/alert.php:30
+msgid "Transparent"
+msgstr ""
+
+#: views/shortcodes/default/popups/blockquote.php:9
+msgid "Enter text"
+msgstr ""
+
+#: views/shortcodes/default/popups/blockquote.php:23
+#: views/shortcodes/default/popups/testimonials.php:98
+msgid "Author"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:8
+msgid "Default Options"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:9
+msgid "Advanced Blog Options"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:21
+msgid "Blog Type"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:26
+msgid "Choose necessary layout for displaying posts."
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:35
+msgid "Effect for Appearing Post"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:42
+#: views/shortcodes/default/popups/pricing_tables.php:158
+msgid "Opacity 2x Run"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:43
+#: views/shortcodes/default/popups/pricing_tables.php:159
+msgid "Scale"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:51
+#: views/shortcodes/default/popups/pricing_tables.php:167
+msgid "Effect for Appearing Post."
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:61
+#: views/shortcodes/diplomat/popups/imggallery.php:116
+#: views/shortcodes/tmm_events_calendar/popups/tmm_events_list.php:84
+msgid "Category"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:77
+msgid "Tag"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:93
+#: views/shortcodes/diplomat/popups/imggallery.php:65
+#: views/shortcodes/diplomat/popups/team.php:9
+msgid "Layout"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:97
+msgid "Fullwidth"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:98
+#: views/shortcodes/diplomat/popups/imggallery.php:69
+msgid "2 Columns"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:99
+#: views/shortcodes/diplomat/popups/imggallery.php:70
+msgid "3 Columns"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:100
+#: views/shortcodes/diplomat/popups/imggallery.php:71
+msgid "4 Columns"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:114
+msgid "Order By"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:129
+#: views/shortcodes/default/popups/testimonials.php:75
+msgid "Order"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:133
+#: views/shortcodes/default/popups/testimonials.php:80
+msgid "DESC"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:134
+#: views/shortcodes/default/popups/testimonials.php:79
+msgid "ASC"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:146
+msgid "Posts Per Page"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:160
+msgid "Posts Per Load"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:174
+msgid "Posts"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:178
+msgid "Example: 56,73,119. It has the most hight priority!"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:188
+msgid "Exclude Posts"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:193
+msgid "Posts With Featured Image"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:194
+msgid "Posts Without Featured Image"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:197
+#: views/shortcodes/default/popups/blog.php:219
+msgid "Choose post formats that will not be included in current query."
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:207
+msgid "Exclude Post Formats"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:213
+msgid "Gallery Post"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:214
+msgid "Quote Post"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:215
+msgid "Video Post"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:216
+msgid "Audio Post"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:229
+msgid "Title Symbols Count"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:233
+msgid "Truncate post titles depending on symbols number you want."
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:242
+msgid "Show / Hide Post Excerpt"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:246
+msgid "If checked, post excerpts will be shown according to layout."
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:255
+msgid "Excerpt Symbols Count"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:259
+msgid "Truncate excerpt depending on symbols number you want."
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:268
+msgid "Show/Hide Pagination"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:272
+msgid "Enable Pagination"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:282
+#: views/shortcodes/default/popups/blog.php:286
+msgid "Show/Hide Border Bottom"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:296
+msgid "Load Posts By Scrolling"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:310
+msgid "Show/Hide Tags"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:324
+msgid "Show/Hide Author"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:342
+msgid "Image opacity"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:346
+msgid "Image opacity on hover"
+msgstr ""
+
+#: views/shortcodes/default/popups/blog.php:356
+msgid "Image background"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:8
+msgid "Buttons Text"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:21
+msgid "URL"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:34
+#: views/shortcodes/default/popups/image.php:46
+msgid "Size"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:49
+msgid "Button type"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:74
+#: views/shortcodes/default/popups/services.php:128
+msgid "Text Color"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:90
+msgid "Mouseover Text Color"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:117
+msgid "Transparent Background Color"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:134
+#: views/shortcodes/diplomat/popups/featured-boxes.php:198
+#: views/shortcodes/diplomat/popups/featured-boxes.php:383
+#: views/shortcodes/diplomat/popups/featured-boxes.php:568
+msgid "Mouseover Background Color"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:145
+msgid "Transparent Mouseover Background Color"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:162
+msgid "Border Color"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:173
+msgid "Transparent Border Color"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:190
+msgid "Mouseover Border Color"
+msgstr ""
+
+#: views/shortcodes/default/popups/button.php:203
+msgid "Transparent Mouseover Border Color"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:9
+msgid "Chart Type"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:13
+msgid "Pie Chart"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:14
+msgid "Bar Chart"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:15
+msgid "Column Chart"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:16
+msgid "Geochart"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:17
+msgid "Line Chart"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:18
+msgid "Area Chart"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:19
+msgid "Combo Chart"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:46
+msgid "Chart Width"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:60
+msgid "Chart Height"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:74
+#: views/shortcodes/default/popups/title.php:124
+msgid "Font Family"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:96
+#: views/shortcodes/default/popups/title.php:52
+msgid "Font Size"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:111
+msgid "Chart Titles"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:115
+#: views/shortcodes/default/popups/chart.php:132
+msgid "Example:"
+msgstr ""
+
+#: views/shortcodes/default/popups/chart.php:128
+msgid "Chart Data"
+msgstr ""
+
+#: views/shortcodes/default/popups/divider.php:12
+msgid "Solid"
+msgstr ""
+
+#: views/shortcodes/default/popups/divider.php:13
+msgid "Dashed Type 1"
+msgstr ""
+
+#: views/shortcodes/default/popups/divider.php:14
+msgid "Dashed Type 2"
+msgstr ""
+
+#: views/shortcodes/default/popups/dropcap.php:17
+msgid "Select type of you dropcap"
+msgstr ""
+
+#: views/shortcodes/default/popups/dropcap.php:22
+msgid "Enter Symbol"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:11
+#: views/shortcodes/default/popups/tmm_video.php:60
+msgid "Height"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:26
+#: views/shortcodes/default/popups/tmm_video.php:46
+msgid "Width"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:40
+msgid "Mode"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:44
+msgid "Map"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:58
+msgid "Location mode"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:62
+#: views/shortcodes/default/popups/google_map.php:107
+msgid "Address"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:63
+msgid "Coordinates"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:77
+msgid "Marker Latitude"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:81
+#: views/shortcodes/default/popups/google_map.php:97
+msgid ""
+"Point on which the viewport will be centered. If not given and no markers "
+"are defined the viewport defaults to world view. In address Location mode it "
+"is calculated automatically!"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:93
+msgid "Marker Longitude"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:128
+msgid "Zoom"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:133
+msgid "Zoom value from 1 to 19 where 19 is the greatest and 1 the smallest."
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:143
+msgid "Enable Scrollwheel"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:147
+msgid "Set to false to disable zooming with your mouses scrollwheel."
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:156
+msgid "Maptype"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:160
+msgid "ROADMAP"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:161
+msgid "SATELLITE"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:162
+msgid "HYBRID"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:163
+msgid "TERRAIN"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:177
+msgid "Enable Marker"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:181
+msgid "Set to false to disable display a marker in the viewport."
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:190
+msgid "Enable Popup"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:194
+msgid ""
+"If true the info window for this marker will be shown when the map finished "
+"loading. If html is empty this option will be ignored."
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:204
+msgid "Marker is draggable"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:208
+msgid "Set marker draggable"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_map.php:217
+msgid "Html Content"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_table.php:14
+msgid "Rows count"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_table.php:29
+msgid "Columns count"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_table.php:46
+msgid "Show Row Number"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_table.php:74
+msgid "string"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_table.php:75
+msgid "number"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_table.php:91
+msgid "Table headers"
+msgstr ""
+
+#: views/shortcodes/default/popups/google_table.php:121
+msgid "Table data"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:8
+msgid "Image URL"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:23
+msgid "Align"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:28
+msgid "Left"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:29
+msgid "Right"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:30
+msgid "Center"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:50
+msgid "width*height. Fore example: 500*300. Empty field means full size"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:62
+msgid "Image Alt"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:76
+msgid "Top Indent (px)"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:90
+msgid "Right Indent (px)"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:104
+msgid "Bottom Indent (px)"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:118
+msgid "Left Indent (px)"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:135
+msgid "Action"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:139
+msgid "No link on image"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:140
+msgid "Open link"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:141
+msgid "Open Image in lightbox"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:153
+msgid "Image Action Link"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:166
+msgid "Link Target"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:170
+msgid "Self"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:171
+msgid "Blank"
+msgstr ""
+
+#: views/shortcodes/default/popups/image.php:183
+msgid "Link Title"
+msgstr ""
+
+#: views/shortcodes/default/popups/list.php:97
+msgid "List Type"
+msgstr ""
+
+#: views/shortcodes/default/popups/list.php:103
+msgid "Unordered"
+msgstr ""
+
+#: views/shortcodes/default/popups/list.php:109
+msgid "Ordered"
+msgstr ""
+
+#: views/shortcodes/default/popups/list.php:121
+msgid "List Styles"
+msgstr ""
+
+#: views/shortcodes/default/popups/list.php:122
+#: views/shortcodes/default/popups/list.php:177
+msgid "Add list item"
+msgstr ""
+
+#: views/shortcodes/default/popups/mail_subscription.php:22
+#: views/shortcodes/diplomat/popups/featured-boxes.php:103
+#: views/shortcodes/diplomat/popups/featured-boxes.php:288
+#: views/shortcodes/diplomat/popups/featured-boxes.php:473
+msgid "Description"
+msgstr ""
+
+#: views/shortcodes/default/popups/mail_subscription.php:34
+msgid "Email Placeholder"
+msgstr ""
+
+#: views/shortcodes/default/popups/mail_subscription.php:37
+msgid "Type your email placeholder here."
+msgstr ""
+
+#: views/shortcodes/default/popups/mail_subscription.php:48
+msgid "Show zip code field"
+msgstr ""
+
+#: views/shortcodes/default/popups/mail_subscription.php:51
+msgid "Check this to display zip code field."
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:9
+msgid "Enter Address"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:20
+msgid "Enter Phone"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:31
+msgid "Enter Email"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:42
+msgid "Working Days Info"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:46
+msgid "Put your working days info here."
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:52
+msgid "Monday"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:53
+msgid "Tuesday"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:54
+msgid "Wednesday"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:55
+msgid "Thursday"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:56
+msgid "Friday"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:57
+msgid "Saturday"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:58
+msgid "Sunday"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:62
+msgid "Closed Days"
+msgstr ""
+
+#: views/shortcodes/default/popups/our_contacts.php:68
+msgid "Hold the CTRL key and click the items in a list to choose them"
+msgstr ""
+
+#: views/shortcodes/default/popups/pricing_tables.php:112
+msgid "Table Count"
+msgstr ""
+
+#: views/shortcodes/default/popups/pricing_tables.php:136
+msgid "Row Count"
+msgstr ""
+
+#: views/shortcodes/default/popups/pricing_tables.php:150
+msgid "Effect for Appearing Table"
+msgstr ""
+
+#: views/shortcodes/default/popups/pricing_tables.php:177
+msgid "Starter Package"
+msgstr ""
+
+#: views/shortcodes/default/popups/pricing_tables.php:177
+msgid "$19.95"
+msgstr ""
+
+#: views/shortcodes/default/popups/pricing_tables.php:177
+msgid "per month"
+msgstr ""
+
+#: views/shortcodes/default/popups/pricing_tables.php:177
+msgid "Get Started"
+msgstr ""
+
+#: views/shortcodes/default/popups/pricing_tables.php:228
+msgid "Enter text here"
+msgstr ""
+
+#: views/shortcodes/default/popups/pricing_tables.php:233
+msgid "Button Text"
+msgstr ""
+
+#: views/shortcodes/default/popups/pricing_tables.php:235
+msgid "Button Link"
+msgstr ""
+
+#: views/shortcodes/default/popups/pricing_tables.php:237
+#: views/shortcodes/default/popups/pricing_tables.php:239
+msgid "Is Featured"
+msgstr ""
+
+#: views/shortcodes/default/popups/services.php:18
+msgid "Normal"
+msgstr ""
+
+#: views/shortcodes/default/popups/services.php:24
+msgid "Colorized"
+msgstr ""
+
+#: views/shortcodes/default/popups/services.php:82
+msgid "Blocks"
+msgstr ""
+
+#: views/shortcodes/default/popups/services.php:155
+msgid "Text Hover Color"
+msgstr ""
+
+#: views/shortcodes/default/popups/services.php:168
+msgid "Background Hover Color"
+msgstr ""
+
+#: views/shortcodes/default/popups/services.php:185
+msgid "Link"
+msgstr ""
+
+#: views/shortcodes/default/popups/services.php:189
+msgid "Hover Title"
+msgstr ""
+
+#: views/shortcodes/default/popups/services.php:194
+msgid "Hover Content"
+msgstr ""
+
+#: views/shortcodes/default/popups/socialicons.php:72
+msgid "http://"
+msgstr ""
+
+#: views/shortcodes/default/popups/tabs.php:7
+msgid "Items"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:11
+msgid "Show"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:15
+msgid "Show selected testimonial"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:16
+msgid "Show all testimonials"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:38
+msgid "Testimonials"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:53
+msgid "Count"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:57
+#: views/shortcodes/diplomat/imggallery.php:105
+msgid "All"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:92
+msgid "Order by"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:97
+msgid "ID"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:100
+msgid "Name"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:101
+msgid "Date"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:102
+msgid "Modified"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:103
+msgid "Rand"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:117
+msgid "Show photo"
+msgstr ""
+
+#: views/shortcodes/default/popups/testimonials.php:121
+msgid "Show / Hide Photo"
+msgstr ""
+
+#: views/shortcodes/default/popups/title.php:10
+msgid "Title Text"
+msgstr ""
+
+#: views/shortcodes/default/popups/title.php:25
+msgid "Title Heading"
+msgstr ""
+
+#: views/shortcodes/default/popups/title.php:67
+msgid "Letter spacing (px)"
+msgstr ""
+
+#: views/shortcodes/default/popups/title.php:81
+msgid "Font weight"
+msgstr ""
+
+#: views/shortcodes/default/popups/title.php:104
+msgid "Title Align"
+msgstr ""
+
+#: views/shortcodes/default/popups/title.php:139
+msgid "Title type"
+msgstr ""
+
+#: views/shortcodes/default/popups/title.php:160
+msgid "Line Height (em)"
+msgstr ""
+
+#: views/shortcodes/default/popups/title.php:191
+msgid "Text Transform Uppercase"
+msgstr ""
+
+#: views/shortcodes/default/popups/tmm_audio.php:8
+msgid "Link to Audio"
+msgstr ""
+
+#: views/shortcodes/default/popups/tmm_video.php:8
+msgid "Youtube or Vimeo link"
+msgstr ""
+
+#: views/shortcodes/default/popups/tmm_video.php:12
+msgid ""
+"Examples: https://www.youtube.com/watch?v=_EBYf3lYSEg  http://vimeo."
+"com/22439234 or upload self hosted video"
+msgstr ""
+
+#: views/shortcodes/default/popups/tmm_video.php:22
+msgid "Cover Image for Self Hosted Video"
+msgstr ""
+
+#: views/shortcodes/default/popups/tmm_video.php:33
+#: views/shortcodes/default/popups/tmm_video.php:37
+msgid "Show Cover Image Only on Mobiles"
+msgstr ""
+
+#: views/shortcodes/default/popups/tooltip.php:9
+msgid "Enter Tooltip Text"
+msgstr ""
+
+#: views/shortcodes/diplomat/contact_form.php:81
+msgid "Other"
+msgstr ""
+
+#: views/shortcodes/diplomat/contact_form.php:184
+msgid "City "
+msgstr ""
+
+#: views/shortcodes/diplomat/contact_form.php:205
+msgid "State"
+msgstr ""
+
+#: views/shortcodes/diplomat/contact_form.php:211
+msgid "Zip Code "
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/archives.php:6
+msgid "Latest Posts"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/archives.php:7
+msgid "Archives by Month"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/archives.php:8
+msgid "Archives by Year"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/archives.php:9
+msgid "Archives by Day"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/archives.php:10
+msgid "Archives by Category"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/archives.php:14
+msgid "Archives"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/archives.php:19
+msgid "Shows archives according to selected option."
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/archives.php:28
+msgid "Count of Items"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/archives.php:32
+msgid "Leave field empty for displaying all items"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/contact_form.php:8
+msgid "Choose Contact Form"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/featured-boxes.php:30
+msgid "First Box:"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/featured-boxes.php:37
+#: views/shortcodes/diplomat/popups/featured-boxes.php:221
+#: views/shortcodes/diplomat/popups/featured-boxes.php:405
+msgid "Icon"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/featured-boxes.php:54
+#: views/shortcodes/diplomat/popups/featured-boxes.php:239
+#: views/shortcodes/diplomat/popups/featured-boxes.php:423
+msgid "Page Links"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/featured-boxes.php:87
+#: views/shortcodes/diplomat/popups/featured-boxes.php:272
+#: views/shortcodes/diplomat/popups/featured-boxes.php:457
+#: views/shortcodes/diplomat/popups/menu.php:109
+msgid "Link URL"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/featured-boxes.php:118
+#: views/shortcodes/diplomat/popups/featured-boxes.php:303
+#: views/shortcodes/diplomat/popups/featured-boxes.php:488
+msgid "Icon Color"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/featured-boxes.php:134
+#: views/shortcodes/diplomat/popups/featured-boxes.php:319
+#: views/shortcodes/diplomat/popups/featured-boxes.php:504
+msgid "Title Color"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/featured-boxes.php:150
+#: views/shortcodes/diplomat/popups/featured-boxes.php:335
+#: views/shortcodes/diplomat/popups/featured-boxes.php:520
+msgid "Description Color"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/featured-boxes.php:166
+#: views/shortcodes/diplomat/popups/featured-boxes.php:351
+#: views/shortcodes/diplomat/popups/featured-boxes.php:536
+msgid "Top Border Color"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/featured-boxes.php:213
+msgid "Second Box:"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/featured-boxes.php:397
+msgid "Third Box:"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/imggallery.php:25
+msgid "Albums"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/imggallery.php:30
+msgid "Gallery Type"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/imggallery.php:46
+msgid "Display"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/imggallery.php:50
+msgid "Cover Images"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/imggallery.php:51
+msgid "Images From Gallery"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/imggallery.php:86
+#: views/shortcodes/diplomat/popups/imggallery.php:90
+msgid "Posts per page"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/imggallery.php:101
+#: views/shortcodes/diplomat/popups/imggallery.php:105
+msgid "Posts per load"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/imggallery.php:132
+msgid "Enable Gallery Filter"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/imggallery.php:136
+msgid "Enable Folio Filter"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/imggallery.php:143
+msgid "Show categories"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/imggallery.php:147
+msgid "Show/Hide Categories"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/menu.php:6
+msgid "Menu Items"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/menu.php:95
+msgid "Link Text"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/menu.php:122
+msgid " Icon Type"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/slider.php:22
+msgid "Page slider type"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/slider.php:42
+msgid "Slider groups"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/slider.php:53
+msgid "No one slider exists"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/slider.php:68
+msgid "Grid Slider groups"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/slider.php:77
+msgid "Please, create accordion grid slider at first"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/slider.php:102
+msgid "Layerslider plugins groups"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/slider.php:105
+msgid "Choose sliders group"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/slider.php:113
+msgid "No one Layerslider group exists"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/team.php:13
+msgid "Four Columns"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/team.php:14
+msgid "Three Columns"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/team.php:15
+msgid "Two Columns"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/team.php:45
+msgid "Team"
+msgstr ""
+
+#: views/shortcodes/diplomat/popups/team.php:46
+#: views/shortcodes/diplomat/popups/team.php:78
+msgid "Add team member"
+msgstr ""
+
+#: views/shortcodes/diplomat/team.php:63
+msgid "Email"
+msgstr ""
+
+#: views/shortcodes/diplomat/team.php:66
+msgid "Twitter"
+msgstr ""
+
+#: views/shortcodes/diplomat/team.php:69
+msgid "Facebook"
+msgstr ""
+
+#: views/shortcodes/diplomat/team.php:72
+msgid "Linkedin"
+msgstr ""
+
+#: views/shortcodes/diplomat/team.php:75
+msgid "Instagram"
+msgstr ""
+
+#: views/shortcodes/diplomat/team.php:78
+msgid "Dribbble"
+msgstr ""
+
+#: views/shortcodes/diplomat/team.php:81
+msgid "Skype"
+msgstr ""
+
+#: views/shortcodes/diplomat/team.php:84
+msgid "CV"
+msgstr ""
+
+#: views/shortcodes/tmm_events_calendar/popups/tmm_events_calendar.php:8
+msgid "Display event featured image in the tooltip"
+msgstr ""
+
+#: views/shortcodes/tmm_events_calendar/popups/tmm_events_calendar.php:21
+msgid "Display event time in the tooltip"
+msgstr ""
+
+#: views/shortcodes/tmm_events_calendar/popups/tmm_events_calendar.php:34
+msgid "Display event place in the tooltip"
+msgstr ""
+
+#: views/shortcodes/tmm_events_calendar/popups/tmm_events_calendar.php:47
+msgid "Display event description in the tooltip"
+msgstr ""
+
+#: views/shortcodes/tmm_events_calendar/popups/tmm_events_calendar.php:60
+msgid "Excerpt symbols count in the tooltip description"
+msgstr ""
+
+#: views/shortcodes/tmm_events_calendar/popups/tmm_events_list.php:8
+msgid "Count of events per page"
+msgstr ""
+
+#: views/shortcodes/tmm_events_calendar/popups/tmm_events_list.php:21
+msgid "Sorting"
+msgstr ""
+
+#: views/shortcodes/tmm_events_calendar/popups/tmm_events_list.php:35
+msgid "Months amount in events period selector"
+msgstr ""
+
+#: views/shortcodes/tmm_events_calendar/popups/tmm_events_list.php:53
+msgid "Months amount, that will be displayed in events period selector"
+msgstr ""
+
+#: views/shortcodes/tmm_events_calendar/popups/tmm_events_list.php:60
+msgid "Display events period selector"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "ThemeMakers Visual Content Composer"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://webtemplatemasters.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Universal Layout Composer with Shortcodes Package"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ThemeMakers"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://themeforest.net/user/ThemeMakers"
+msgstr ""

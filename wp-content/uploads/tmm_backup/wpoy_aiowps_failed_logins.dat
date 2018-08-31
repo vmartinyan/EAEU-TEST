@@ -1,0 +1,18 @@
+array (
+  0 => 
+  array (
+    'id' => '1',
+    'user_id' => '1',
+    'user_login' => 'eaeuadmin',
+    'failed_login_date' => '2018-08-08 05:11:37',
+    'login_attempt_ip' => '188.186.205.152',
+  ),
+  1 => 
+  array (
+    'id' => '2',
+    'user_id' => '0',
+    'user_login' => 'admin',
+    'failed_login_date' => '2018-08-08 16:01:42',
+    'login_attempt_ip' => '188.186.205.152',
+  ),
+)

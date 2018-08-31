@@ -1,0 +1,315 @@
+/* -------------------------------------------------- */
+/*	Events
+/* -------------------------------------------------- */
+
+article.event .entry-meta{
+        background: none;
+}
+
+article.event .entry-meta .date,
+.widget_upcoming_events .entry-meta .date {
+        background: none;
+        display: block;
+        margin-bottom: 0px;
+        padding: 0px;
+        color: #1c7fbd;
+        font-size: 14px;
+        font-weight: 400;
+        font-family: 'Adamina', Arial;
+}
+
+article.event .entry-body {
+        font-weight: 400;
+}
+
+article.event .entry-body .event-desc {
+        border-right: 1px solid #e0e1e3;
+        float: left;
+        margin-bottom: 1.0em;
+        margin-right: 9px;
+}
+
+article.event .entry-body .event-desc p {
+        margin-bottom: 0;
+        margin-right: 20px;
+}
+
+article.event .entry-body .event-desc .work-item {
+        margin-right: 20px;
+        margin-bottom: 25px;
+}
+
+article.event .entry-body .event-details>div>strong {
+        width: 100px;
+		float: left;
+}
+
+article.event .entry-body .event-details>div>span {
+	display: table;
+}
+
+article.event .map {
+        border-top: 2px solid #D4D4D4;
+        padding-top: 30px;
+        margin-top: 30px;
+}
+
+.events_listing_wrap {
+	min-height: 200px;
+	position: relative;
+}
+
+.tmm_no_events{
+	border: solid 1px #777;
+	background: #ddd;
+	padding: 5px;
+	list-style: none;
+}
+
+.wp-pagenavi .current,
+.wp-pagenavi .current:hover{
+	color: #8a8989;
+	background: #e7e7e8;
+	cursor: default;
+}
+
+.events_filter.row {
+    margin-bottom: 20px;
+}
+
+.events_filter.row label {
+    display: block;
+    text-align: right;
+    line-height: 54px;
+}
+
+/* -------------------------------------------------- */
+/*	Events Tooltip
+/* -------------------------------------------------- */
+
+.calendar_event_tooltip {
+    background: #E9EAEB;
+    color: #777;
+    position: absolute;
+    width: 200px;
+    z-index: 999;
+    padding: 11px;    
+    border: solid 1px #EBEBEB;
+	font-size: 14px;
+}
+
+.calendar_event_tooltip_img { border: 1px solid #fafafa; }
+.calendar_event_tooltip h4 { color: #4B4C4D; }
+.calendar_event_tooltip span { display: block; }
+.calendar_event_tooltip span b { color: #4B4C4D;}
+.calendar_event_tooltip_timezone,
+.calendar_event_tooltip_place { color: #777; }
+
+.calendar_event_tooltip_close{
+    color: #4B4C4D;
+    position: absolute;
+    right: 0;
+    top: 2px;
+    width: 17px;
+    height: 17px;  
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* -------------------------------------------------- */
+/*	Events Calendar
+/* -------------------------------------------------- */
+
+.fc-header .fc-button-prev,
+.fc-header .fc-button-next{
+    height: 30px;
+	width: 30px;
+    line-height: 24px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.fc-header .fc-button-month,
+.fc-header .fc-button-agendaWeek,
+.fc-header .fc-button-prev,
+.fc-header .fc-button-next{
+    margin-right: 1px !important;
+}
+
+.fc-header .fc-button-prev:hover,
+.fc-header .fc-button-next:hover,
+.fc-header .fc-button-today:hover,
+.fc-header .fc-button-month:hover,
+.fc-header .fc-button-agendaWeek:hover,
+.fc-header .fc-button-agendaDay:hover{
+   background: #14b3e4;
+   color: #fff;
+}
+
+.fc-header .fc-button-prev,
+.fc-header .fc-button-next,
+.fc-header .fc-button-today,
+.fc-header .fc-button-month,
+.fc-header .fc-button-agendaWeek,
+.fc-header .fc-button-agendaDay,
+.fc-header .fc-button-today.fc-state-disabled:hover{
+    background: #E7E7E8;
+    box-shadow: none;
+    transition: background-color 0.2s ease 0s, border 0.2s ease 0s, color 0.2s ease 0s, opacity 0.2s ease-in-out 0s;
+    border: 0 !important;
+    border-radius: 0 !important;
+    color: #1C7FBD;
+    font-weight: 400;
+    text-shadow: none;
+}
+
+td.fc-today{
+    background: #E9EAEB;
+}
+
+tr.fc-week td.fc-day {
+	background-color: #ffffff;
+}
+
+.fc-border-separate tr th.fc-day-header,
+.fc-widget-header:not(.fc-agenda-divider){
+	padding: 15px 10px;
+	background-color: #11547b;
+	color: #ffffff;
+	font-weight: 400;
+}
+
+th.fc-widget-header.fc-first { background-color: #ffffff; }
+
+a.fc-event {
+	background-color: #14b3e4;
+	border: none;
+}
+
+a.fc-event:hover {
+	color: #ffffff;
+}
+
+.fc-event-time {
+	display: none;
+}
+
+/* -------------------------------------------------- */
+/*	Events Widgets
+/* -------------------------------------------------- */
+
+.widget_soonest_event .fc-event-time,
+.widget_events_calendar .fc-event-time{
+	display: none !important;
+}
+.widget_soonest_event .fc-event-title,
+.widget_events_calendar .fc-event-title{
+	font-weight: bold; font-size: 14px;
+}
+.widget_events_calendar .fc-event{
+	background: none;
+	border: none;
+}
+
+.widget_soonest_event .post-content p {
+	margin-bottom: 0 !important;
+}
+
+.widget_events_calendar .fc-header-title h2{
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.widget_events_calendar .fc-day-content>div{
+    
+}
+
+.widget_events_calendar .fc-header {
+	color: #fff;
+	text-transform: uppercase;
+	font-family: Adamina;
+	font-size: 12px;
+	text-align: center;
+	background: #17517a;
+	margin-bottom: 10px;
+	border: none;
+}
+
+.widget_events_calendar .fc-header td {
+	border: none;
+	border-bottom: 1px solid #ebebeb;
+	vertical-align: middle;
+}
+
+.widget_events_calendar .fc-header-title > h2 {
+	color: #fff;
+	text-transform: uppercase;
+	font-family: Adamina;
+	font-size: 12px;
+	font-weight: 600;
+	padding: 0.417em;
+}
+
+.widget_events_calendar .fc-header .fc-button {
+	margin-bottom: 0;
+	height: 100%;
+}
+
+.widget_events_calendar .fc-text-arrow,
+.widget_events_calendar .fc-header .fc-button-today {
+	line-height: 28px;
+}
+
+
+.widget_events_calendar .fc-day-header {
+	font-family: Adamina;
+	font-size: 11px;
+	background: #fff;
+	border: 1px solid #cfcfd1;
+	padding: 4px;
+	color: #777;
+}
+
+.widget_events_calendar .fc-content table {
+	border: none;
+	border-spacing: 1px;
+}
+
+.widget_events_calendar .fc-day {
+	border: none;
+	color: #6d7a7e;
+	background: #e9eaeb;
+	text-align: center;
+	padding: 0px 4px;
+	font-size: 12px;
+	height: 40px;
+}
+
+.widget_events_calendar .fc-other-month {
+	background: #f9fafb;
+}
+
+.widget_events_calendar .fc-day.fc-state-highlight {
+	color: #fff;
+	background: #17517a;
+}
+
+.widget_events_calendar .fc-event-inner {
+	text-align: center;
+}
+
+.widget_events_calendar .fc-grid .fc-day-number {
+	padding: 2px 0 0;
+}
+
+.widget_events_calendar .fc-grid .fc-day-content {
+	padding: 0;
+}
+
+@media screen and (max-width: 480px) {
+    .calendar_event_tooltip {
+        left: 50% !important;
+        margin-left: -111px;
+    }
+}

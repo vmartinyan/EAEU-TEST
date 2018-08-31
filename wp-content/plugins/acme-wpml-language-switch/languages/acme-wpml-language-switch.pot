@@ -1,0 +1,114 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Acme Amazing Search\n"
+"POT-Creation-Date: 2016-10-13 19:13+0200\n"
+"PO-Revision-Date: 2016-10-13 15:43+0200\n"
+"Last-Translator: Mirko Bianco <mirko@acmemk.com>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: admin/class-acme-wpml-language-switch-admin.php:151
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:17
+msgid "WPML is not installed or not updated!"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:20
+#, php-format
+msgid "There are %d active languages."
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:34
+#, php-format
+msgid "Current WPML Version is: <strong>%s</strong>"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:36
+msgid "This Plugin requires WPML 3.2+ in order to work."
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:38
+msgid "Only 2 languages must be active."
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:70
+msgid "Display Settings:"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:72
+#: admin/partials/acme-wpml-language-switch-admin-display.php:74
+msgid "Display Label:"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:76
+#: admin/partials/acme-wpml-language-switch-admin-display.php:120
+msgid "Choose one..."
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:77
+msgid "Flag"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:78
+msgid "Language Code"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:79
+msgid "Translated Language"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:80
+msgid "Custom Label"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:86
+#: admin/partials/acme-wpml-language-switch-admin-display.php:88
+#: admin/partials/acme-wpml-language-switch-admin-display.php:94
+#: admin/partials/acme-wpml-language-switch-admin-display.php:96
+#, php-format
+msgid "Label for %s:"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:102
+msgid "Add to Menu:"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:106
+#: admin/partials/acme-wpml-language-switch-admin-display.php:110
+#, php-format
+msgid "Display in %s"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:114
+msgid "Position in Menu:"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:116
+#: admin/partials/acme-wpml-language-switch-admin-display.php:118
+msgid "Insert Item:"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:121
+msgid "As FIRST Menu Item"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:122
+msgid "As LAST Menu Item"
+msgstr ""
+
+#: admin/partials/acme-wpml-language-switch-admin-display.php:127
+msgid "Save all changes"
+msgstr ""
