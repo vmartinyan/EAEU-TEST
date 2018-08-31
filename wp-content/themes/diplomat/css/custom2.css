@@ -1,0 +1,53 @@
+.headerLogo, .headerNameSection {
+    display: block;
+    float: left;
+}
+
+.headerNameSection {
+    padding: 0;
+}
+
+.headerName {
+    color: #fff;
+    font-size: 20px;
+    text-align: left;
+}
+
+.header.type-3 .header-middle {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#557799+0,557799+35,a8bccc+100 */
+background: #557799; /* Old browsers */
+background: -moz-linear-gradient(-45deg, #557799 0%, #557799 35%, #a8bccc 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(-45deg, #557799 0%,#557799 35%,#a8bccc 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(135deg, #557799 0%,#557799 35%,#a8bccc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#557799', endColorstr='#a8bccc',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
+#responsive-nav-button {
+    font-family: "fontello" !important;
+}
+
+@media (max-width: 995px) {
+.headerName {
+    color: #fff;
+    font-size: 24px;
+}
+.headerNameSection {
+    padding: 1rem 0;
+}
+}
+
+@media (max-width: 768px) {
+    .headerLogo 
+    {
+        float: none;
+        text-align: center;
+        display: block !important;
+    }
+    
+    .headerLogo > .logo {
+        max-width: 100% !important;
+    }
+    .headerName {
+    text-align: center;
+}
+}
