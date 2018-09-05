@@ -1,7 +1,7 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
 /* Custom CSS */ 
-p, .post ul li {
+.post p, .post ul.list li {
   font-size: 1rem;
 }
 
