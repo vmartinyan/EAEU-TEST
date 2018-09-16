@@ -70,18 +70,31 @@ if ($header_type === 'alternate') {
 
 			<div class="large-12 columns">
 				<div class="header-middle-entry">
-                    <div class="headerLogo medium-12">
-					<?php get_template_part('header', 'logo'); ?>
+                    <div class="headerLogo">
+					   <?php get_template_part('header', 'logo'); ?>
                     </div>
                     <!-- for Adding the Site name-->
-                    <div class="headerNameSection medium-12">
-                    <h1 class="headerName">
-                        <?php if(ICL_LANGUAGE_CODE=='en'): ?>
-                        Regulatory Framework to Promote Energy Efficiency in Countries of the Eurasian Economic Union
-                        <?php elseif(ICL_LANGUAGE_CODE=='ru'): ?>
-                        Стандарты и нормативное регулирование для продвижения энергоэффективности в странах Евразийского экономического союза
-                        <?php endif;?>
-                    </h1>
+                    <div class="headerNameSection">
+                        <h1 class="headerName">
+                            <?php if(ICL_LANGUAGE_CODE=='en'): ?>
+                            Regulatory Framework to Promote Energy Efficiency in Countries of the Eurasian Economic Union
+                            <?php elseif(ICL_LANGUAGE_CODE=='ru'): ?>
+                            Стандарты и нормативное регулирование для продвижения энергоэффективности в странах Евразийского экономического союза
+                            <?php endif;?>
+                        </h1>
+                    </div>
+                    <div class="headerRightLogo">
+                        <a class="tmm_logo" title="<?php echo esc_attr(get_bloginfo('description')); ?>" href="<?php echo esc_url(home_url()); ?>">
+                			<img<?php echo $logo_img_attr; ?> 
+                            src="<?php if (ICL_LANGUAGE_CODE=='en') {
+                                echo site_url('wp-content/uploads/2018/09/logo-right-eng_x140.png');
+                            }
+                            elseif (ICL_LANGUAGE_CODE=='ru'){
+                                echo site_url('wp-content/uploads/2018/09/logo-right-russ_x140.png');
+                            }
+                            ?>"
+                            alt="<?php echo esc_attr(get_bloginfo('description')); ?>" />
+                		</a>
                     </div>
 
   

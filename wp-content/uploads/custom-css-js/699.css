@@ -1,6 +1,14 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
-/* Custom CSS */ 
+/* Custom CSS */
+.awls-item {
+  display: none;
+}
+
+.mCSB_container {
+padding:10px !important;
+}
+
 .post p, .post ul.list li {
   font-size: 1rem;
 }
@@ -11,22 +19,30 @@
 }
 
 .headerNameSection {
-    padding: 0;
+    max-width: 690px;
+    padding: 0.7rem;
 }
 
 .headerName {
     color: #fff;
-    font-size: 20px;
+    font-size: 29px;
     text-align: left;
 }
 
+.headerRightLogo {
+    display: block;
+    float: right;
+    padding: 1.25rem 0;
+}
+
 .header.type-3 .header-middle {
+  background-color: #557799;
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#557799+0,557799+35,a8bccc+100 */
-background: #557799; /* Old browsers */
-background: -moz-linear-gradient(-45deg, #557799 0%, #557799 35%, #a8bccc 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(-45deg, #557799 0%,#557799 35%,#a8bccc 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(135deg, #557799 0%,#557799 35%,#a8bccc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#557799', endColorstr='#a8bccc',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+/*background: #557799;  Old browsers */
+/*background: -moz-linear-gradient(-45deg, #557799 0%, #557799 35%, #a8bccc 100%);  FF3.6-15 */
+/*background: -webkit-linear-gradient(-45deg, #557799 0%,#557799 35%,#a8bccc 100%);  Chrome10-25,Safari5.1-6 */
+/*background: linear-gradient(135deg, #557799 0%,#557799 35%,#a8bccc 100%);  W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#557799', endColorstr='#a8bccc',GradientType=1 );  IE6-9 fallback on horizontal gradient */
 }
 
 #responsive-nav-button {

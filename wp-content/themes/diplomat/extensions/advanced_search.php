@@ -225,7 +225,8 @@ class TMM_Advanced_Search {
 
             foreach ($post_type as $post) {
 
-                $image = get_the_post_thumbnail($post->ID, array(40,40));
+                //$image = get_the_post_thumbnail($post->ID, array(160,160));
+                $image = get_the_post_thumbnail($post->ID, array(160,160));
 
                 $link = get_permalink($post->ID);
 
@@ -257,7 +258,8 @@ class TMM_Advanced_Search {
                 $output .= "<div class='post-holder'> <h6 class='entry-title'><a href='" . esc_url($link) . "'>";
                 $output .= get_the_title($post->ID);
                 $output .= " </a></h6>";
-                $output .= '<div class="entry-footer"><span class="posted-on"><a class="entry-date" href="'. esc_url(home_url()) .'/'.mysql2date('Y/m', $post->post_date, false) . '"> ' . esc_html(mysql2date(TMM::get_option('date_format'), $post->post_date, false)) . '</a></span></div></div>';
+                //$output .= '<div class="entry-footer"><span class="posted-on"><a class="entry-date" href="'. esc_url(home_url()) .'/'.mysql2date('Y/m', $post->post_date, false) . '"> ' . esc_html(mysql2date(TMM::get_option('date_format'), $post->post_date, false)) . '</a></span></div></div>';
+                $output .= '<div class="entry-footer"></div></div>';
                 $output .= "</div>";
             }
         }
