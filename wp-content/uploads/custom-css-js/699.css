@@ -19,31 +19,28 @@ padding:10px !important;
 }
 
 .headerNameSection {
-    max-width: 690px;
-    padding: 0.7rem;
+    padding: 1.1rem 0;
 }
 
 .headerName {
+  	margin:0;
     color: #fff;
-    font-size: 29px;
+    font-size: 2rem;
     text-align: left;
+    line-height: 2rem;
 }
 
-.headerRightLogo {
-    display: block;
-    float: right;
-    padding: 1.25rem 0;
-}
 
 .header.type-3 .header-middle {
   background-color: #557799;
-    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#557799+0,557799+35,a8bccc+100 */
-/*background: #557799;  Old browsers */
-/*background: -moz-linear-gradient(-45deg, #557799 0%, #557799 35%, #a8bccc 100%);  FF3.6-15 */
-/*background: -webkit-linear-gradient(-45deg, #557799 0%,#557799 35%,#a8bccc 100%);  Chrome10-25,Safari5.1-6 */
-/*background: linear-gradient(135deg, #557799 0%,#557799 35%,#a8bccc 100%);  W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-/*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#557799', endColorstr='#a8bccc',GradientType=1 );  IE6-9 fallback on horizontal gradient */
+  
+  background: #557799;  
+  background: -moz-linear-gradient(-45deg, #557799 0%, #557799 50%, #a8bccc 100%);  
+  background: -webkit-linear-gradient(-45deg, #557799 0%,#557799 50%,#a8bccc 100%);  
+  background: linear-gradient(135deg, #557799 0%,#557799 50%,#a8bccc 100%);  
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#557799', endColorstr='#a8bccc',GradientType=1 );
 }
+
 
 #responsive-nav-button {
     font-family: "fontello" !important;
