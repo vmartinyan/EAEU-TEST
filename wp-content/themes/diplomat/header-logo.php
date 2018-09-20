@@ -42,12 +42,16 @@ if (!$logo_type && $logo_text) {
 	<div class="logo">
 		<a class="tmm_logo" title="<?php echo esc_attr(get_bloginfo('description')); ?>" href="<?php echo esc_url(home_url()); ?>">
 			<img<?php echo $logo_img_attr; ?> 
-            src="<?php if (ICL_LANGUAGE_CODE=='en') {
-                echo site_url('wp-content/uploads/2018/09/logo5-eng_x100.png');
-            }
-            elseif (ICL_LANGUAGE_CODE=='ru'){
-                echo site_url('wp-content/uploads/2018/09/logo5-russ_x100.png');
-            }
+            src="<?php /**
+ * if (ICL_LANGUAGE_CODE=='en') {
+ */
+                echo site_url('wp-content/uploads/2018/09/logo-22.png');
+            /**
+ * }
+ *             elseif (ICL_LANGUAGE_CODE=='ru'){
+ *                 echo site_url('wp-content/uploads/2018/09/logo-11.png');
+ *             }
+ */
             ?>"
             alt="<?php echo esc_attr(get_bloginfo('description')); ?>" />
 		</a>

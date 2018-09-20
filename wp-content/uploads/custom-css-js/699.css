@@ -1,12 +1,13 @@
 <!-- start Simple Custom CSS and JS -->
 <style type="text/css">
 /* Custom CSS */
+
 .awls-item {
   display: none;
 }
 
 .mCSB_container {
-padding:10px !important;
+ padding:10px !important;
 }
 
 .post p, .post ul.list li {
@@ -19,26 +20,29 @@ padding:10px !important;
 }
 
 .headerNameSection {
-    padding: 1.1rem 0;
+    padding: 1.8rem 0;
 }
 
 .headerName {
   	margin:0;
     color: #fff;
-    font-size: 2rem;
+    font-size: 1.4rem;
     text-align: left;
-    line-height: 2rem;
+    font-weight: 500;
+    line-height:2rem;
+    font-family: Montserrat !important;
 }
 
 
 .header.type-3 .header-middle {
-  background-color: #557799;
+  background-color: #10537D;
   
-  background: #557799;  
+ /* background: #557799;  
   background: -moz-linear-gradient(-45deg, #557799 0%, #557799 50%, #a8bccc 100%);  
   background: -webkit-linear-gradient(-45deg, #557799 0%,#557799 50%,#a8bccc 100%);  
   background: linear-gradient(135deg, #557799 0%,#557799 50%,#a8bccc 100%);  
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#557799', endColorstr='#a8bccc',GradientType=1 );
+  */
 }
 
 
@@ -46,15 +50,18 @@ padding:10px !important;
     font-family: "fontello" !important;
 }
 
-@media (max-width: 995px) {
+
+@media (max-width: 1146px) {
 .headerName {
-    color: #fff;
-    font-size: 24px;
+    font-size: 19px;
 }
+}
+
+@media (max-width: 1024px) {
 .headerNameSection {
-    padding: 1rem 0;
+    padding: 0;
 }
-}
+  }
 
 @media (max-width: 768px) {
     .headerLogo 
