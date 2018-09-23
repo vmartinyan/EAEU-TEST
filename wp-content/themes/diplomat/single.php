@@ -67,9 +67,13 @@ if (have_posts()) {
 		<article id="post-<?php the_ID(); ?>" <?php post_class(); ?>>
 
 		    <div class="post <?php echo esc_attr($post_class); ?>">
+            
+                <div class="medium-6 columns">
 
 				<?php get_template_part('article', $post_pod_type); ?>
+                </div>
 
+                <div class="medium-6 columns"  style="padding-left: 0;">
 			    <header class="entry-header">
 
 				    <h2 class="entry-title"><?php the_title(); ?></h2>
@@ -97,6 +101,7 @@ if (have_posts()) {
 
 
 			    </header>
+                </div>
 
 			    <div class="entry-content">
 

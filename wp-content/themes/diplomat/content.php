@@ -35,8 +35,11 @@ if (have_posts()) {
 
 		<article id="post-<?php the_ID(); ?>" <?php (TMM::get_option("blog_listing_effect")&&(TMM::get_option("blog_listing_effect")!='none')) ? post_class("post full-width ". TMM::get_option("blog_listing_effect") ) : post_class("post full-width"); ?>>
 
-			<?php get_template_part('article', $post_pod_type); ?>
+			<div class="large-4 medium-6 columns">
+            <?php get_template_part('article', $post_pod_type); ?>
+            </div>
 
+            <div class="large-8 medium-6 columns">
 			<?php if ($post_pod_type !== 'quote') { ?>
 
 				<header class="entry-header">
@@ -66,6 +69,7 @@ if (have_posts()) {
 				</div>
 
 			<?php } ?>
+            </div>
 
 			<footer class="entry-footer">
 				<?php  if ($show_post_metadata !== '0') { ?>
