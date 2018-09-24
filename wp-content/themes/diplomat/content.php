@@ -44,7 +44,7 @@ if (have_posts()) {
 
 				<header class="entry-header">
 
-					<h2 class="entry-title"><a href="<?php echo esc_url(get_permalink()); ?>"><?php the_title(); ?></a></h2>
+					<h2 class="entry-title" style="line-height: 110%;"><a href="<?php echo esc_url(get_permalink()); ?>"><?php the_title(); ?></a></h2>
 
 				</header>
 
