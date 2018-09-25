@@ -6,6 +6,10 @@
   display: none;
 }
 
+.item-overlay {
+background-color: transparent;
+}
+
 .mCSB_container {
  padding:10px !important;
 }
@@ -71,6 +75,15 @@ padding-left:0;
 .rpwwt-widget ul li > .rpwwt-post-excerpt {
     line-height: 110%;
   margin-top:10px;
+}
+
+/*Home Page Partner*/
+.ult-banner-block .title-center {
+    height: 70px;
+}
+
+.back-white {
+background-color: #fff;
 }
 
 @media (max-width: 1146px) {
