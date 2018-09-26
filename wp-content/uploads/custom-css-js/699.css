@@ -6,6 +6,14 @@
   display: none;
 }
 
+.page-title {
+    position: relative;
+    margin-bottom: 2rem;
+    text-transform: uppercase;
+    padding-bottom: 0;
+   	border: none;
+}
+
 .item-overlay {
 background-color: transparent;
 }
@@ -85,6 +93,24 @@ padding-left:0;
 .back-white {
 background-color: #fff;
 }
+
+/*Contact form*/
+.contact_form label {
+font-weight: normal !important;
+}
+
+.contact_form button {
+  border: 1px solid #10537D !important;
+    background-color: #10537D !important;
+    color: #fff !important;
+}
+
+.contact_form button:hover {
+  border: 1px solid #10537D !important;
+    background-color: #eee !important;
+    color: #10537D !important;
+}
+
 
 @media (max-width: 1146px) {
 .headerName {
