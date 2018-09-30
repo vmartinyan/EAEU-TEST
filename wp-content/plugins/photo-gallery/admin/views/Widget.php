@@ -137,7 +137,7 @@ class WidgetView_bwg {
 		  <input <?php echo BWG()->is_pro ? '' : 'disabled="disabled"'; ?> type="radio" name="<?php echo $name_view_type; ?>" id="<?php echo $id_view_type . "_1"; ?>" value="thumbnails" class="sel_thumbnail_gallery"  <?php if (isset($instance['view_type']) && $instance['view_type'] == "thumbnails") echo 'checked="checked"';  ?> /><label for="<?php echo $id_view_type . "_1"; ?>"><?php _e('Thumbnail', BWG()->prefix); ?></label><br>
 		  <input <?php echo BWG()->is_pro ? '' : 'disabled="disabled"'; ?> type="radio" name="<?php echo $name_view_type; ?>" id="<?php echo $id_view_type . "_2"; ?>" value="masonry" class="sel_masonry_gallery"  <?php if (isset($instance['view_type']) && $instance['view_type'] == "masonry") echo 'checked="checked"'; ?> /><label for="<?php echo $id_view_type . "_2"; ?>"><?php _e('Masonry', BWG()->prefix); ?></label>
       <?php if ( !BWG()->is_pro ) { ?>
-      <p class="description" style="background-color: #e0e0e0; border: 1px solid #c3c3c3; border-radius: 2px; color: #666666; padding: 2px;"><?php echo BWG()->free_msg; ?></p>
+      <p class="description" style="display: <?php echo $instance['type'] != 'album' ? 'block' : 'none'; ?>; background-color: #e0e0e0; border: 1px solid #c3c3c3; border-radius: 2px; color: #666666; padding: 2px;"><?php echo BWG()->free_msg; ?></p>
       <?php } ?>
 		</p>
 		<p id="p_albums" style="display:<?php echo ($instance['type'] == "album") ? "" : "none" ?>;">
@@ -189,12 +189,14 @@ class WidgetView_bwg {
           jQuery(jQuery(div).find("#p_albums")).css("display", "none");
           jQuery(obj).nextAll(".bwg_hidden").first().attr("value", "gallery");
           jQuery(jQuery(div).find("#view_type_container")).css("display", "block");
+          jQuery(jQuery(div).find("#view_type_container")).next("p.description").css("display", "block");
         }
         else {
           jQuery(jQuery(div).find("#p_galleries")).css("display", "none");
           jQuery(jQuery(div).find("#p_albums")).css("display", "");
           jQuery(obj).nextAll(".bwg_hidden").first().attr("value", "album");
           jQuery(jQuery(div).find("#view_type_container")).css("display", "none");
+          jQuery(jQuery(div).find("#view_type_container")).next("p.description").css("display", "none");
         }
       }
 		</script>

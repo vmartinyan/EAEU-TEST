@@ -1318,7 +1318,7 @@ class WDWLibrary {
       if ( !$limit ) {
         $limitstart = ' LIMIT 50 OFFSET ' . $limit;
       }
-      $where = (($gallery_id) ? ' `gallery_id`=' . $gallery_id . ($image_id && !$limit ? ' AND `id`=' . $image_id : '') : 1);
+      $where = (($gallery_id) ? ' `gallery_id`=' . $gallery_id . ($image_id ? ' AND `id`=' . $image_id : '') : 1);
       $search = WDWLibrary::get( 's', '' );
       if ( $search ) {
         $where .= ' AND `filename` LIKE "%' . $search . '%"';
@@ -1677,6 +1677,7 @@ class WDWLibrary {
       'shutter_speed' => 0,
       'title' => '',
       'orientation' => 0,
+      'tags' => '',
     );
     if ( is_callable( 'iptcparse' ) ) {
       getimagesize( $file, $info );
@@ -1684,8 +1685,12 @@ class WDWLibrary {
         $iptc = iptcparse( $info['APP13'] );
         if ( ! empty( $iptc['2#105'][0] ) ) {
           $meta['title'] = trim( $iptc['2#105'][0] );
-        } elseif ( ! empty( $iptc['2#005'][0] ) ) {
+        }
+        elseif ( ! empty( $iptc['2#005'][0] ) ) {
           $meta['title'] = trim( $iptc['2#005'][0] );
+        }
+        if ( ! empty( $iptc['2#025'] ) ) {
+          $meta['tags'] = json_encode($iptc['2#025']);
         }
         if ( ! empty( $iptc['2#120'][0] ) ) {
           $caption = trim( $iptc['2#120'][0] );
@@ -2573,31 +2578,27 @@ class WDWLibrary {
         ?>
         <div class="bwg-topbar bwg-topbar-links">
           <div class="bwg-topbar-links-container">
+		    	<?php if ( $show_guide_link ) { ?>
+            <a href="<?php echo $user_guide_link; ?>" target="_blank">
+              <div class="bwg-topbar-links-item">
+                <?php _e('User guide', BWG()->prefix); ?>
+              </div>
+            </a>
             <?php
+          }
+          if (!BWG()->is_pro) {
             if ( $show_guide_link ) {
               ?>
-              <a href="<?php echo $user_guide_link; ?>" target="_blank">
-                <div class="bwg-topbar-links-item">
-                  <?php _e('User guide', BWG()->prefix); ?>
-                </div>
-              </a>
-              <?php
-            }
-            if (!BWG()->is_pro) {
-              if ( $show_guide_link ) {
-                ?>
               <span class="bwg-topbar-separator"></span>
-                <?php
-              }
-              ?>
-              <a href="<?php echo $support_forum_link; ?>" target="_blank">
-                <div class="bwg-topbar-links-item">
-                  <?php _e('Support Forum', BWG()->prefix); ?>
-                </div>
-              </a>
-              <?php
-            }
-           ?>
+            <?php } ?>
+            <a href="<?php echo $support_forum_link; ?>" target="_blank">
+              <div class="bwg-topbar-links-item">
+                <?php _e('Support Forum', BWG()->prefix); ?>
+              </div>
+            </a>
+            <?php
+          }
+          ?>
           </div>
         </div>
       </div>

@@ -149,6 +149,10 @@ class BWGModelSite {
           // To disable Jetpack Photon module.
 		      $thumb_urls[] = BWG()->upload_url . $row->thumb_url;
         }
+        else {
+          // To disable Jetpack Photon module.
+          $thumb_urls[] = $row->thumb_url;
+        }
         $images[] = $row;
       }
     }

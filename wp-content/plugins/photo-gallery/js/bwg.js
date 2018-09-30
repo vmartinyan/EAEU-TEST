@@ -390,6 +390,11 @@ function spider_ajax_save(form_id, tr_group) {
       jQuery("#loading_div").hide();
       bwg_lazy_load_gallery();
       wd_howto_src_change();
+
+      /* Add click event to toggle button to expand columns.*/
+      jQuery( "tbody" ).on( "click", ".toggle-row", function() {
+        jQuery( this ).closest( "tr" ).toggleClass( "is-expanded" );
+      });
     }
   });
 
@@ -755,16 +760,18 @@ function bwg_add_tag(image_id, tagIds, titles) {
       if (jQuery("#check_" + ids_array[i]).attr('checked') == 'checked' || flag) {
         image_id = ids_array[i];
         var tag_ids = document.getElementById('tags_' + image_id).value;
-        tags_array = tag_ids.split(',');
+        var tags_array = tag_ids.split(',');
         var counter = 0;
         for (i = 0; i < tagIds.length; i++) {
           if (tags_array.indexOf(tagIds[i]) == -1) { /* To prevent add same tag multiple times. */
             tag_ids = tag_ids + tagIds[i] + ',';
             var html = jQuery("#" + image_id + "_tag_temptagid").clone().html();
-            html = html.replace(/temptagid/g, tagIds[i])
+            /* Remove white spaces from keywords to set as id and remove prefix.*/
+            var id = tagIds[i].replace(/\s+/g, '_').replace('bwg_', '');
+            html = html.replace(/temptagid/g, id)
                        .replace(/temptagname/g, titles[i]);
-            jQuery("#tags_div_" + image_id).append("<div class='tag_div' id='" + image_id + "_tag_" + tagIds[i] + "'>");
-            jQuery("#" + image_id + "_tag_" + tagIds[i]).html(html);
+            jQuery("#tags_div_" + image_id).append("<div class='tag_div' id='" + image_id + "_tag_" + id + "'>");
+            jQuery("#" + image_id + "_tag_" + id).html(html);
 
             counter++;
           }
@@ -1645,6 +1652,18 @@ function bwg_add_image(files) {
     jQuery("#tr_" + bwg_j).html(html);
 
     jQuery("#ids_string").val(jQuery("#ids_string").val() + bwg_j + ',');
+
+    if ( jQuery("#tbody_arr").data("meta") == 1 && files[i]['tags'] ) {
+      /* If tags added to image from image file meta keywords.*/
+      var tagsTitles = jQuery.parseJSON(files[i]['tags']);
+      /* Add prefix to keywords to differ from other tags on save.*/
+      var tagsIds = [];
+      for ( var i in tagsTitles ) {
+        tagsIds[i] = 'bwg_' + tagsTitles[i];
+      }
+      /* Add titles instead of ids.*/
+      bwg_add_tag(bwg_j, tagsIds, tagsTitles);
+    }
 
     j_int++;
     bwg_j = 'pr_' + j_int;

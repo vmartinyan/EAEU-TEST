@@ -1415,17 +1415,6 @@ textarea.bwg_popup_input {
   .wd-table-container {
     height: calc(100% - 230px);
   }
-
-  .redirect_cont .wd-info.dashicons.dashicons-info {
-    position:absolute;
-    left:85px;
-  }
-}
-
-@media screen and (min-width: 782px) {
-  .redirect_cont .wd-info.dashicons.dashicons-info {
-   display: none;
-  }
 }
 
 .tab_image {
@@ -1681,13 +1670,6 @@ textarea.bwg_popup_input {
 @media screen and (min-width: 1280px) {
   #images_table .has-media-icon~.row-actions {
     margin-left: 132px;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1280px) {
-  .col_drag,
-  .col_desc {
-    display: none !important;
   }
 }
 
@@ -2154,4 +2136,10 @@ li.tabs {
 
 .ui-tooltip-content a {
   color:#FFFFFF;
+}
+
+@media screen and (min-width: 768px) {
+  #images_table .column-primary {
+    width: 360px;
+  }
 }

@@ -503,13 +503,26 @@ class GalleriesModel_bwg {
               if ( strpos($tag_id, 'pr_') !== FALSE ) {
                 $tag_id = substr($tag_id, 3);
               }
-              $wpdb->insert($wpdb->prefix . 'bwg_image_tag', array(
-                'tag_id' => $tag_id,
-                'image_id' => $image_id,
-                'gallery_id' => $gallery_id,
-              ));
-              // Increase tag count in term_taxonomy table.
-              $wpdb->query($wpdb->prepare('UPDATE ' . $wpdb->prefix . 'term_taxonomy SET count="%d" WHERE term_id="%d"', $wpdb->get_var($wpdb->prepare('SELECT COUNT(image_id) FROM ' . $wpdb->prefix . 'bwg_image_tag WHERE tag_id="%d"', $tag_id)), $tag_id));
+
+              if ( strpos($tag_id, 'bwg_') === 0 ) {
+                // If tags added to image from image file meta keywords.
+                $tag_name = str_replace('bwg_', '', $tag_id);
+                $term = term_exists($tag_name, 'bwg_tag');
+                if ( !$term ) {
+                  $term = wp_insert_term($tag_name, 'bwg_tag');
+                }
+                $tag_id = isset($term['term_id']) ? $term['term_id'] : 0;
+              }
+
+              if ( $tag_id ) {
+                $wpdb->insert($wpdb->prefix . 'bwg_image_tag', array(
+                  'tag_id' => $tag_id,
+                  'image_id' => $image_id,
+                  'gallery_id' => $gallery_id,
+                ));
+                // Increase tag count in term_taxonomy table.
+                $wpdb->query($wpdb->prepare('UPDATE ' . $wpdb->prefix . 'term_taxonomy SET count="%d" WHERE term_id="%d"', $wpdb->get_var($wpdb->prepare('SELECT COUNT(image_id) FROM ' . $wpdb->prefix . 'bwg_image_tag WHERE tag_id="%d"', $tag_id)), $tag_id));
+              }
             }
           }
         }

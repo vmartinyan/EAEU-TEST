@@ -4,12 +4,19 @@
  * Class AlbumsView_bwg
  */
 class AlbumsView_bwg extends AdminView_bwg {
+
+  public function __construct() {
+    wp_enqueue_script(BWG()->prefix . '_jquery.ui.touch-punch.min');
+    parent::__construct();
+  }
+
   /**
    * Display page.
    *
    * @param $params
    */
 	public function display( $params = array() ) {
+    wp_enqueue_script(BWG()->prefix . '_jquery.ui.touch-punch.min');
 		ob_start();
 		echo $this->body($params);
 		// Pass the content to form.

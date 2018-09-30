@@ -77,8 +77,20 @@ class BWGViewAlbum_extended_preview extends BWGViewSite {
 
         /* ToDO: Remove after refactoring.*/
         $preview_path_url = htmlspecialchars_decode($row->preview_path, ENT_COMPAT | ENT_QUOTES);
-        $preview_path_url = explode('?bwg', $preview_path_url);
-        list($image_thumb_width, $image_thumb_height) = getimagesize($preview_path_url[0]);
+        if ( strpos($preview_path_url, '?bwg') !== FALSE) {
+          $preview_path_url = explode('?bwg', $preview_path_url);
+          $preview_path = $preview_path_url[0];
+        }
+        else {
+          $preview_path = $preview_path_url;
+        }
+        list($image_thumb_width, $image_thumb_height) = @getimagesize($preview_path);
+        if ( !$image_thumb_width ) {
+          $image_thumb_width = 1;
+        }
+        if ( !$image_thumb_height ) {
+          $image_thumb_height = 1;
+        }
         $scale = max($params['extended_album_thumb_width'] / $image_thumb_width, $params['extended_album_thumb_height'] / $image_thumb_height);
         $image_thumb_width *= $scale;
         $image_thumb_height *= $scale;

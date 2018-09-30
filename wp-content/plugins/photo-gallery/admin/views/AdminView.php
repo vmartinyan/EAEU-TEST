@@ -99,7 +99,7 @@ class AdminView_bwg {
       ?>
     </h1>
     <?php
-    if ( $how_to_button ) {
+    if ($how_to_button) {
       require BWG()->plugin_dir . '/framework/howto/howto.php';
     }
     ?>
@@ -211,7 +211,8 @@ class AdminView_bwg {
    * @return string
    */
   protected function pagination($page_url, $total, $items_per_page = 20) {
-    $page_number = WDWLibrary::get('paged', 1) < 0 ? 1 : WDWLibrary::get('paged', 1);
+    $paged = intval(abs(WDWLibrary::get('paged', 1)));
+    $page_number = $paged < 0 ? 1 : $paged;
     $search = WDWLibrary::get('s', '');
     $orderby = WDWLibrary::get('orderby', '');
     $order = WDWLibrary::get('order', '');

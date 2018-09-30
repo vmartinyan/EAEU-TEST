@@ -1,13 +1,13 @@
-=== Photo Gallery by 10web - Responsive Photo Gallery ===
+=== Photo Gallery by 10Web - Responsive Image Gallery ===
 Contributors: webdorado,wdsupport,photogallerysupport,10web
 Tags: gallery, photo gallery, image gallery, responsive gallery, wordpress gallery plugin, photo albums, gallery slider, gallery lightbox, wordpress photo gallery plugin, fullscreen gallery, watermarking, video gallery
 Requires at least: 3.4
 Tested up to: 4.9 
-Stable tag: 1.5.4
+Stable tag: 1.5.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Photo Gallery is a powerful gallery plugin with a list of advanced options for creating stunning image galleries. Add the responsive plugin with cool gallery views.
+Photo Gallery is a powerful image gallery plugin with a list of advanced options for creating responsive image galleries with beautiful lightbox. Add the plugin with cool gallery views.
 
 == Description ==
 
@@ -278,6 +278,23 @@ Choose whether to display random or the first/last specific number of images.
 
 
 == Changelog ==
+
+= 1.5.5 =
+* Added: How to use button to galleries and gallery groups pages.   
+* Added: Use uploaded image meta tags.   
+* Fixed: Images list toggle button does not work after page update.   
+* Fixed: Bring back "drag and drop" and description columns on small screens.   
+* Fixed: Slideshow view > Disable autoplay doesn't work when Control buttons are disabled and you navigate slide from the filmstrip.  
+* Fixed: Bug with Sticky Nav from Max Mega Menu.  
+* Fixed: Rendering in Elementor builder.   
+* Fixed: Multiple Galleries of the same view in Elementor preview.  
+* Fixed: On Divi, the titles on hover are left aligned.  
+* Fixed: Bulk reset with a large amount of images.   
+* Fixed: Preload for carousel.   
+* Fixed: Old shordcodes convert to Gutenberg.   
+* Fixed: Disable Jetpack photon module for embed thumbnails.   
+* Fixed: Filters are before the gallery title, after performing a filter they are under the gallery description.   
+* Fixed: Youtube embeded video is shown twice in slideshow widget if an effect is selected.   
 
 = 1.5.4 =
 * Changed: Logic of including google fonts.       

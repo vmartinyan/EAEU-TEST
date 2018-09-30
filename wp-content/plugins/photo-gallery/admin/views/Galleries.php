@@ -4,12 +4,19 @@
  * Class GalleriesView_bwg
  */
 class GalleriesView_bwg extends AdminView_bwg {
+
+  public function __construct() {
+    wp_enqueue_script(BWG()->prefix . '_jquery.ui.touch-punch.min');
+    parent::__construct();
+  }
+
   /**
    * Display page.
    *
    * @param $params
    */
   public function display( $params = array() ) {
+    wp_enqueue_script(BWG()->prefix . '_jquery.ui.touch-punch.min');
     ob_start();
     echo $this->body($params);
     $form_attr = array(
@@ -393,7 +400,7 @@ class GalleriesView_bwg extends AdminView_bwg {
       } ?>" type="button" onclick="jQuery('.opacity_add_embed').show(); jQuery('#add_embed_help').hide(); return false;" value="<?php _e('Embed Media', BWG()->prefix); ?>" />
       <input id="show_bulk_embed" class="button button-secondary button-large" title="<?php _e('Social Bulk Embed', BWG()->prefix); ?>" style="<?php if ( $params['gallery_type'] != '' ) {
         echo 'display:none';
-      } ?>" type="button" onclick="jQuery('.opacity_bulk_embed').show(); return false;" value="<?php _e('Social Bulk Embed', BWG()->prefix); ?>" />
+      } ?>" type="button" onclick="<?php echo (!BWG()->is_pro ? 'alert(\'' . addslashes(__('This option is disabled in free version.', BWG()->prefix)) . '\');' : 'jQuery(\'.opacity_bulk_embed\').show();'); ?> return false;" value="<?php _e('Social Bulk Embed', BWG()->prefix); ?>" />
       <?php
       if ( is_plugin_active('image-optimizer-wd/io-wd.php') && !empty($params['rows']) ) {
         ?><a href="<?php echo add_query_arg(array('page' => 'iowd_settings', 'target' => 'wd_gallery'), admin_url('admin.php')); ?>" class="button button-primary button-large" target="_blank"><?php _e("Optimize Images", BWG()->prefix); ?></a><?php
@@ -707,10 +714,6 @@ class GalleriesView_bwg extends AdminView_bwg {
               ?>
             </td>
             <td data-colname="<?php _e('Redirect URL', BWG()->prefix); ?>" class="redirect_cont">
-              <i class="wd-info dashicons dashicons-info" data-id="wd-info-redirect"></i>
-              <div id="wd-info-redirect" class="wd-hide">
-                <p>Enter a URL to redirect users as they click on image thumbnails.</p>
-              </div>
               <textarea rows="4" onkeypress="prevent_new_line(event)" class="bwg_redirect_url" id="redirect_url_<?php echo $row->id; ?>" name="redirect_url_<?php echo $row->id; ?>"><?php echo $row->redirect_url; ?></textarea>
             </td>
             <td data-colname="<?php _e('Tags', BWG()->prefix); ?>">

@@ -245,8 +245,12 @@ function spider_rate_ajax_save(form_id) {
     url:   jQuery('#' + form_id).attr('action'),
     data: post_data,
     success: function (data) {
-      var str = jQuery(data).find('#' + form_id).html();
-      jQuery('#' + form_id).html(str);
+      if ( jQuery("#bwg_popup_image").attr("image_id") == post_data["image_id"] ) {
+        var str = jQuery(data).find('#' + form_id).html();
+        jQuery('#' + form_id).html(str);
+      }
+      jQuery("#bwg_star").show();
+      jQuery("#bwg_rated").hide();
     },
     beforeSend: function(){
     },
@@ -574,7 +578,6 @@ function bwg_change_image_lightbox(current_key, key, data, from_effect) {
       /* Increase image hit counter.*/
       spider_set_input_value('rate_ajax_task', 'save_hit_count');
 
-      spider_rate_ajax_save('bwg_rate_form');
       jQuery(".bwg_image_hits span").html(++data[key]["hit_count"]);
       /* Change image id.*/
       jQuery("#bwg_popup_image").attr('image_id', data[key]["id"]);

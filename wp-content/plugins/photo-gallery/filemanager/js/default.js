@@ -224,6 +224,7 @@ function submitFiles() {
           fileData['iso'] = wdb_all_files_filtered[i]["iso"];
           fileData['orientation'] = wdb_all_files_filtered[i]["orientation"];
           fileData['copyright'] = wdb_all_files_filtered[i]["copyright"];
+          fileData['tags'] = wdb_all_files_filtered[i]["tags"];
           filesValid.push(fileData);
         }
       }
@@ -252,6 +253,7 @@ function submitFiles() {
         fileData['iso'] = jQuery(file_object).attr("fileIso");
         fileData['orientation'] = jQuery(file_object).attr("fileOrientation");
         fileData['copyright'] = jQuery(file_object).attr("fileCopyright");
+        fileData['tags'] = jQuery(file_object).attr("fileTags");
         filesValid.push(fileData);
       }
     }
@@ -634,6 +636,7 @@ function ajax_print_images(files, element, view_type, count) {
     var fileIso = corent_file["iso"];
     var fileOrientation = corent_file["orientation"];
     var fileCopyright = corent_file["copyright"];
+    var fileTags = corent_file["tags"];
     var onmouseover = "onFileMOver(event, this);";
     var onmouseout = "onFileMOut(event, this);";
     var onclick = "onFileClick(event, this);";
@@ -673,6 +676,7 @@ function ajax_print_images(files, element, view_type, count) {
       'fileIso="' + fileIso + '" ' +
       'fileOrientation="' + fileOrientation + '" ' +
       'fileCopyright="' + fileCopyright + '" ' +
+      'fileTags="' + fileTags + '" ' +
       'isDir="' + isDir + '" ' +
       'onmouseover="' + onmouseover + '" ' +
       'onmouseout="' + onmouseout + '" ' +

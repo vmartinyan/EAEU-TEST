@@ -647,6 +647,7 @@ class bwg_UploadHandler {
           $file->iso = $exif['iso'];
           $file->orientation = $exif['orientation'];
           $file->copyright = $exif['copyright'];
+          $file->tags = $exif['tags'];
         }
       }
       else {

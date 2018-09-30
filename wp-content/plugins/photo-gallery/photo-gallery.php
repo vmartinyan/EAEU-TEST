@@ -3,7 +3,7 @@
  * Plugin Name: Photo Gallery
  * Plugin URI: https://10web.io/plugins/wordpress-photo-gallery/
  * Description: This plugin is a fully responsive gallery plugin with advanced functionality.  It allows having different image galleries for your posts and pages. You can create unlimited number of galleries, combine them into albums, and provide descriptions and tags.
- * Version: 1.5.4
+ * Version: 1.5.5
  * Author: Photo Gallery Team
  * Author URI: https://10web.io/pricing/
  * License: GNU/GPLv3 http://www.gnu.org/licenses/gpl-3.0.html
@@ -81,8 +81,8 @@ final class BWG {
     $this->plugin_dir = WP_PLUGIN_DIR . "/" . plugin_basename(dirname(__FILE__));
     $this->plugin_url = plugins_url(plugin_basename(dirname(__FILE__)));
     $this->main_file = plugin_basename(__FILE__);
-    $this->plugin_version = '1.5.4';
-    $this->db_version = '1.5.4';
+    $this->plugin_version = '1.5.5';
+    $this->db_version = '1.5.5';
     $this->prefix = 'bwg';
     $this->nicename = __('Photo Gallery', $this->prefix);
 
@@ -595,6 +595,9 @@ final class BWG {
     // Roboto font for top bar.
     wp_register_style($this->prefix . '-roboto', 'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700');
     wp_register_style($this->prefix . '-pricing', $this->plugin_url . '/css/pricing.css', array(), $this->plugin_version);
+
+    // For drag and drop on mobiles.
+    wp_register_script($this->prefix . '_jquery.ui.touch-punch.min', $this->plugin_url . '/js/jquery.ui.touch-punch.min.js', array(), '0.2.3');
   }
 
   /**

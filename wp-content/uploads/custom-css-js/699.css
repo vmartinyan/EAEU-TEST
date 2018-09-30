@@ -112,6 +112,15 @@ font-weight: normal !important;
 }
 
 
+.event a.image-post {
+    float: left;
+    width: 50%;
+    margin-right: 15px;
+}
+
+ 
+
+
 @media (max-width: 1146px) {
 .headerName {
     font-size: 19px;

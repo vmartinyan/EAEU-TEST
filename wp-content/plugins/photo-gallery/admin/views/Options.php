@@ -1393,7 +1393,7 @@ class OptionsView_bwg extends AdminView_bwg {
           </div>
           <div class="wd-box-content wd-width-100 bwg-vertical-block-masonry">
             <div class="wd-group">
-              <label class="wd-label"><?php _e('Show image title in Vertical Masonry', BWG()->prefix); ?></label>
+              <label class="wd-label"><?php _e('Show image title', BWG()->prefix); ?></label>
               <div class="bwg-flex">
                 <input type="radio" name="masonry_image_title" id="masonry_image_title_0" value="hover" <?php if ($row->masonry_image_title == "hover") echo 'checked="checked"'; ?> /><label for="masonry_image_title_0" class="wd-radio-label"><?php _e('Show on hover', BWG()->prefix); ?></label>
                 <input type="radio" name="masonry_image_title" id="masonry_image_title_1" value="show" <?php if ($row->masonry_image_title == "show") echo 'checked="checked"'; ?> /><label for="masonry_image_title_1" class="wd-radio-label"><?php _e('Always show', BWG()->prefix); ?></label>
@@ -1404,12 +1404,12 @@ class OptionsView_bwg extends AdminView_bwg {
           </div>		  
           <div class="wd-box-content wd-width-100 bwg-vertical-block-masonry" id="tr_show_masonry_thumb_description">
             <div class="wd-group">
-              <label class="wd-label"><?php _e('Show image descriptions in Vertical Masonry', BWG()->prefix); ?></label>
+              <label class="wd-label"><?php _e('Show image descriptions', BWG()->prefix); ?></label>
               <div class="bwg-flex">
                 <input <?php echo BWG()->is_pro ? '' : 'disabled="disabled"'; ?> type="radio" name="show_masonry_thumb_description" id="masonry_thumb_desc_1" value="1" <?php if ($row->show_masonry_thumb_description) echo 'checked="checked"'; ?> /><label for="masonry_thumb_desc_1" class="wd-radio-label"><?php _e('Yes', BWG()->prefix); ?></label>
                 <input <?php echo BWG()->is_pro ? '' : 'disabled="disabled"'; ?> type="radio" name="show_masonry_thumb_description" id="masonry_thumb_desc_0" value="0" <?php if (!$row->show_masonry_thumb_description) echo 'checked="checked"'; ?> /><label for="masonry_thumb_desc_0" class="wd-radio-label"><?php _e('No', BWG()->prefix); ?></label>
               </div>
-              <p class="description"><?php _e('Enable this setting to display descriptions under images in Vertical Masonry view.', BWG()->prefix); ?></p>
+              <p class="description"><?php _e('Enable this setting to display descriptions under images.', BWG()->prefix); ?></p>
               <?php if ( !BWG()->is_pro ) { ?><p class="description spider_free_version"><?php echo BWG()->free_msg; ?></p><?php } ?>
             </div>
           </div>

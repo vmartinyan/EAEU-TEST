@@ -643,13 +643,14 @@ class BWGViewSite {
       if ($count_items > $limit * $page_number) {
         ?>
 		<script type="text/javascript">
+      function bwg_scroll_load_action() {
+        if (jQuery(document).scrollTop() + jQuery(window).height() > (jQuery('#<?php echo $form_id; ?>').offset().top + jQuery('#<?php echo $form_id; ?>').height())) {
+          spider_page_<?php echo $current_view; ?>('', <?php echo $page_number; ?>, 1, true);
+          return false;
+        }
+      }
 		  jQuery(document).ready(function () {
-			jQuery(window).on("scroll", function() {
-			  if (jQuery(document).scrollTop() + jQuery(window).height() > (jQuery('#<?php echo $form_id; ?>').offset().top + jQuery('#<?php echo $form_id; ?>').height())) {
-				spider_page_<?php echo $current_view; ?>('', <?php echo $page_number; ?>, 1, true);
-				return false;
-			  }
-			});
+			jQuery(window).on("scroll", bwg_scroll_load_action );
 		  });
 		</script>
       <?php
