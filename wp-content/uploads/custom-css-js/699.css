@@ -118,8 +118,24 @@ font-weight: normal !important;
     margin-right: 15px;
 }
 
- 
+ /*Event*/
+.tribe-events-page-title {
+color:#777;
+}
 
+.tribe-events-list-separator-month span {
+background-color:#f5f5f5;
+  color:#777;
+}
+
+.tribe-events-list-widget .tribe-events-list-widget-events,
+.tribe-events-list-widget .tribe-events-list-widget-events h4{
+padding:0;
+}
+
+.tribe-events-list-widget .tribe-events-list-widget-events .tribe-events-featured-image {
+padding-left:0;
+}
 
 @media (max-width: 1146px) {
 .headerName {
