@@ -76,7 +76,7 @@ if (have_posts()) {
                 <div class="medium-6 columns"  style="padding-left: 0;">
 			    <header class="entry-header">
 
-				    <h2 class="entry-title"><?php the_title(); ?></h2>
+				    <!--<h2 class="entry-title"><?php the_title(); ?></h2>-->
 
 				    <?php if ($show_post_metadata !== '0') { ?>
 

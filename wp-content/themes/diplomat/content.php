@@ -42,7 +42,8 @@ if (have_posts()) {
             <div class="large-8 medium-6 columns">
 			<?php if ($post_pod_type !== 'quote') { ?>
 
-				<header class="entry-header">
+
+                <header class="entry-header">
 
 					<h2 class="entry-title" style="line-height: 110%;"><a href="<?php echo esc_url(get_permalink()); ?>"><?php the_title(); ?></a></h2>
 
