@@ -45,7 +45,7 @@ if (!$logo_type && $logo_text) {
             src="<?php /**
  * if (ICL_LANGUAGE_CODE=='en') {
  */
-                echo site_url('wp-content/uploads/2018/09/logo-22.png');
+                echo site_url('wp-content/uploads/2018/10/logo-23.png');
             /**
  * }
  *             elseif (ICL_LANGUAGE_CODE=='ru'){

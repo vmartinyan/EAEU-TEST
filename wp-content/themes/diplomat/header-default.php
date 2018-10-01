@@ -70,11 +70,11 @@ if ($header_type === 'alternate') {
 
 			<div class="large-12 columns">
 				<div class="header-middle-entry">
-                    <div class="headerLogo large-3 columns">
+                    <div class="headerLogo ">
 					   <?php get_template_part('header', 'logo'); ?>
                     </div>
                     <!-- for Adding the Site name-->
-                    <div class="headerNameSection large-9 columns">
+                    <div class="headerNameSection ">
                         <h1 class="headerName">
                             <?php if(ICL_LANGUAGE_CODE=='en'): ?>
                             Regulatory Framework to Promote Energy Efficiency in Countries of the Eurasian Economic Union

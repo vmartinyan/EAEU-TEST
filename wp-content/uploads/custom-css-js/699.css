@@ -26,6 +26,8 @@ background-color: transparent;
   font-size: 1rem;
 }
 
+/* Header Section */
+
 .headerLogo, .headerNameSection {
     display: block;
     float: left;
@@ -34,15 +36,17 @@ padding-left:0;
 
 .headerNameSection {
     padding: 1.8rem 0;
+    width: 78%;
+    margin-left: 20px;
 }
 
 .headerName {
   	margin:0;
     color: #fff;
-    font-size: 1.4rem;
+    font-size: 1.6rem;
     text-align: left;
     font-weight: 500;
-    line-height:2rem;
+    line-height:2.4rem;
     font-family:  Tahoma  !important;
 }
 
@@ -62,6 +66,8 @@ padding-left:0;
 #responsive-nav-button {
     font-family: "fontello" !important;
 }
+
+/* End of Header Section */
 
 /*Recent posts widget*/
 .rpwwt-widget ul li {
@@ -141,15 +147,23 @@ padding-left:0;
 .headerName {
     font-size: 19px;
 }
+  .headerNameSection {
+    width: 70%;
+    padding: 15px;
+    margin-left: 0;
+}
+  .headerName {
+        line-height: 2.2rem;
+  }
 }
 
-@media (max-width: 1024px) {
-.headerNameSection {
-    padding: 0;
-}
-  }
+
 
 @media (max-width: 768px) {
+  .headerNameSection {
+    width: 100%;
+
+}
     .headerLogo 
     {
         float: none;
