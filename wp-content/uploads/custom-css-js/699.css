@@ -9,7 +9,7 @@
 .page-title {
     position: relative;
     margin-bottom: 2rem;
-    text-transform: uppercase;
+    text-transform: none;
     padding-bottom: 0;
    	border: none;
 }
