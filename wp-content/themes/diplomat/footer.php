@@ -187,7 +187,12 @@ if (is_home()) {
 
 			<div class="large-6 columns">
 				<div class="copyright">
-					<?php echo wp_kses( TMM::get_option("copyright_text"), 'default'); ?>
+                    <?php if(ICL_LANGUAGE_CODE=='en'): ?>
+                            <?php echo wp_kses( TMM::get_option("copyright_text"), 'default'); ?>
+                            <?php elseif(ICL_LANGUAGE_CODE=='ru'): ?>
+                            &copy; <?php echo date("Y"); ?>. Энергоэффективность в ЕАЭС. Все права защищены
+                            <?php endif;?>
+					
 				</div><!--/ .copyright-->
 			</div>
 
